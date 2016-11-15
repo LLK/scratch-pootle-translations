@@ -1848,25 +1848,25 @@ msgid "random position"
 msgstr "ランダムな場所"
 
 msgid "Cloud list (stored on server)"
-msgstr ""
+msgstr "クラウドリスト (サーバーに保存)"
 
 msgid "Dance"
-msgstr ""
+msgstr "ダンス"
 
 msgid "Dress-Up"
-msgstr ""
+msgstr "着飾る"
 
 msgid "Music"
-msgstr ""
+msgstr "音楽"
 
 msgid "Musical Notes"
-msgstr ""
+msgstr "音楽の音符"
 
 msgid "My Class"
-msgstr ""
+msgstr "私のクラス"
 
 msgid "My Classes"
-msgstr ""
+msgstr "私のクラス"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

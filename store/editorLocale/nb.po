@@ -1878,9 +1878,8 @@ msgstr "Nettliste (lagret på nettstedet til Scratch)"
 msgid "Dance"
 msgstr "Dans"
 
-#, fuzzy
 msgid "Dress-Up"
-msgstr "Nye klær"
+msgstr "Pyntedukke"
 
 msgid "Music"
 msgstr "Musikk"

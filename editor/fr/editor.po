@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1475242036.000000\n"
+"X-POOTLE-MTIME: 1475242037.000000\n"
 
 msgid "10 ^"
 msgstr "10^"

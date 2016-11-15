@@ -1403,7 +1403,7 @@ msgid "Replace existing project"
 msgstr ""
 
 msgid "requires sign in"
-msgstr ""
+msgstr "bejelentkezést igényel"
 
 msgid "Reshape"
 msgstr "Átformálás"
@@ -1979,16 +1979,16 @@ msgid "Cloud list (stored on server)"
 msgstr ""
 
 msgid "Dance"
-msgstr ""
+msgstr "Tánc"
 
 msgid "Dress-Up"
-msgstr ""
+msgstr "Felöltöztet"
 
 msgid "Music"
-msgstr ""
+msgstr "Zene"
 
 msgid "Musical Notes"
-msgstr ""
+msgstr "Hangjegyek"
 
 msgid "My Class"
 msgstr ""

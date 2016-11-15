@@ -492,13 +492,13 @@ msgid ""
 "\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Πληροφορίες σχετικά με τις μεταβλητές Cloud</b><br>&nbsp;<br>Προς το "
-"παρόν, μόνο οι αριθμητικές μεταβλητές Cloud υποστηρίζονται.<br> Οι χώροι "
-"συνομιλίας (Chat room) μέσω των μεταβλητών Cloud δεν επιτρέπονται και θα "
-"διαγράφονται.<br>Για περισσότερες πληροφορίες, <a href= target=>δείτε τις "
-"Συχνές Ερωτήσεις για τα δεδομένα Cloud.</a>"
+"παρόν, υποστηρίζονται μόνο οι αριθμοί.<br> Τα δωμάτια συνομιλίας δεν "
+"επιτρέπονται και θα διαγράφονται.<br>Για περισσότερες πληροφορίες, <a href="
+"\"/help/faq/#clouddata\" target=\"_blank\">δείτε τις Συχνές Ερωτήσεις για τα "
+"δεδομένα cloud.</a>"
 
 msgid "A connected"
-msgstr "το Α είναι συνδεδεμένο"
+msgstr "το Α έχει συνδεθεί"
 
 msgid "a copy of the project file on your computer."
 msgstr "Ένα αντίγραφο του έργου στον υπολογιστή σας."
@@ -552,7 +552,7 @@ msgid "all around"
 msgstr "ελεύθερο"
 
 msgid "Animal"
-msgstr "Ζώα"
+msgstr "Ζώο"
 
 msgid "Animals"
 msgstr "Ζώα"
@@ -632,7 +632,7 @@ msgid "Bring to front"
 msgstr "Μετακίνηση στην μπροστινή στρώση"
 
 msgid "Broadcast"
-msgstr "Μετάδωση"
+msgstr "Μετάδοση"
 
 msgid "Brush"
 msgstr "Πινέλο"
@@ -689,16 +689,16 @@ msgid "Choir"
 msgstr "Χορωδία "
 
 msgid "Choose backdrop from library"
-msgstr "Διαλέξτε ένα υπόβαθρο από την βιβλιοθήκη"
+msgstr "Διαλέξτε ένα υπόβαθρο από τη βιβλιοθήκη"
 
 msgid "Choose costume from library"
 msgstr "Διαλέξτε μια ενδυμασία από την βιβλιοθήκη"
 
 msgid "Choose sound from library"
-msgstr "Διαλέξτε έναν ήχο από την βιβλιοθήκη"
+msgstr "Διαλέξτε έναν ήχο από τη βιβλιοθήκη"
 
 msgid "Choose sprite from library"
-msgstr "Διαλέξτε ένα αντικείμενο από την βιβλιοθήκη"
+msgstr "Διαλέξτε ένα αντικείμενο από τη βιβλιοθήκη"
 
 msgid "Circle"
 msgstr "Κύκλος"
@@ -735,7 +735,7 @@ msgid "Cloud data"
 msgstr "Δεδομένα Cloud"
 
 msgid "Cloud variable (stored on server)"
-msgstr ""
+msgstr "μεταβλητή Cloud (αποθηκευμένα στον server)"
 
 msgid "color"
 msgstr "χρώματος"
@@ -1836,8 +1836,8 @@ msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
 msgstr ""
-"Είναι διαθέσιμη μία ενημερωμένη έκδοση του επεξεργαστή χωρίς σύνδεση του "
-"Scratch στον ιστότοπο του Scratch."
+"Μια ενημερωμένη έκδοση του συντάκτη Scratch χωρίς Διαδίκτυο είναι διαθέσιμη "
+"στον ιστότοπο της Scratch."
 
 # Offline editor only
 msgid "Could not retrieve update location from server."
@@ -1944,7 +1944,7 @@ msgid "random position"
 msgstr ""
 
 msgid "Cloud list (stored on server)"
-msgstr ""
+msgstr "κατάλογος Cloud (αποθηκευμένα στον server)"
 
 msgid "Dance"
 msgstr ""

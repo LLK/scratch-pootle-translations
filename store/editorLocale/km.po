@@ -537,9 +537,8 @@ msgstr ""
 msgid "About PicoBoard extension..."
 msgstr ""
 
-#, fuzzy
 msgid "abs"
-msgstr "ぜったいち"
+msgstr "abs"
 
 msgid "Account settings"
 msgstr ""
@@ -633,15 +632,16 @@ msgstr ""
 msgid "Bass Drum"
 msgstr ""
 
-#, fuzzy
 msgid "Bassoon"
-msgstr "バスーン"
+msgstr "ប៉ិ"
 
 msgid ""
 "Because you have a new Scratch account, any changes to cloud data won't be "
 "saved yet. Keep participating on the site you'll be able to use cloud data "
 "soon!"
 msgstr ""
+"ដោយសារគណនីScratchថ្មីមួយ រាល់បម្លាស់ប្ដូរទិន្នន័យcloudណាមួយ និងមិនត្រូវបានរក្សាទុកទេ។ "
+"សូមរក្សាការចូលរួមលើសៃថ៍ អ្នកនឹងអាចប្រើប្រាស់ទិន្នន័យcloudបានឆាប់ៗ!"
 
 msgid "Bitmap"
 msgstr ""
@@ -679,7 +679,6 @@ msgstr ""
 msgid "C connected"
 msgstr ""
 
-#, fuzzy
 msgid "Cabasa"
 msgstr "ឧបករណ៍កាបាសា"
 
@@ -737,13 +736,11 @@ msgstr ""
 msgid "City"
 msgstr ""
 
-#, fuzzy
 msgid "Clarinet"
-msgstr "クラリネット"
+msgstr "ក្លារីណែត"
 
-#, fuzzy
 msgid "Claves"
-msgstr "クラーベ"
+msgstr "គ្រឿងតន្ត្រីក្លេវ"
 
 msgid "clean up"
 msgstr "សម្អាត"
@@ -760,9 +757,8 @@ msgstr ""
 msgid "Close"
 msgstr ""
 
-#, fuzzy
 msgid "Closed Hi-Hat"
-msgstr "とじたハイハット"
+msgstr "ឧបករណ៍តន្ត្រីហាយ ហាត់"
 
 msgid "Cloud data"
 msgstr ""
@@ -822,9 +818,8 @@ msgstr ""
 msgid "Could not retrieve new application from server."
 msgstr ""
 
-#, fuzzy
 msgid "Cowbell"
-msgstr "カウベル"
+msgstr "កណ្ដឹងគោ"
 
 msgid "Crash Cymbal"
 msgstr ""
@@ -969,7 +964,7 @@ msgid "Fill with color"
 msgstr ""
 
 msgid "fisheye"
-msgstr ""
+msgstr "ភ្នែកត្រី"
 
 msgid "Flip left-right"
 msgstr ""

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-29 13:54+0000\n"
-"PO-Revision-Date: 2016-03-31 21:35+0000\n"
-"Last-Translator: applesauceepicness <hs.skiba@yahoo.com>\n"
+"PO-Revision-Date: 2016-10-21 12:49+0000\n"
+"Last-Translator: popek069 <popek069@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1459460135.000000\n"
+"X-POOTLE-MTIME: 1477054181.000000\n"
 
 #: commands-online.txt:1
 #: commands-offline.txt:1
@@ -735,7 +735,7 @@ msgstr "kiedy %m.triggerSensor > %n"
 #: commands-online.txt:281
 #: commands-offline.txt:281
 msgid "when @greenFlag clicked"
-msgstr "kiedy @greenFlag"
+msgstr "kiedy kliknięto @greenFlag"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 #: commands-online.txt:283

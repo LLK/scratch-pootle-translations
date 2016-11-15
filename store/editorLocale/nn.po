@@ -952,7 +952,7 @@ msgid "Group"
 msgstr "Lag gruppe"
 
 msgid "Grow"
-msgstr "Gjer større"
+msgstr "Veks"
 
 # https://nn.wikipedia.org/wiki/Guiro
 msgid "Guiro"
@@ -1902,7 +1902,7 @@ msgid "Music"
 msgstr "Musikk"
 
 msgid "Musical Notes"
-msgstr "Notar"
+msgstr "Musikknotar"
 
 msgid "My Class"
 msgstr "Klassen min"

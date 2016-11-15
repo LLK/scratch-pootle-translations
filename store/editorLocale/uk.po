@@ -1861,34 +1861,34 @@ msgid "any"
 msgstr "будь-яке"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "Записати відео проекту"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "Вилучити тло"
 
 msgid "random position"
-msgstr ""
+msgstr "випадкова позиція"
 
 msgid "Cloud list (stored on server)"
-msgstr ""
+msgstr "\"Хмарний\" список (зберігається на сервері)"
 
 msgid "Dance"
-msgstr ""
+msgstr "Танцювальна музика"
 
 msgid "Dress-Up"
-msgstr ""
+msgstr "Одягти"
 
 msgid "Music"
-msgstr ""
+msgstr "Музика"
 
 msgid "Musical Notes"
-msgstr ""
+msgstr "Музичні ноти"
 
 msgid "My Class"
-msgstr ""
+msgstr "Мій клас"
 
 msgid "My Classes"
-msgstr ""
+msgstr "Мої класи"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
