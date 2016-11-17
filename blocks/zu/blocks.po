@@ -1,0 +1,502 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-08 20:44+0100\n"
+"PO-Revision-Date: 2016-11-05 07:55+0000\n"
+"Last-Translator: CodeMakers <info@codemakers.org.za>\n"
+"Language-Team: \n"
+"Language: zu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1478332533.000000\n"
+
+msgid "%b and %b"
+msgstr "%b futhi %b"
+
+msgid "%b or %b"
+msgstr "%b noma %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.attibute ye %m.spriteOrStage"
+
+msgid "%m.list contains %s?"
+msgstr "%m.list kukuphatheleni %s?"
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp ye %n"
+
+msgid "%m.sensor sensor value"
+msgstr "%m.sensor uzwe isisindo"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "Control"
+msgstr "Lawula"
+
+msgid "Data"
+msgstr "Idatha"
+
+msgid "Events"
+msgstr "Izehlakalo"
+
+msgid "Looks"
+msgstr "Ukubukeka"
+
+msgid "More Blocks"
+msgstr "Amanye Amabhulokisi"
+
+msgid "Motion"
+msgstr "Ukunyakaza"
+
+msgid "Operators"
+msgstr "Abalawuli"
+
+msgid "Pen"
+msgstr "Ipeni"
+
+msgid "Sensing"
+msgstr "Ukuzwa"
+
+msgid "Sound"
+msgstr "Umsindo"
+
+msgid "add %s to %m.list"
+msgstr "engeza %s ku %m.list"
+
+msgid "answer"
+msgstr "phendula"
+
+msgid "ask %s and wait"
+msgstr "buza %s futhi linda"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop #"
+msgstr "indawo #"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop name"
+msgstr "igama lendawo"
+
+msgid "broadcast %m.broadcast"
+msgstr "sakaza %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "sakaza %m.broadcast futhi linda"
+
+msgid "change %m.effect effect by %n"
+msgstr "shintsha %m.effect umthelela ngokuthi %n"
+
+msgid "change %m.var by %n"
+msgstr "shintsha %m.var ngokuthi %n"
+
+msgid "change pen color by %n"
+msgstr "shintsha umbala we peni ngokuthi %n"
+
+msgid "change pen shade by %n"
+msgstr "shintsha isithunzi se peni ngokuthi %n"
+
+msgid "change pen size by %n"
+msgstr "shintsha usayizi wepeni ngokuthi %n"
+
+msgid "change size by %n"
+msgstr "shintsha usayizi ngokuthi %n"
+
+msgid "change tempo by %n"
+msgstr "shintsa indlela yezinsimbi ngokuthi %n"
+
+msgid "change volume by %n"
+msgstr "shintsha umsindo ngokuthi %n"
+
+msgid "change x by %n"
+msgstr "shintsha u-x ngokuthi %n"
+
+msgid "change y by %n"
+msgstr "shintsha u-y ngokuthi %n"
+
+msgid "clear"
+msgstr "susa"
+
+msgid "clear graphic effects"
+msgstr "susa amagrafikh athintekayo"
+
+msgid "color %c is touching %c?"
+msgstr "umbala %c uyathinta %c?"
+
+msgid "costume #"
+msgstr "impahla #"
+
+msgid "create clone of %m.spriteOnly"
+msgstr "akha umfanisi ye %m.spriteOnly"
+
+msgid "current %m.timeAndDate"
+msgstr "okwamanje %m.timeAndDate"
+
+msgid "days since 2000"
+msgstr "izinsuku kusukela 2000"
+
+msgid "define"
+msgstr "chaza"
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "susa %d.listDeleteItem ye %m.list"
+
+msgid "delete this clone"
+msgstr "khipa umfanisi"
+
+msgid "direction"
+msgstr "indlela"
+
+msgid "distance"
+msgstr "ibanga"
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "ibanga eliya %m.spriteOrMouse"
+
+msgid "else"
+msgstr "okunye"
+
+msgid "forever"
+msgstr "ingunaphakade"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "ukushibilika %n umzuzu kwi x:%n y%n"
+
+msgid "go back %n layers"
+msgstr "buyela emuva %n ngokwahlukana"
+
+msgid "go to %m.location"
+msgstr "hamba uye %m.location"
+
+msgid "go to front"
+msgstr "hamba uye phambili"
+
+msgid "go to x:%n y:%n"
+msgstr "hamba uye x:%n y:%n"
+
+msgid "hide"
+msgstr "casha"
+
+msgid "hide list %m.list"
+msgstr "fihla uhla %m.list"
+
+msgid "hide variable %m.var"
+msgstr "fihla i-variable %m.var"
+
+msgid "if %b then"
+msgstr "uma %b bese"
+
+msgid "if on edge, bounce"
+msgstr "uma isenigcupheni, gxuma"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "faka %s ku %d.listItem ye %m.list"
+
+msgid "item %d.listItem of %m.list"
+msgstr "into %d.listItem ye %m.list"
+
+msgid "join %s %s"
+msgstr "hlanganisa %s %s"
+
+msgid "key %m.key pressed?"
+msgstr "ukhiye %m.key ucindezelwe?"
+
+msgid "length of %m.list"
+msgstr "ubude be %m.list"
+
+msgid "length of %s"
+msgstr "ubude be %s"
+
+msgid "letter %n of %s"
+msgstr "inhlamvu %n ye %s"
+
+msgid "loudness"
+msgstr "umsindo omkhulu"
+
+msgid "mouse down?"
+msgstr "igundane phansi?"
+
+msgid "mouse x"
+msgstr "igundane x"
+
+msgid "mouse y"
+msgstr "igundane y"
+
+msgid "move %n steps"
+msgstr "hlehlisa %n izitebhisi"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "next backdrop"
+msgstr "indawo elandelayo"
+
+msgid "next costume"
+msgstr "impahla elandelayo"
+
+msgid "not %b"
+msgstr "akunjalo %b"
+
+msgid "pen down"
+msgstr "ipeni phansi"
+
+msgid "pen up"
+msgstr "ipeni phezulu"
+
+msgid "pick random %n to %n"
+msgstr "khetha unganaki %n uku %n"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "dlala idilamu %d.drum yo %n msindo"
+
+msgid "play note %d.note for %n beats"
+msgstr "dlala uhlamvu %d.drum yo %n lomsindo"
+
+msgid "play sound %m.sound"
+msgstr "dlala umsindo %m.sound"
+
+msgid "play sound %m.sound until done"
+msgstr "dlala umsindo %m.sound uze uqede"
+
+msgid "point in direction %d.direction"
+msgstr "khomba ngasendleleni %d.direction"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "khomba ubhekise %m.spriteOrMouse"
+
+msgid "repeat %n"
+msgstr "phinda %n"
+
+msgid "repeat until %b"
+msgstr "phinda kuze %b"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "buyisela into %d.listItem ye %m.list nge %s"
+
+msgid "reset timer"
+msgstr "ngifaka iwashi elicushiwe"
+
+msgid "rest for %n beats"
+msgstr "yehlisa ngomsindo %n"
+
+msgid "round %n"
+msgstr "rawunda %n"
+
+msgid "say %s"
+msgstr "isho %s"
+
+msgid "say %s for %n secs"
+msgstr "isho %s ye %n umzuzu"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "izwa %m.booleanSensor?"
+
+msgid "set %m.effect effect to %n"
+msgstr "lungisa %m.effect umthelela uwuyise %n"
+
+msgid "set %m.motor power to %n"
+msgstr "lungisa %m.motor amandla uwayise %n"
+
+msgid "set %m.motor2 direction to %m.motorDirection"
+msgstr "lungisa %m.motor2 indlela eya %m.motorDirection"
+
+msgid "set %m.var to %s"
+msgstr "lungisa %m.var ukuze %s"
+
+msgid "set instrument to %d.instrument"
+msgstr "lungisa izinsimbi ukuze %d.instrument"
+
+msgid "set pen color to %c"
+msgstr "lungisa umbala we peni ukuze %c"
+
+msgid "set pen color to %n"
+msgstr "lungisa umbala we peni ukuze %n"
+
+msgid "set pen shade to %n"
+msgstr "lungisa isithunzi se peni ukuze %n"
+
+msgid "set pen size to %n"
+msgstr "lungisa isisindo se peni ukuze %n"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr "lungisa isitayela ejikeleza ngaso %m.rotationStyle"
+
+msgid "set size to %n%"
+msgstr "lungisa isisindo ukuze %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "lungisa indlela yezinsimbi yoku dlala %n bpm"
+
+msgid "set video transparency to %n%"
+msgstr "lungisa ukungabonakali kwe siqophamazwi %n%"
+
+msgid "set volume to %n%"
+msgstr "lungisa inani lo msindo ukuze %n%"
+
+msgid "set x to %n"
+msgstr "lungisa u-x ukuze %n"
+
+msgid "set y to %n"
+msgstr "lungisa u-y ukuze %n"
+
+msgid "show"
+msgstr "khombisa"
+
+msgid "show list %m.list"
+msgstr "khombisa uhlu %m.list"
+
+msgid "show variable %m.var"
+msgstr "tshengisa i-variable %m.var"
+
+msgid "size"
+msgstr "isisindo"
+
+msgid "stamp"
+msgstr "isitembu"
+
+msgid "stop %m.stop"
+msgstr "ima %m.stop"
+
+msgid "stop all sounds"
+msgstr "misa yonke imisindo"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop"
+msgstr "shintsha indawo ukuze %m.backdrop"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr "shintsha indawo mase %m.backdrop futhi uyalinda"
+
+msgid "switch costume to %m.costume"
+msgstr "shintsha impahla ukuze %m.costume"
+
+msgid "tempo"
+msgstr "izinsimbi"
+
+msgid "think %s"
+msgstr "cabanga %s"
+
+msgid "think %s for %n secs"
+msgstr "cabangela %s ye %n umzuzu"
+
+msgid "tilt"
+msgstr "phendula"
+
+msgid "timer"
+msgstr "iwashi elicushiwe"
+
+msgid "touching %m.touching?"
+msgstr "kuyathinta %m.touching?"
+
+msgid "touching color %c?"
+msgstr "thinta umbala %c?"
+
+msgid "turn %m.motor off"
+msgstr "cisha %m.motor"
+
+msgid "turn %m.motor on"
+msgstr "vula %m.motor"
+
+msgid "turn %m.motor on for %n secs"
+msgstr "vula %m.motor kwi %n umzuzu"
+
+msgid "turn @turnLeft %n degrees"
+msgstr "phendula @turnLeft %n wehlise"
+
+msgid "turn @turnRight %n degrees"
+msgstr "phendula @turnRight %n wehlise"
+
+msgid "turn video %m.videoState"
+msgstr "vula umqophiso %m.videoState"
+
+msgid "username"
+msgstr "igama elisebenzile"
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr "umbukiso %m.videoMotionType kwi %m.stageOrThis"
+
+msgid "volume"
+msgstr "umsindo"
+
+msgid "wait %n secs"
+msgstr "linda %n umzuzu"
+
+msgid "wait until %b"
+msgstr "linda kuze %b"
+
+msgid "when %m.booleanSensor"
+msgstr "nini %m.booleanSensor"
+
+msgid "when %m.key key pressed"
+msgstr "nini sekucindezelwe ukhiye %m.key"
+
+msgid "when %m.sensor %m.lessMore %n"
+msgstr "nini %m.sensor %m.lessMore %n"
+
+msgid "when %m.triggerSensor > %n"
+msgstr "nini %m.triggerSensor > %n"
+
+msgid "when @greenFlag clicked"
+msgstr "nini @greenFlag liciphiziwe"
+
+msgid "when I receive %m.broadcast"
+msgstr "nini ngikuthole %m.broadcast"
+
+msgid "when I start as a clone"
+msgstr "nini sengiqala ncamashi"
+
+msgid "when Stage clicked"
+msgstr "nini Indawo iciphiziwe"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "when backdrop switches to %m.backdrop"
+msgstr "nini indawo ishintshela kwi %m.backdrop"
+
+msgid "when distance %m.lessMore %n"
+msgstr "nini ibanga %m.lessMore %n"
+
+msgid "when this sprite clicked"
+msgstr "nini lesi umlingisi ciphiza"
+
+msgid "when tilt %m.eNe %n"
+msgstr "nini phendula %m.eNe %n"
+
+msgid "x position"
+msgstr "x indlela yokuma"
+
+msgid "y position"
+msgstr "y indlela yokuma"
+
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "isiZulu"
+
+msgid "%m.list contains %s"
+msgstr "%m.list ikuphatheleni %s"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "iya ku %m.spriteOrMouse"
+
+msgid "set motor direction %m.motorDirection"
+msgstr "lungisa ibanga lemoto %m.motorDirection"
+
+msgid "set motor power %n"
+msgstr "lungisa amandla emoto %n"
+
+msgid "turn motor off"
+msgstr "cisha imoto"
+
+msgid "turn motor on"
+msgstr "vula imoto"
+
+msgid "turn motor on for %n secs"
+msgstr "vula imoto yo %n umzuzu"
+
+msgid "when distance < %n"
+msgstr "nini ibanga < %n"
+
+msgid "when tilt = %n"
+msgstr "nini phendula = %n"
