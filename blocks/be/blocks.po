@@ -1,0 +1,470 @@
+#. #-#-#-#-#  commands-online.pot (PACKAGE VERSION)  #-#-#-#-#
+#. extracted from commands-online.txt
+#. #-#-#-#-#  commands-offline.pot (PACKAGE VERSION)  #-#-#-#-#
+#. extracted from commands-offline.txt
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-23 20:02+0100\n"
+"PO-Revision-Date: 2016-11-19 11:09+0000\n"
+"Last-Translator: julcik <julciks@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: be\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1479553794.000000\n"
+
+msgid "%b and %b"
+msgstr "%b і %b"
+
+msgid "%b or %b"
+msgstr "%b ці %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.attribute ад %m.spriteOrStage"
+
+msgid "%m.list contains %s?"
+msgstr "%m.list змяшчае %s?"
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp ад %n"
+
+msgid "%m.sensor sensor value"
+msgstr "значэнне датчыка %m.sensor"
+
+msgid "%n mod %n"
+msgstr "астатак ад дзялення %n на %n"
+
+msgid "Control"
+msgstr "Кіраванне"
+
+msgid "Data"
+msgstr "Дадзеныя"
+
+msgid "Events"
+msgstr "Падзеі"
+
+msgid "Looks"
+msgstr "Выгляд"
+
+msgid "More Blocks"
+msgstr "Уласныя блокі"
+
+msgid "Motion"
+msgstr "Рух"
+
+msgid "Operators"
+msgstr "Аператары"
+
+msgid "Pen"
+msgstr "Аловак"
+
+msgid "Sensing"
+msgstr "Сэнсары"
+
+msgid "Sound"
+msgstr "Гук"
+
+msgid "add %s to %m.list"
+msgstr "дадаць %s да %m.list"
+
+msgid "answer"
+msgstr "адказ"
+
+msgid "ask %s and wait"
+msgstr "спытаць %s і чакаць"
+
+msgid "backdrop #"
+msgstr "фон #"
+
+msgid "backdrop name"
+msgstr "імя фону"
+
+msgid "broadcast %m.broadcast"
+msgstr "разаслаць %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "разаслаць %m.broadcast і чакаць"
+
+msgid "change %m.effect effect by %n"
+msgstr "змяніць %m.effect эфект на %n"
+
+msgid "change %m.var by %n"
+msgstr "змяніць %m.var на %n"
+
+msgid "change pen color by %n"
+msgstr "змяніць колер алоўка на %n"
+
+msgid "change pen shade by %n"
+msgstr "змяніць цень алоўка на %n"
+
+msgid "change pen size by %n"
+msgstr "змяніць памер алоўка на %n"
+
+msgid "change size by %n"
+msgstr "змяніць памер на %n"
+
+msgid "change tempo by %n"
+msgstr "змяніць тэмп на %n"
+
+msgid "change volume by %n"
+msgstr "змяніць гучнасць на %n"
+
+msgid "change x by %n"
+msgstr "змяніць x на %n"
+
+msgid "change y by %n"
+msgstr "змяніць y на %n"
+
+msgid "clear"
+msgstr "ачысціць"
+
+msgid "clear graphic effects"
+msgstr "прыбраць графічныя эфекты"
+
+msgid "color %c is touching %c?"
+msgstr "колер %c кранаецца %c?"
+
+msgid "costume #"
+msgstr "касцюм #"
+
+msgid "create clone of %m.spriteOnly"
+msgstr "стварыць клона %m.spriteOnly"
+
+msgid "current %m.timeAndDate"
+msgstr "бягучыя %m.timeAndDate"
+
+msgid "days since 2000"
+msgstr "дзён ад 2000"
+
+msgid "define"
+msgstr "вызначыць"
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "выдаліць %d.listDeleteItem з %m.list"
+
+msgid "delete this clone"
+msgstr "выдаліць гэтага клона"
+
+msgid "direction"
+msgstr "кірунак"
+
+msgid "distance"
+msgstr "адлегласць"
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "адлегласць да %m.spriteOrMouse"
+
+msgid "else"
+msgstr "інакш"
+
+msgid "forever"
+msgstr "заўжды"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "плысці %n секунд да x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "перайсці назад на %n слаёў"
+
+msgid "go to %m.location"
+msgstr "перайсці ў %m.location"
+
+msgid "go to front"
+msgstr "перайсці ў верхні слой"
+
+msgid "go to x:%n y:%n"
+msgstr "перайсці ў x:%n y:%n"
+
+msgid "hide"
+msgstr "схавацца"
+
+msgid "hide list %m.list"
+msgstr "схваць спіс %m.list"
+
+msgid "hide variable %m.var"
+msgstr "схаваць пераменную %m.var"
+
+msgid "if %b then"
+msgstr "калі %b , то"
+
+msgid "if on edge, bounce"
+msgstr "калі скраю, адштурхнуцца"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "уставіць %s у %d.listItem з %m.list"
+
+msgid "item %d.listItem of %m.list"
+msgstr "элемент %d.listItem з %m.list"
+
+msgid "join %s %s"
+msgstr "аб'яднаць %s і %s"
+
+msgid "key %m.key pressed?"
+msgstr "клавіша %m.key націснутая?"
+
+msgid "length of %m.list"
+msgstr "даўжыня спісу %m.list"
+
+msgid "length of %s"
+msgstr "даўжыня %s"
+
+msgid "letter %n of %s"
+msgstr "літара %n у %s"
+
+msgid "loudness"
+msgstr "гучнасць"
+
+msgid "mouse down?"
+msgstr "мышка націснутая?"
+
+msgid "mouse x"
+msgstr "мышка па x"
+
+msgid "mouse y"
+msgstr "мышка па y"
+
+msgid "move %n steps"
+msgstr "рухацца %n крокаў"
+
+msgid "next backdrop"
+msgstr "наступны фон"
+
+msgid "next costume"
+msgstr "наступны касцюм"
+
+msgid "not %b"
+msgstr "не %b"
+
+msgid "pen down"
+msgstr "апусціць аловак"
+
+msgid "pen up"
+msgstr "падняць аловак"
+
+msgid "pick random %n to %n"
+msgstr "выдаць выпадковы лік ад %n да %n"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "барабану %d.drum іграць %n тактаў"
+
+msgid "play note %d.note for %n beats"
+msgstr "іграць ноту %d.note %n тактаў"
+
+msgid "play sound %m.sound"
+msgstr "іграць гук %m.sound"
+
+msgid "play sound %m.sound until done"
+msgstr "іграць гук %m.sound да канца"
+
+msgid "point in direction %d.direction"
+msgstr "павярнуць у кірунку %d.direction"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "павярнуцца да %m.spriteOrMouse"
+
+msgid "repeat %n"
+msgstr "паўтарыць %n"
+
+msgid "repeat until %b"
+msgstr "паўтараць, пакуль не %b"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "замяніць элемент %d.listItem у %m.list на %s"
+
+msgid "reset timer"
+msgstr "перазапусціць таймер"
+
+msgid "rest for %n beats"
+msgstr "пачакаць %n тактаў"
+
+msgid "round %n"
+msgstr "акругліць %n"
+
+msgid "say %s"
+msgstr "сказаць %s"
+
+msgid "say %s for %n secs"
+msgstr "казаць %s на працягу %n секунд"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "сэнсар %m.booleanSensor?"
+
+msgid "set %m.effect effect to %n"
+msgstr "устанавіць эфект %m.effect у значэнне %n"
+
+msgid "set %m.motor power to %n"
+msgstr "задаць магутнасць %m.motor значэнне %n"
+
+msgid "set %m.motor2 direction to %m.motorDirection"
+msgstr "задаць для %m.motor2 кірунак да %m.motorDirection"
+
+msgid "set %m.var to %s"
+msgstr "задаць %m.var значэнне %s"
+
+msgid "set instrument to %d.instrument"
+msgstr "выбраць інструмент %d.instrument"
+
+msgid "set pen color to %c"
+msgstr "устанавіць колер алоўка %c "
+
+msgid "set pen color to %n"
+msgstr "устанавіць колер алоўка %n"
+
+msgid "set pen shade to %n"
+msgstr "устанавіць цень алоўка %n"
+
+msgid "set pen size to %n"
+msgstr "устанавіць памер алоўка %n"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr "стыль вярчэння %m.rotationStyle"
+
+msgid "set size to %n%"
+msgstr "устанавіць памер %n% "
+
+msgid "set tempo to %n bpm"
+msgstr "устанавіць тэмп %n уд/хв"
+
+msgid "set video transparency to %n%"
+msgstr "устанавіць празрыстасць відэа %n%"
+
+msgid "set volume to %n%"
+msgstr "устанавіць гучнасць %n%"
+
+msgid "set x to %n"
+msgstr "устанавіць x у %n"
+
+msgid "set y to %n"
+msgstr "устанавіць y у %n"
+
+msgid "show"
+msgstr "паказацца"
+
+msgid "show list %m.list"
+msgstr "паказаць спіс %m.list "
+
+msgid "show variable %m.var"
+msgstr "паказаць пераменную %m.var"
+
+msgid "size"
+msgstr "памер"
+
+msgid "stamp"
+msgstr "штамп"
+
+msgid "stop %m.stop"
+msgstr "стоп %m.stop"
+
+msgid "stop all sounds"
+msgstr "спыніць усе гукі"
+
+msgid "switch backdrop to %m.backdrop"
+msgstr "змяніць фон на %m.backdrop"
+
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr "змяніць фон на %m.backdrop і чакаць"
+
+msgid "switch costume to %m.costume"
+msgstr "змяніць касцюм на %m.costume"
+
+msgid "tempo"
+msgstr "тэмп"
+
+msgid "think %s"
+msgstr "думаць %s"
+
+msgid "think %s for %n secs"
+msgstr "думаць %s %n секунд"
+
+msgid "tilt"
+msgstr "нахіл"
+
+msgid "timer"
+msgstr "таймер"
+
+msgid "touching %m.touching?"
+msgstr "дакранаецца %m.touching? "
+
+msgid "touching color %c?"
+msgstr "дакранаецца да колеру %c?"
+
+msgid "turn %m.motor off"
+msgstr "выключыць %m.motor"
+
+msgid "turn %m.motor on"
+msgstr "уключыць %m.motor"
+
+msgid "turn %m.motor on for %n secs"
+msgstr "уключыць %m.motor на %n секунд"
+
+msgid "turn @turnLeft %n degrees"
+msgstr "павярнуць @turnLeft на %n градусаў"
+
+msgid "turn @turnRight %n degrees"
+msgstr "павярнуць @turnRight на %n градусаў"
+
+msgid "turn video %m.videoState"
+msgstr "павярнуць відэа на %m.videoState"
+
+msgid "username"
+msgstr "імя ўдзельніка"
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr "відэа %m.videoMotionType на %m.stageOrThis"
+
+msgid "volume"
+msgstr "гучнасць"
+
+msgid "wait %n secs"
+msgstr "чакаць %n секунд"
+
+msgid "wait until %b"
+msgstr "чакаць да %b"
+
+msgid "when %m.booleanSensor"
+msgstr "датчык %m.booleanSensor"
+
+msgid "when %m.key key pressed"
+msgstr "калі клавіша %m.key націснутая"
+
+msgid "when %m.sensor %m.lessMore %n"
+msgstr "калі %m.sensor %m.lessMore %n"
+
+msgid "when %m.triggerSensor > %n"
+msgstr "калі %m.triggerSensor > %n"
+
+msgid "when @greenFlag clicked"
+msgstr "калі @greenFlag націснуты"
+
+msgid "when I receive %m.broadcast"
+msgstr "калі я атрымаю %m.broadcast"
+
+msgid "when I start as a clone"
+msgstr "калі я пачынаю як клон"
+
+msgid "when Stage clicked"
+msgstr "калі клікнуць па сцэне"
+
+msgid "when backdrop switches to %m.backdrop"
+msgstr "калі фон змяняецца на %m.backdrop"
+
+msgid "when distance %m.lessMore %n"
+msgstr "калі адлегласць %m.lessMore %n"
+
+msgid "when this sprite clicked"
+msgstr "калі спрайт націснуты"
+
+msgid "when tilt %m.eNe %n"
+msgstr "калі нахіл %m.eNe %n"
+
+msgid "x position"
+msgstr "пазіцыя x"
+
+msgid "y position"
+msgstr "пазіцыя y"
