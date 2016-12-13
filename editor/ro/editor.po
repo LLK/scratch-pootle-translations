@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2016-05-26 12:34+0000\n"
-"Last-Translator: Anca-Diana <diacadan@gmail.com>\n"
+"PO-Revision-Date: 2016-11-19 10:13+0000\n"
+"Last-Translator: Mihai <mihai.agape@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2);;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1464266091.000000\n"
+"X-POOTLE-MTIME: 1479550421.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -36,7 +36,7 @@ msgid "a copy of the project file on your computer."
 msgstr "o copie a proiectului pe calculatorul tău."
 
 msgid "A newer version of Scratch is available"
-msgstr "Este disponibilă o nouă versiune Scratch"
+msgstr "O nouă versiune de Scratch este disponibilă"
 
 msgid "About"
 msgstr "Despre"
@@ -60,7 +60,7 @@ msgid "Add"
 msgstr "Adaugă"
 
 msgid "Add an Extension"
-msgstr "Adaugă o Extensie"
+msgstr "Adaugă o extensie"
 
 msgid "Add boolean input:"
 msgstr "Adaugă intrare de tip boolean:"
@@ -87,7 +87,7 @@ msgid "All"
 msgstr "Toate"
 
 msgid "all around"
-msgstr "peste tot"
+msgstr "toate direcțiile"
 
 msgid "all motors"
 msgstr ""
@@ -174,7 +174,7 @@ msgid "brightness"
 msgstr "strălucire"
 
 msgid "Bring to front"
-msgstr "Adu în prim plan"
+msgstr "Vino în față"
 
 msgid "Broadcast"
 msgstr "Difuzare"
@@ -198,7 +198,7 @@ msgid "Cabasa"
 msgstr "Cabasa"
 
 msgid "Camera"
-msgstr "Camera"
+msgstr "Cameră"
 
 msgid "can drag in player:"
 msgstr "poți trage un jucator:"
@@ -284,7 +284,7 @@ msgid "Cloud data"
 msgstr "Informații din cloud"
 
 msgid "Cloud variable (stored on server)"
-msgstr ""
+msgstr "Variabilă Cloud (stocată pe server)"
 
 msgid "color"
 msgstr "culoare"
@@ -296,7 +296,7 @@ msgid "Conga"
 msgstr "Conga"
 
 msgid "Connecting to Cloud data server..."
-msgstr "Se conectează la serverul din Cloud..."
+msgstr "Se conectează la serverul Cloud..."
 
 msgid "Convert to bitmap"
 msgstr "Convertește la bitmap"
@@ -471,7 +471,7 @@ msgid "Extension Problem"
 msgstr ""
 
 msgid "fade in"
-msgstr "estompare in interior"
+msgstr "estompare în interior"
 
 msgid "fade out"
 msgstr "estompare în exterior"
@@ -501,7 +501,7 @@ msgid "Flip up-down"
 msgstr "Oglindește vertical"
 
 msgid "floor"
-msgstr "parte întreagă"
+msgstr "partea întreagă"
 
 msgid "Flute"
 msgstr "Flaut"
@@ -543,10 +543,10 @@ msgid "Hand Clap"
 msgstr "Bătaie din palme"
 
 msgid "Hardware"
-msgstr "Hardware"
+msgstr "Echipament"
 
 msgid "help"
-msgstr "ajutor"
+msgstr "Ajutor"
 
 msgid "Hello!"
 msgstr ""
@@ -565,7 +565,7 @@ msgid "High C"
 msgstr "Do de sus"
 
 msgid "Holiday"
-msgstr "Vacanță"
+msgstr "Vacanta"
 
 msgid "hour"
 msgstr "ora"
@@ -575,7 +575,7 @@ msgstr "Uman"
 
 # 83%
 msgid "import"
-msgstr "importă"
+msgstr "Importă"
 
 msgid "Import"
 msgstr "Importă"
@@ -593,7 +593,7 @@ msgid "Instruments"
 msgstr "Instrumente"
 
 msgid "large readout"
-msgstr "afișaj mare"
+msgstr "afișare in format mare"
 
 msgid "last"
 msgstr "ultim"
@@ -608,7 +608,7 @@ msgid "left-right"
 msgstr "stânga-dreapta"
 
 msgid "length"
-msgstr "lungime"
+msgstr "lungimea"
 
 msgid "Letters"
 msgstr "Litere"
@@ -692,7 +692,7 @@ msgid "Min"
 msgstr "Minim"
 
 msgid "minute"
-msgstr "minut"
+msgstr "minutul"
 
 msgid "month"
 msgstr "luna"
@@ -701,7 +701,7 @@ msgid "mosaic"
 msgstr "mozaic"
 
 msgid "motion"
-msgstr "mișcare"
+msgstr "mișcarea"
 
 msgid "motor"
 msgstr ""
@@ -779,7 +779,7 @@ msgid "New Variable"
 msgstr "Variabilă Nouă"
 
 msgid "next backdrop"
-msgstr "următorul decor"
+msgstr "Fundalul următor"
 
 msgid "No motion blocks"
 msgstr "Niciun bloc de mișcare"
@@ -836,7 +836,7 @@ msgid "other scripts in sprite"
 msgstr "celelalte scripturi ale personajului"
 
 msgid "other scripts in stage"
-msgstr "alte script-uri pentru scenă"
+msgstr "alte script-uri în scenă"
 
 msgid "Outdoors"
 msgstr "Exterioare"
@@ -887,7 +887,7 @@ msgid "pop"
 msgstr "pop"
 
 msgid "previous backdrop"
-msgstr "decorul anterior"
+msgstr "fundalul anterior"
 
 msgid "Profile"
 msgstr "Profil"
@@ -981,7 +981,7 @@ msgid "right arrow"
 msgstr "săgeată dreapta"
 
 msgid "rotation style:"
-msgstr "stil de rotire:"
+msgstr "mod de rotire:"
 
 msgid "Run without screen refresh"
 msgstr "Rulează fără împrospătarea ecranului"
@@ -990,7 +990,7 @@ msgid "Save"
 msgstr "Salvează"
 
 msgid "Save a copy of this project and add your own ideas."
-msgstr "Salvează o copie a acestui proiect si adaugă-ți propriile idei."
+msgstr "Salvează o copie a acestui proiect și adaugă propriile tale idei."
 
 msgid "Save as"
 msgstr "Salvează ca"
@@ -1002,7 +1002,7 @@ msgid "Save now"
 msgstr "Salvează acum"
 
 msgid "Save project?"
-msgstr "Salvezi proiectul?"
+msgstr "Dorești salvarea proiectului?"
 
 msgid "save to local file"
 msgstr "salvează într-un fișier local"
@@ -1035,7 +1035,7 @@ msgstr "Scripturi"
 #~ msgstr "Script-uri:"
 
 msgid "second"
-msgstr "al doilea"
+msgstr "secunda"
 
 msgid "See project page"
 msgstr "Vezi pagina proiectului"
@@ -1070,7 +1070,7 @@ msgid "Share"
 msgstr "Împărtășește"
 
 msgid "Share to website"
-msgstr "Împărtășește pe site"
+msgstr "Partajează în pagina web"
 
 msgid "Share to Scratch website"
 msgstr ""
@@ -1127,7 +1127,7 @@ msgid "Small stage layout"
 msgstr "Aspectul cu scenă mică"
 
 msgid "Smooth"
-msgstr "Netezire"
+msgstr "Neted"
 
 msgid "Snare Drum"
 msgstr "Snare Drum"
@@ -1208,7 +1208,7 @@ msgid "Text"
 msgstr "Text"
 
 msgid "that way"
-msgstr "sens antiorar"
+msgstr "antiorar"
 
 msgid "The name is already in use."
 msgstr ""
@@ -1258,7 +1258,7 @@ msgid "Throw away all changes since opening this project?"
 msgstr "Renunți la toate modificările făcute de la deschiderea proiectului?"
 
 msgid "timer"
-msgstr "cronometru"
+msgstr "cronometrul"
 
 msgid "Tips"
 msgstr "Sfaturi"
@@ -1319,7 +1319,7 @@ msgid "up arrow"
 msgstr "săgeată sus"
 
 msgid "Update failed"
-msgstr "Actualizarea a eșuat"
+msgstr "Actualizarea nu a reușit"
 
 msgid "Update not needed"
 msgstr "Nu este necesară actualizarea"
@@ -1421,8 +1421,8 @@ msgid ""
 "You cannot edit cloud data in someone else's project.<br>Any change that you "
 "make in the editor will be temporary and not persistent."
 msgstr ""
-"Nu poți edita informațiile din cloud într-un proiect care aparține "
-"altcuiva.<br>Orice modificare pe care o faci este temporară și nu se va "
+"Nu poți edita informatiile din cloud într-un proiect care aparține "
+"altcuiva.  <br>Orice modificare pe care o faci este temporară și nu se va "
 "păstra."
 
 msgid "Your Scratch name"
@@ -1594,22 +1594,22 @@ msgid "random position"
 msgstr "poziție aleatoare"
 
 msgid "Cloud list (stored on server)"
-msgstr ""
+msgstr "Listă Cloud (stocată pe server)"
 
 msgid "Dance"
-msgstr ""
+msgstr "Dans"
 
 msgid "Dress-Up"
-msgstr ""
+msgstr "Costumează"
 
 msgid "Music"
-msgstr ""
+msgstr "Muzică"
 
 msgid "Musical Notes"
-msgstr ""
+msgstr "Note muzicale"
 
 msgid "My Class"
-msgstr ""
+msgstr "Clasa mea"
 
 msgid "My Classes"
-msgstr ""
+msgstr "Clasele mele"

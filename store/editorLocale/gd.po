@@ -774,7 +774,7 @@ msgid "Cowbell"
 msgstr "Clag bà"
 
 msgid "Crash Cymbal"
-msgstr ""
+msgstr "Ciombal crash"
 
 msgid "Creating..."
 msgstr "Ga chruthachadh..."
@@ -1049,7 +1049,7 @@ msgid "Make a Variable"
 msgstr "Cruthaich caochladair"
 
 msgid "Marimba"
-msgstr ""
+msgstr "Marimba"
 
 msgid "Max"
 msgstr "As motha"
@@ -1846,25 +1846,25 @@ msgid "random position"
 msgstr "ionad air thuaiream"
 
 msgid "Cloud list (stored on server)"
-msgstr ""
+msgstr "Liosta san neul (ga stòradh air an fhrithealaiche)"
 
 msgid "Dance"
-msgstr ""
+msgstr "Dannsa"
 
 msgid "Dress-Up"
-msgstr ""
+msgstr "Aodach"
 
 msgid "Music"
-msgstr ""
+msgstr "Ceòl"
 
 msgid "Musical Notes"
-msgstr ""
+msgstr "Puingean ciùil"
 
 msgid "My Class"
-msgstr ""
+msgstr "An clas agam"
 
 msgid "My Classes"
-msgstr ""
+msgstr "Na clasaichean agam"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

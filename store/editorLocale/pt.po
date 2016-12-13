@@ -832,7 +832,7 @@ msgid "Don't save"
 msgstr "Não guardar"
 
 msgid "down"
-msgstr "baixo"
+msgstr "para baixo"
 
 msgid "down arrow"
 msgstr "seta para baixo"
@@ -1005,7 +1005,7 @@ msgid "last"
 msgstr "o último item"
 
 msgid "left"
-msgstr "esquerda"
+msgstr "para a esquerda"
 
 msgid "left arrow"
 msgstr "seta para a esquerda"
@@ -1357,7 +1357,7 @@ msgid "Reverting..."
 msgstr "A reverter..."
 
 msgid "right"
-msgstr "direita"
+msgstr "para a direita"
 
 msgid "right arrow"
 msgstr "seta para a direita"

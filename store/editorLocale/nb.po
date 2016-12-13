@@ -1176,7 +1176,10 @@ msgid "New Variable"
 msgstr "Ny variabel"
 
 msgid "No motion blocks"
-msgstr "Ingen bevegelsesklosser"
+msgstr ""
+"Scenen har ingen klosser for bevegelse.\n"
+"Klikk først på en av figurene for å komme\n"
+"til klossene for bevegelse."
 
 msgid "normal readout"
 msgstr "vanlig visning"
@@ -1542,7 +1545,7 @@ msgstr "Scene"
 
 # 93%
 msgid "Stage selected:"
-msgstr "Scene valgt:"
+msgstr "Du har valgt scenen, ikke en figur:"
 
 msgid "Steel Drum"
 msgstr "Oljefat"

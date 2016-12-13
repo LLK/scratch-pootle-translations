@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-10-20 01:04+0000\n"
-"Last-Translator: Chun-Nan <brian030218@outlook.com>\n"
+"PO-Revision-Date: 2016-12-09 13:13+0000\n"
+"Last-Translator: dnowba <d.now.ba@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -12,20 +12,22 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1476925474.000000\n"
+"X-POOTLE-MTIME: 1481289201.000000\n"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "正體中文"
 
+# 且，有而且的意思，比較貼近程式用語
 msgid "%b and %b"
 msgstr "%b 和 %b"
 
 msgid "%b or %b"
 msgstr "%b 或 %b"
 
+# Scratch 官方有說變量不可以顛倒，所以目前的翻譯是沒有作用的。
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "%m.spriteOrStage 的 %m.attribute"
+msgstr "%m.attribute ( %m.spriteOrStage )"
 
 #~ msgid "%m.list contains %s"
 #~ msgstr "%m.list 內包含 %s"
@@ -37,9 +39,11 @@ msgstr "%n 的 %m.mathOp"
 msgid "%m.sensor sensor value"
 msgstr "%m.sensor 的偵測值"
 
+# 變得短些，比較好辨識
 msgid "%n mod %n"
 msgstr "%n 除以 %n 後的餘數"
 
+# 我覺得字面上要顯示這和 list 有關，可以用將xx加到清單xx，但是這樣子積木變的太長，所以我覺得可以用「選項」來代替、「清單項目」，「清單選項」應該也很容易懂。
 msgid "add %s to %m.list"
 msgstr "將 %s 加到 %m.list"
 
@@ -57,45 +61,58 @@ msgstr "背景編號"
 msgid "backdrop name"
 msgstr "背景名稱"
 
+# 小孩子對「廣播」這個詞會覺得很像聲音的廣播，變成「廣播訊息」比較能接受。
 msgid "broadcast %m.broadcast"
 msgstr "廣播 %m.broadcast"
 
+# 小孩子對「廣播」這個詞會覺得很像聲音的廣播，變成「廣播訊息」比較能接受。
 msgid "broadcast %m.broadcast and wait"
 msgstr "廣播 %m.broadcast 並等待"
 
+# 「外觀」類的指令比較多類型，有造型、效果、尺寸、圖層…我建議把重要的詞提到最前放，看前二字就知道是和外觀的什麼東西有關，這樣孩子在比較、尋找指令的時候比較快。
 msgid "change %m.effect effect by %n"
 msgstr "將 %m.effect 特效改變 %n"
 
 msgid "change %m.var by %n"
 msgstr "將變數 %m.var 改變 %n"
 
+# 「外觀」類的指令比較多類型，有造型、效果、尺寸、圖層…我建議把重要的詞提到最前放，看前二字就知道是和外觀的什麼東西有關，這樣孩子在比較、尋找指令的時候比較快。
 msgid "change pen color by %n"
 msgstr "將畫筆顏色改變 %n"
 
+# 「外觀」類的指令比較多類型，有造型、效果、尺寸、圖層…我建議把重要的詞提到最前放，看前二字就知道是和外觀的什麼東西有關，這樣孩子在比較、尋找指令的時候比較快。
 msgid "change pen shade by %n"
 msgstr "將畫筆亮度改變 %n"
 
+# 「外觀」類的指令比較多類型，有造型、效果、尺寸、圖層…我建議把重要的詞提到最前放，看前二字就知道是和外觀的什麼東西有關，這樣孩子在比較、尋找指令的時候比較快。
 msgid "change pen size by %n"
 msgstr "將畫筆大小改變 %n"
 
+# 「外觀」類的指令比較多類型，有造型、效果、尺寸、圖層…我建議把重要的詞提到最前放，看前二字就知道是和外觀的什麼東西有關，這樣孩子在比較、尋找指令的時候比較快。
 msgid "change size by %n"
 msgstr "將大小改變 %n "
 
+# tempo 樂理上叫 音樂速度，和節奏不大一樣。
 msgid "change tempo by %n"
 msgstr "將節奏改變 %n"
 
+# 孩子很容易把「改變」和「設為」搞混，change by 在中文上並不好翻，所以我比較支持 1.4 裡的叫法，就叫它「增加」，意指就目前的值加上指定的值，若數字是負值，比方說 -50，讀起來就是「增加負 50」，在對孩子說明這就是「減 50」的意思後，通常他們都能有明顯的區別。
 msgid "change volume by %n"
 msgstr "將音量改變 %n"
 
+# 小孩子接受了座標系統後，說 x y 他們都會明白是什麼， 所以「x 座標」可以精簡為「x」，在寫教案、說明時都會快的許多。
 msgid "change x by %n"
 msgstr "將 x 座標改變 %n"
 
+# 小孩子接受了座標系統後，說 x y 他們都會明白是什麼， 所以「x 座標」可以精簡為「x」，在寫教案、說明時都會快的許多。
 msgid "change y by %n"
 msgstr "將 y 座標改變 %n"
 
+# 「外觀」類的指令比較多類型，有造型、效果、尺寸、圖層…我建議把重要的詞提到最前放，看前二字就知道是和外觀的什麼東西有關，這樣孩子在比較、尋找指令的時候比較快。
 msgid "clear"
 msgstr "清除所有筆跡"
 
+# 「外觀」類的指令比較多類型，有造型、效果、尺寸、圖層…我建議把重要的詞提到最前放，看前二字就知道是和外觀的什麼東西有關，這樣孩子在比較、尋找指令的時候比較快。
 msgid "clear graphic effects"
 msgstr "清除所有圖形特效"
 
@@ -108,24 +125,29 @@ msgstr "控制"
 msgid "costume #"
 msgstr "造型編號"
 
+# 分身建立、分身刪除…把「分身」這個重要的詞優先放在前面，容易辨識。
 msgid "create clone of %m.spriteOnly"
 msgstr "建立 %m.spriteOnly 的分身"
 
 msgid "current %m.timeAndDate"
 msgstr "目前的 %m.timeAndDate"
 
+# 統一和簡體中文的稱呼，用數據沒什麼不好
 msgid "Data"
 msgstr "資料"
 
+# 只是希望把積木的字弄短一些。
 msgid "days since 2000"
 msgstr "從西元2000年起算的天數"
 
 msgid "define"
 msgstr "定義"
 
+# 在積木上顯示「選項」這個詞，可以比較快辨識這是清單的其中一個積木。
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "刪除 %m.list 中的 %d.listDeleteItem"
 
+# 分身建立、分身刪除…把「分身」這個重要的詞優先放在前面，容易辨識。
 msgid "delete this clone"
 msgstr "刪除這個分身"
 
@@ -135,6 +157,7 @@ msgstr "方向"
 msgid "distance"
 msgstr "距離"
 
+# 間距，間隔距離，比較不需要多解釋。
 msgid "distance to %m.spriteOrMouse"
 msgstr "到 %m.spriteOrMouse 的距離"
 
@@ -144,21 +167,26 @@ msgstr "否則"
 msgid "Events"
 msgstr "事件"
 
+# 循環跟重複這二個詞我都用過，同學齡的小孩子對循環，做完再做…做完再做…這樣比較懂意思。
 msgid "forever"
 msgstr "重複執行"
 
+# 動作裡有「移動xx點」的積木，所以我覺得這裡可以把動詞放在前面，和「移動」相對。
 msgid "glide %n secs to x:%n y:%n"
 msgstr "在 %n 秒內，滑行到 x:%n y:%n"
 
+# 外觀裡有很多主詞，像是尺寸、效果…所以我覺得要把這些主詞放到前面，讀第一個字就能辨識這個積木是用在哪的。
 msgid "go back %n layers"
 msgstr "下移 %n 層"
 
 #~ msgid "go to %m.spriteOrMouse"
 #~ msgstr "移到 %m.spriteOrMouse"
 
+# 外觀裡有很多主詞，像是尺寸、效果…所以我覺得要把這些主詞放到前面，讀第一個字就能辨識這個積木是用在哪的。
 msgid "go to front"
 msgstr "移到最上層"
 
+# 用「定位」是因為角色並沒有像「移動」那樣會有行進軌跡，有人用「跳到（jump to）」也容易和動作「跳」聯想， 所以我覺得用座標的概念來說會比較實在，定位這個小朋友蠻快能接受，因為他們或多或少有看過父母用 GPS 的經驗。
 msgid "go to x:%n y:%n"
 msgstr "移到 x:%n y:%n"
 
@@ -181,11 +209,12 @@ msgid "insert %s at %d.listItem of %m.list"
 msgstr "加入 %s 到 %m.list 中的 %d.listItem"
 
 msgid "item %d.listItem of %m.list"
-msgstr "%m.list 中的項目 %d.listItem"
+msgstr "第 %d.listItem 項( %m.list )"
 
 msgid "join %s %s"
 msgstr "合併 %s 和 %s"
 
+# 類似的判斷陳述句，把主詞放在前面會比較好，舉一個組合好的積木來說，「如果按下空白鍵了嗎？就…」跟「如果空白鍵被按下？就…」讀起來哪個比較順？
 msgid "key %m.key pressed?"
 msgstr "按下 %m.key 鍵了嗎？"
 
@@ -201,6 +230,7 @@ msgstr "字串 %s 的第 %n 個字"
 msgid "Looks"
 msgstr "外觀"
 
+# 故意不用音量值，避免和音效一類的積木混淆，這裡指的是感測透過麥克風發出的聲音大小，用響度雖然勉強，但對孩子說明一下並不難理解。
 msgid "loudness"
 msgstr "音量值"
 
@@ -210,15 +240,19 @@ msgstr "更多積木"
 msgid "Motion"
 msgstr "動作"
 
+# 把綴詞「了嗎」拿掉，讓積木短些，同時也容易閱讀。
 msgid "mouse down?"
 msgstr "滑鼠鍵被按下了嗎？"
 
+# 應該是滑鼠游標，但那樣太多字，我建議就用大陸常用的鼠標來代替，也可以和游標做區隔。
 msgid "mouse x"
 msgstr "滑鼠的 x 座標"
 
+# 應該是滑鼠游標，但那樣太多字，我建議就用大陸常用的鼠標來代替，也可以和游標做區隔。另外座標二字也可以拿掉，在教完孩子座標系統後，直接說 x y 他們都可以理解。
 msgid "mouse y"
 msgstr "滑鼠的 y 座標"
 
+# 用步來描述有時候小孩子並無法正確理解，比方說，恐龍的一步怎麼和螞蟻的一步距離一樣大，我覺得這裡直接用像素「點」的概念來說比較好，在解釋座標系統的時候小孩子也比較容易懂。
 msgid "move %n steps"
 msgstr "移動 %n 步"
 
@@ -226,6 +260,7 @@ msgstr "移動 %n 步"
 msgid "next backdrop"
 msgstr "下一個背景"
 
+# 主要是要和另一個積木「造型換為xxx」做對照。方便孩子辨識。
 msgid "next costume"
 msgstr "下一個造型"
 
@@ -238,43 +273,53 @@ msgstr "運算"
 msgid "Pen"
 msgstr "畫筆"
 
+# 下筆，有下一筆的意思，我覺得可以找更好的說法，書法教學中有所謂的起筆、收筆，我覺得比較貼切，如果學生寫過書法，那麼一看就知道什麼意思。同一種狀態，我覺得要盡量用同樣的、現有的詞來描述，這是另一層的涵義。
 msgid "pen down"
 msgstr "下筆"
 
+# 書法教學中有所謂的起筆、收筆，我覺得比較貼切，如果學生寫過書法，那麼一看就知道什麼意思。同一種狀態，我覺得要盡量用同樣的、現有的詞來描述，這是另一層的涵義。
 msgid "pen up"
 msgstr "停筆"
 
+# 把句子變得短一些，是主要用意。
 msgid "pick random %n to %n"
 msgstr "在 %n 到 %n 間隨機選一個數"
 
+# drum 是鼓沒錯，可以清單裡的選項並不全然是鼓，我覺得這是可以不要直翻的，這個積木的用意是打拍子，所以我這裡想用「節拍」來替代。不知有沒有更好的意思。
 msgid "play drum %d.drum for %n beats"
 msgstr "彈奏鼓聲 %d.drum %n 拍"
 
-# 83%
+# 這是樂理上的問題，「音符」本身並沒有Do Re Mi，只是表現出演奏長度，像四分音符、二分音符，而這塊積木要表達的是彈出一個「音」，我這裡建議用「音階」，希望有更專業的人能幫忙翻得更精準。
 msgid "play note %d.note for %n beats"
 msgstr "彈奏音符 %d.note %n 拍"
 
 msgid "play sound %m.sound"
 msgstr "播放音效 %m.sound"
 
+# 只是想把積木上的字用少些。
 msgid "play sound %m.sound until done"
 msgstr "播放音效 %m.sound 直到播放完畢"
 
+# https://wiki.scratch.mit.edu/wiki/Direction_(value) 裡有說明的很清楚，我認為把單位「度」寫在後面會好一些。
 msgid "point in direction %d.direction"
 msgstr "面向 %d.direction 方向"
 
+# 我的建議是和「面朝xx度」做對襯句，一方面排版好看些，也能做清楚的對比。
 msgid "point towards %m.spriteOrMouse"
 msgstr "面向 %m.spriteOrMouse"
 
+# 對孩子來說，循環比重複來得容易理解。因為重複是不停的做一樣的、相同的事情，但程式中的迴圈可不是每一次都相同…比方說 for n as 0 to 9，其實 n 不會重複的都是 0，而是整件事情做完再循環的做。
 msgid "repeat %n"
 msgstr "重複 %n 次"
 
+# 程式中的迴圈可不是每一次都相同…比方說 for n as 0 to 9，其實 n 不會重複的都是 0，而是整件事情做完再循環的做。
 msgid "repeat until %b"
 msgstr "重複執行直到 %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
 msgstr "替換 %m.list 中的項目 %d.listItem 為 %s"
 
+# 把主詞移到前面，容易一下就找到要用的功能。
 msgid "reset timer"
 msgstr "重設計時器"
 
@@ -284,68 +329,82 @@ msgstr "休息 %n 拍"
 msgid "round %n"
 msgstr "四捨五入 %n"
 
+# 和另一個積木「想著」做對照，「說」在中文就是有聲音的，「說道」是小說常出現的詞，我覺得比較容易聯想，孩子比較容易理解，知道這不是真的的「說」，只是在畫面上顯示「說話的內容」。
 msgid "say %s"
 msgstr "說 %s"
 
+# 和另一個積木「想著」做對照，「說」在中文就是有聲音的，「說道」是小說常出現的詞，我覺得比較容易聯想，孩子比較容易理解，知道這不是真的的「說」，只是在畫面上顯示「說話的內容」。
 msgid "say %s for %n secs"
 msgstr "說 %s %n 秒"
 
+# 小孩子就是比較瞭解「感測」這個詞，大概是比較偏「感覺」吧。
 msgid "Sensing"
 msgstr "偵測"
 
+# 偵測這個詞沒有錯，但就是很不動態，「感測」是我覺得比較好的詞。「感應」這詞也行，只是「測」和英文的「sor」音更相近，我覺得很適合。
 msgid "sensor %m.booleanSensor?"
 msgstr "偵測器 %m.booleanSensor？"
 
 msgid "set %m.effect effect to %n"
 msgstr "設定 %m.effect 特效為 %n"
 
+# 把主詞移到前面
 msgid "set %m.var to %s"
 msgstr "設定變數 %m.var 為 %s"
 
+# 把主詞移到前面
 msgid "set instrument to %d.instrument"
 msgstr "設定樂器為 %d.instrument"
 
-# 89%
-# 86%
-# 97%
+# 把主詞移到前面
 msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "設定 %m.motor2 運轉方向為 %m.motor"
 
-# 77%
-# 75%
+# 把主詞移到前面
 msgid "set %m.motor power to %n"
 msgstr "設定 %m.motor 動力為 %n"
 
+# 把主詞移到前面。另外畫筆和筆跡我比較偏向是筆跡，因為筆本身並沒有改變，不管是顏色、寬度、亮度…都是筆的痕跡。
 msgid "set pen color to %c"
 msgstr "設定畫筆顏色為 %c"
 
+# 把主詞移到前面。另外畫筆和筆跡我比較偏向是筆跡，因為筆本身並沒有改變，不管是顏色、寬度、亮度…都是筆的痕跡。
 msgid "set pen color to %n"
 msgstr "設定畫筆顏色為 %n"
 
+# 把主詞移到前面。另外畫筆和筆跡我比較偏向是筆跡，因為筆本身並沒有改變，不管是顏色、寬度、亮度…都是筆的痕跡。
 msgid "set pen shade to %n"
 msgstr "設定畫筆亮度為 %n"
 
+# 把主詞移到前面。另外畫筆和筆跡我比較偏向是筆跡，因為筆本身並沒有改變，不管是顏色、寬度、亮度…都是筆的痕跡。
 msgid "set pen size to %n"
 msgstr "設定畫筆大小為 %n"
 
+# 這裡是指角色碰到邊緣時的動作，迴轉會比旋轉來得貼切，加上旋轉已經用在平面的旋轉了…我認為要區隔一下。
 msgid "set rotation style %m.rotationStyle"
 msgstr "設定旋轉方式為 %m.rotationStyle"
 
+# 我認為如果講 size 翻成「大小」，那 width 就翻「長短」。如果沒有，尺寸、寬度…這樣的稱呼比較合。
 msgid "set size to %n%"
 msgstr "設定大小為 %n％"
 
+# tempo 是音樂速度，樂理上沒有更好的翻法…所以我覺得還是要以根本為主。
 msgid "set tempo to %n bpm"
 msgstr "設定節奏為 %n bpm"
 
+# 主詞移到前面
 msgid "set video transparency to %n%"
 msgstr "設定視訊透明度為 %n%"
 
+# 主詞移到前面
 msgid "set volume to %n%"
 msgstr "設定音量為 %n%"
 
+# 主詞移到前面，省掉座標名稱。
 msgid "set x to %n"
 msgstr "設定 x 座標為 %n"
 
+# 主詞移到前面，省掉座標名稱。
 msgid "set y to %n"
 msgstr "設定 y 座標為 %n"
 
@@ -358,6 +417,7 @@ msgstr "顯示列表  %m.list"
 msgid "show variable %m.var"
 msgstr "顯示變數 %m.var"
 
+# 我認為如果講 size 翻成「大小」，那 width 就翻「長短」。如果沒有，尺寸、寬度…這樣的稱呼比較合。
 msgid "size"
 msgstr "大小"
 
@@ -370,20 +430,23 @@ msgstr "蓋章"
 msgid "stop %m.stop"
 msgstr "停止 %m.stop"
 
+# 停止播放，建議用停播
 msgid "stop all sounds"
 msgstr "停止所有音效"
 
-# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+# 主詞「背景」放到最前面，和其他的積木，像造型換為xxx對襯就更容易比較。
 msgid "switch backdrop to %m.backdrop"
 msgstr "切換背景到  %m.backdrop"
 
-# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+# 主詞「背景」放到最前面，和其他的積木，像造型換為xxx對襯就更容易比較。
 msgid "switch backdrop to %m.backdrop and wait"
 msgstr "切換背景到 %m.backdrop 並等待"
 
+# 主詞「造型」放到最前面，和其他的積木，像背景換為xxx對襯就更容易比較。
 msgid "switch costume to %m.costume"
 msgstr "切換造型到 %m.costume"
 
+# tempo 在樂理上叫音樂速度，好像沒有更好的叫法，若有問題請指正。
 msgid "tempo"
 msgstr "節奏"
 
@@ -405,9 +468,11 @@ msgstr "碰到 %m.touching?"
 msgid "touching color %c?"
 msgstr "碰到顏色 %c?"
 
+# 直接改成左轉比較好唸…教學的時候
 msgid "turn @turnLeft %n degrees"
 msgstr "向 @turnLeft 旋轉 %n 度"
 
+# 改成右轉比較好唸，教書的時候。
 msgid "turn @turnRight %n degrees"
 msgstr "向 @turnRight 旋轉 %n 度"
 
@@ -415,7 +480,7 @@ msgstr "向 @turnRight 旋轉 %n 度"
 msgid "turn %m.motor off"
 msgstr "關閉 %m.motor"
 
-# 81%
+# turn on 是要翻成啟動、還是開啟，需要統一，我建議用「開啟」，這樣可以和 turn off 關閉互相呼之（開對關，啟對閉）。
 msgid "turn %m.motor on"
 msgstr "啟動 %m.motor"
 
@@ -424,9 +489,11 @@ msgstr "啟動 %m.motor"
 msgid "turn %m.motor on for %n secs"
 msgstr "開啟 %m.motor 運轉 %n 秒"
 
+# 把字更精簡，把主詞放前面。
 msgid "turn video %m.videoState"
 msgstr "將視訊設定為 %m.videoState "
 
+# username 要叫 1.使用者 2.用戶 3.帳戶 4.帳號…我覺得可以盡量有一致性，我建議稱「用戶」，大陸也這麼叫。「使用者」、「帳戶」是台灣比較常用的，但我覺得可以改，整合一下就是「用戶」→使用者帳戶…希望大家能多想一下，寫成用戶真的比較方便…每次的教學文章或是翻譯都可以省掉一個字，累積起來省很多的，頻寬也是節省了。
 msgid "username"
 msgstr "帳號名稱"
 
@@ -446,6 +513,7 @@ msgstr "等待 %b "
 msgid "when %m.booleanSensor"
 msgstr "當 %m.booleanSensor"
 
+# 和「當綠旗被點擊」可以對襯；在螢幕上的動作我習慣一律叫「點擊」，而在鍵盤上我一律叫「按下」。
 msgid "when %m.key key pressed"
 msgstr "當按下 %m.key 鍵"
 
@@ -455,6 +523,7 @@ msgstr "當 %m.sensor %m.lessMore %n"
 msgid "when %m.triggerSensor > %n"
 msgstr "當 %m.triggerSensor > %n"
 
+# 和「當xx鍵被按下」可以對襯；在螢幕上的動作我習慣一律叫「點擊」，而在鍵盤上我一律叫「按下」。
 msgid "when @greenFlag clicked"
 msgstr "當 @greenFlag 被點一下"
 
@@ -471,6 +540,7 @@ msgstr "當我接收到 %m.broadcast"
 msgid "when I start as a clone"
 msgstr "當分身產生"
 
+# 「點擊」比「點一下」少了一個字，省了打字時間和頻寬。
 msgid "when Stage clicked"
 msgstr "當舞臺被點一下"
 
@@ -539,10 +609,12 @@ msgstr "y 座標"
 #~ msgid "play note %n for %n beats"
 #~ msgstr "彈奏音符 %d.note %n 拍"
 
+# 現有的翻譯並沒有辦法顯示，改成這樣就可以了！
 #: commands-online.txt:7
 #: commands-offline.txt:7
 msgid "%m.list contains %s?"
-msgstr "%m.list 中包含 %s？"
+msgstr "選項( %m.list )包含 %s?"
 
+# 用「定位」是因為角色並沒有像「移動」那樣會有行進軌跡，有人用「跳到（jump to）」也容易和動作「跳」聯想， 所以我覺得用座標的概念來說會比較實在，定位這個小朋友蠻快能接受，因為他們或多或少有看過父母用 GPS 的經驗。
 msgid "go to %m.location"
 msgstr "移到 %m.location"

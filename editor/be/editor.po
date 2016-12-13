@@ -7,18 +7,20 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-08-23 20:02+0100\n"
-"PO-Revision-Date: 2013-05-02 00:48+0000\n"
-"Last-Translator: adlogi <adlogi@media.mit.edu>\n"
+"PO-Revision-Date: 2016-11-21 20:02+0000\n"
+"Last-Translator: Nadzeya <nadzeyka@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: templates\n"
+"Language: be\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1367455729.000000\n"
+"X-POOTLE-MTIME: 1479758562.000000\n"
 
 msgid "10 ^"
-msgstr ""
+msgstr "10 ^"
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
@@ -26,179 +28,188 @@ msgid ""
 "removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
 "\">see the cloud data FAQ!</a>"
 msgstr ""
+"<b>Інфармацыя пра Воблачныя пераменныя</b><br>&nbsp;<br>Пакуль што "
+"падтрымліваюцца толькі лікі<br>Чаты не дазволены і будуць выдаляцца<br>"
+"Дадатковая інфармацыя ў <a href=\"/help/faq/#clouddata\" target=\"_blank\">"
+"дапаможніку па воблачных дадзеных!</a>"
 
 msgid "A connected"
-msgstr ""
+msgstr "А злучана"
 
 msgid "A newer version of Scratch is available"
-msgstr ""
+msgstr "Даступная новая версія Scratch"
 
 msgid "About"
-msgstr ""
+msgstr "Пра праграму"
 
 msgid "Account settings"
-msgstr ""
+msgstr "Наладкі профілю"
 
 msgid "Add"
-msgstr ""
+msgstr "Дадаць"
 
 msgid "Add an Extension"
-msgstr ""
+msgstr "Дадаць пашырэнне"
 
 msgid "Add boolean input:"
-msgstr ""
+msgstr "Увесці лагічнае значэнне:"
 
 msgid "Add label text:"
-msgstr ""
+msgstr "Дадаць тэкст надпісу:"
 
 msgid "Add number input:"
-msgstr ""
+msgstr "Увесці лік:"
 
 msgid "Add string input:"
-msgstr ""
+msgstr "Увесці радок:"
 
 msgid "All"
-msgstr ""
+msgstr "Усе"
 
 msgid "All Tips"
-msgstr ""
+msgstr "Усе парады"
 
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
-msgstr ""
+msgstr "Абноўленая версія афлайн-рэдактара Scratch даступная на сайце."
 
 msgid "Animal"
-msgstr ""
+msgstr "Жывёла"
 
 msgid "Animals"
-msgstr ""
+msgstr "Жывёлы"
 
 msgid "B connected"
-msgstr ""
+msgstr "В злучана"
 
 msgid "Back a layer"
-msgstr ""
+msgstr "Назад на слой"
 
 msgid "Backdrop"
-msgstr ""
+msgstr "Фон"
 
 msgid "Backdrop Library"
-msgstr ""
+msgstr "Бібліятэка фонаў"
 
 msgid "Backdrops"
-msgstr ""
+msgstr "Фоны"
 
 msgid "Backpack"
-msgstr ""
+msgstr "Заплечнік"
 
 msgid "Bass"
-msgstr ""
+msgstr "Бас"
 
 msgid "Bass Drum"
-msgstr ""
+msgstr "Турэцкі барабан"
 
 msgid "Bassoon"
-msgstr ""
+msgstr "Фагот"
 
 msgid ""
 "Because you have a new Scratch account, any changes to cloud data won't be "
 "saved yet. Keep participating on the site you'll be able to use cloud data "
 "soon!"
 msgstr ""
+"Вы з'яўляецеся новым карыстальнікам Scratch, таму любыя змены ў воблачных "
+"дадзеных не будуць захаваны. Працягвайце ўдзельнічаць у працы сайта, і хутка "
+"вы зможаце выкарыстоўваць воблачныя дадзеныя!"
 
 msgid "Bitmap"
-msgstr ""
+msgstr "Растар"
 
 msgid "Bitmap Mode"
-msgstr ""
+msgstr "Растравы рэжым"
 
 msgid "Block help"
-msgstr ""
+msgstr "Дапамога па блоку"
 
 msgid "Bongo"
-msgstr ""
+msgstr "Бонга"
 
 msgid "Bring to front"
-msgstr ""
+msgstr "Перасунуць наперад"
 
 msgid "Broadcast"
-msgstr ""
+msgstr "Трансляцыя"
 
 msgid "Brush"
-msgstr ""
+msgstr "Пэндзлік"
 
 msgid "C connected"
-msgstr ""
+msgstr "С злучана"
 
 msgid "Cabasa"
-msgstr ""
+msgstr "Кабаса"
 
 msgid "Camera"
-msgstr ""
+msgstr "Камера"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Скасаваць"
 
 msgid "Cannot Delete"
-msgstr ""
+msgstr "Не магу выдаліць"
 
 msgid "Can’t find network connection or reach server."
-msgstr ""
+msgstr "Не магу падключыцца да сеціва ці звязацца з серверам."
 
 msgid "Castle"
-msgstr ""
+msgstr "Замак"
 
 msgid "Category"
-msgstr ""
+msgstr "Катэгорыя"
 
 msgid "Cello"
-msgstr ""
+msgstr "Віяланчэль"
 
 msgid "Check for updates"
-msgstr ""
+msgstr "Праверыць абнаўленні"
 
 msgid "Choir"
-msgstr ""
+msgstr "Хор"
 
 msgid "Choose backdrop from library"
-msgstr ""
+msgstr "Абраць фон з бібліятэкі"
 
 msgid "Choose costume from library"
-msgstr ""
+msgstr "Абраць касцюм з бібліятэкі"
 
 msgid "Choose sound from library"
-msgstr ""
+msgstr "Абраць гук з бібліятэкі"
 
 msgid "Choose sprite from library"
-msgstr ""
+msgstr "Абраць спрайт з бібліятэкі"
 
 msgid "Circle"
-msgstr ""
+msgstr "Кола"
 
 msgid "City"
-msgstr ""
+msgstr "Горад"
 
 msgid "Clarinet"
-msgstr ""
+msgstr "Кларнет"
 
 msgid "Claves"
-msgstr ""
+msgstr "Клавесін"
 
 msgid "Clear"
-msgstr ""
+msgstr "Ачысціць"
 
 msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr ""
+"Насцісніце \"Захаваць\", каб паспрабаваць зноўку, ці \"Сцягнуць\", каб "
+"захаваць лакальна"
 
 msgid "Close"
-msgstr ""
+msgstr "Закрыць"
 
 msgid "Closed Hi-Hat"
-msgstr ""
+msgstr "Закрытыя талеркі"
 
 msgid "Cloud data"
-msgstr ""
+msgstr "Воблачныя дадзеныя"
 
 msgid "Cloud list (stored on server)"
 msgstr ""
@@ -207,277 +218,277 @@ msgid "Cloud variable (stored on server)"
 msgstr ""
 
 msgid "Color a shape"
-msgstr ""
+msgstr "Пафарбаваць форму"
 
 msgid "Conga"
-msgstr ""
+msgstr "Конга"
 
 msgid "Connecting to Cloud data server..."
-msgstr ""
+msgstr "Злучэнне з Воблачным серверам дадзеных..."
 
 msgid "Convert to bitmap"
-msgstr ""
+msgstr "Канвертаваць у растравую графіку"
 
 msgid "Convert to vector"
-msgstr ""
+msgstr "Канвертаваць у вектарную графіку"
 
 msgid "Converting mp3..."
-msgstr ""
+msgstr "Канвертую mp3..."
 
 msgid "Copying..."
-msgstr ""
+msgstr "Капіяванне..."
 
 msgid "Costume"
-msgstr ""
+msgstr "Касцюм"
 
 msgid "Costume Library"
-msgstr ""
+msgstr "Бібліятэка касцюмаў"
 
 msgid "Costumes"
-msgstr ""
+msgstr "Касцюмы"
 
 msgid "Costumes > 1"
-msgstr ""
+msgstr "Касцюмаў > 1"
 
 msgid "Could not retrieve new application from server."
-msgstr ""
+msgstr "Немагчыма атрымаць праграму з сервера."
 
 msgid "Could not retrieve update location from server."
-msgstr ""
+msgstr "Немагчыма атрымаць месца абнаўлення з сервера."
 
 msgid "Could not retrieve version information from server."
-msgstr ""
+msgstr "Немагчыма атрымаць інфармацыю пра версію з сервера."
 
 msgid "Could not write file:"
-msgstr ""
+msgstr "Немагчыма запісаць файл:"
 
 msgid "Cowbell"
-msgstr ""
+msgstr "Званочак"
 
 msgid "Crash Cymbal"
-msgstr ""
+msgstr "Удар талерак"
 
 msgid "Creating..."
-msgstr ""
+msgstr "Ствараю..."
 
 msgid "Currently, only numbers can be stored in Cloud variables."
-msgstr ""
+msgstr "Пакуль што толькі лікі могуць захоўвацца ў Воблаку пераменных."
 
 msgid "D connected"
-msgstr ""
+msgstr "D злучана"
 
 msgid "Dance"
 msgstr ""
 
 msgid "Delete"
-msgstr ""
+msgstr "Выдаліць"
 
 msgid "Don't save"
-msgstr ""
+msgstr "Не захоўваць"
 
 msgid "Download"
-msgstr ""
+msgstr "Сцягнуць"
 
 msgid "Download to your computer"
-msgstr ""
+msgstr "Сцягнуць на кампутар"
 
 msgid "Downloading new version..."
-msgstr ""
+msgstr "Загрузка новай версіі..."
 
 msgid "Dress-Up"
 msgstr ""
 
 msgid "Duplicate"
-msgstr ""
+msgstr "Падвоіць"
 
 msgid "Edit"
-msgstr ""
+msgstr "Змяніць"
 
 msgid "Edit Block"
-msgstr ""
+msgstr "Змяніць блок"
 
 msgid "Effects"
-msgstr ""
+msgstr "Эфекты"
 
 msgid "Electric Guitar"
-msgstr ""
+msgstr "Электрагітара"
 
 msgid "Electric Piano"
-msgstr ""
+msgstr "Лічбавае піяніна"
 
 msgid "Electronic"
-msgstr ""
+msgstr "Электроніка"
 
 msgid "Ellipse"
-msgstr ""
+msgstr "Эліпс"
 
 msgid "Erase"
-msgstr ""
+msgstr "Гумка"
 
 msgid "Eraser width"
-msgstr ""
+msgstr "Шырыня гумкі"
 
 msgid "Error saving project"
-msgstr ""
+msgstr "Памылка захавання праекта"
 
 msgid "Error!"
-msgstr ""
+msgstr "Памылка!"
 
 msgid "Fantasy"
-msgstr ""
+msgstr "Фэнтэзі"
 
 msgid "Features"
-msgstr ""
+msgstr "Уласцівасці"
 
 msgid "File"
-msgstr ""
+msgstr "Файл"
 
 msgid "Fill with color"
-msgstr ""
+msgstr "Заліць колерам"
 
 msgid "Flip left-right"
-msgstr ""
+msgstr "Адлюстраваць злева направа"
 
 msgid "Flip up-down"
-msgstr ""
+msgstr "Адлюстраваць з верху да нізу"
 
 msgid "Flute"
-msgstr ""
+msgstr "Флейта"
 
 msgid "Flying"
-msgstr ""
+msgstr "Палёт"
 
 msgid "Font:"
-msgstr ""
+msgstr "Шрыфт:"
 
 msgid "For all sprites"
-msgstr ""
+msgstr "Для ўсіх спрайтаў"
 
 msgid "For this sprite only"
-msgstr ""
+msgstr "Толькі для гэтага спрайта"
 
 msgid "Force help file update"
-msgstr ""
+msgstr "Прымусовае абнаўленне файла даведкі"
 
 msgid "Forward a layer"
-msgstr ""
+msgstr "Бліжэй на слой"
 
 msgid "Go to My Stuff"
-msgstr ""
+msgstr "У Мае Праекты"
 
 msgid "Group"
-msgstr ""
+msgstr "Згрупаваць"
 
 msgid "Grow"
-msgstr ""
+msgstr "Павялічыць"
 
 msgid "Guiro"
-msgstr ""
+msgstr "Гуіра"
 
 msgid "Guitar"
-msgstr ""
+msgstr "Гітара"
 
 msgid "Hand Clap"
-msgstr ""
+msgstr "Пляскат далоняў"
 
 msgid "Hardware"
-msgstr ""
+msgstr "Абсталяванне"
 
 msgid "High C"
-msgstr ""
+msgstr "Высокая До"
 
 msgid "Holiday"
-msgstr ""
+msgstr "Свята"
 
 msgid "Human"
-msgstr ""
+msgstr "Людзі"
 
 msgid "Import"
-msgstr ""
+msgstr "Імпарт"
 
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "Імпартаваць эксперыментальнае HTTP пашырэнне"
 
 msgid "Importing sound..."
-msgstr ""
+msgstr "Імпарт гуку..."
 
 msgid "Indoors"
-msgstr ""
+msgstr "У памяшканні"
 
 msgid "Installing..."
-msgstr ""
+msgstr "Усталяванне..."
 
 msgid "Instruments"
-msgstr ""
+msgstr "Інструменты"
 
 msgid "Letters"
-msgstr ""
+msgstr "Літары"
 
 msgid "Library"
-msgstr ""
+msgstr "Бібліятэка"
 
 msgid "Line"
-msgstr ""
+msgstr "Рыса"
 
 msgid "Line width"
-msgstr ""
+msgstr "Шырыня рысы"
 
 msgid "List name"
-msgstr ""
+msgstr "Назва спісу"
 
 msgid "Loading help files..."
-msgstr ""
+msgstr "Загрузка файлаў даведкі..."
 
 msgid "Loading project..."
-msgstr ""
+msgstr "Загрузка праекта..."
 
 msgid "Low C"
-msgstr ""
+msgstr "Нізкая До"
 
 msgid "Make a Block"
-msgstr ""
+msgstr "Стварыць блок"
 
 msgid "Make a List"
-msgstr ""
+msgstr "Стварыць спіс"
 
 msgid "Make a Variable"
-msgstr ""
+msgstr "Стварыць пераменную"
 
 msgid "Manual Update Available"
-msgstr ""
+msgstr "Даступнае абнаўленне ўручную"
 
 msgid "Marimba"
-msgstr ""
+msgstr "Марымба"
 
 msgid "Max"
-msgstr ""
+msgstr "Максімум"
 
 msgid "Message Name"
-msgstr ""
+msgstr "Назва паведамлення"
 
 msgid "Microphone volume:"
-msgstr ""
+msgstr "Гучнасць мікрафона:"
 
 msgid "Middle C"
-msgstr ""
+msgstr "Сярэдняя До"
 
 msgid "Min"
-msgstr ""
+msgstr "Мінімум"
 
 msgid "Multiple"
-msgstr ""
+msgstr "Памножыць"
 
 msgid "Music"
 msgstr ""
 
 msgid "Music Box"
-msgstr ""
+msgstr "Музычная скрынка"
 
 msgid "Music Loops"
-msgstr ""
+msgstr "Музычныя фрагменты"
 
 msgid "Music and Dance"
-msgstr ""
+msgstr "Музыка і танцы"
 
 msgid "Musical Notes"
 msgstr ""
@@ -489,943 +500,963 @@ msgid "My Classes"
 msgstr ""
 
 msgid "My Stuff"
-msgstr ""
+msgstr "Мае Праекты"
 
 msgid "Nature"
-msgstr ""
+msgstr "Прырода"
 
 msgid "New"
-msgstr ""
+msgstr "Новы"
 
 msgid "New Block"
-msgstr ""
+msgstr "Новы блок"
 
 msgid "New List"
-msgstr ""
+msgstr "Новы спіс"
 
 msgid "New Message"
-msgstr ""
+msgstr "Новае паведамленне"
 
 msgid "New Variable"
-msgstr ""
+msgstr "Новая пераменная"
 
 msgid "New backdrop from camera"
-msgstr ""
+msgstr "Новы фон з камеры"
 
 msgid "New backdrop:"
-msgstr ""
+msgstr "Новы фон:"
 
 msgid "New costume from camera"
-msgstr ""
+msgstr "Новы касцюм з камеры"
 
 msgid "New costume:"
-msgstr ""
+msgstr "Новы касцюм:"
 
 msgid "New name"
-msgstr ""
+msgstr "Новае імя"
 
 msgid "New sound:"
-msgstr ""
+msgstr "Новы гук:"
 
 msgid "New sprite from camera"
-msgstr ""
+msgstr "Новы спрайт з камеры"
 
 msgid "New sprite:"
-msgstr ""
+msgstr "Новы спрайт:"
 
 msgid "No motion blocks"
-msgstr ""
+msgstr "Няма блокаў руху"
 
 msgid "Not saved; network or server problem."
-msgstr ""
+msgstr "Не захавана; праблема з сеткай альбо серверам."
 
 msgid "Not saved; project did not load."
-msgstr ""
+msgstr "Не захавана; праект не загружаны."
 
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgid "Offline Editor"
-msgstr ""
+msgstr "Офлайн рэдактар"
 
 msgid "Open"
-msgstr ""
+msgstr "Адкрыць"
 
 msgid "Open Cuica"
-msgstr ""
+msgstr "Адкрытая Куіка"
 
 msgid "Open Hi-Hat"
-msgstr ""
+msgstr "Адкрытыя Талеркі"
 
 msgid "Open Project"
-msgstr ""
+msgstr "Адкрыць праект"
 
 msgid "Options"
-msgstr ""
+msgstr "Параметры"
 
 msgid "Organ"
-msgstr ""
+msgstr "Арган"
 
 msgid "Other"
-msgstr ""
+msgstr "Іншае"
 
 msgid "Outdoors"
-msgstr ""
+msgstr "На вольным паветры"
 
 msgid "Paint new backdrop"
-msgstr ""
+msgstr "Намаляваць новы фон"
 
 msgid "Paint new costume"
-msgstr ""
+msgstr "Намаляваць новы касцюм"
 
 msgid "Paint new sprite"
-msgstr ""
+msgstr "Намаляваць новы спрайт"
 
 msgid "Password"
-msgstr ""
+msgstr "Пароль"
 
 msgid "Password is required"
-msgstr ""
+msgstr "Неабходны пароль"
 
 msgid "Pencil"
-msgstr ""
+msgstr "Аловак"
 
 msgid "People"
-msgstr ""
+msgstr "Людзі"
 
 msgid "Percussion"
-msgstr ""
+msgstr "Перкусія"
 
 msgid "Piano"
-msgstr ""
+msgstr "Піяніна"
 
 msgid "Pick up color"
-msgstr ""
+msgstr "Узяць колер"
 
 msgid "Pizzicato"
-msgstr ""
+msgstr "Піцыката"
 
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "Калі ласка, зайдзіце на старонку сцягвання, каб усталяваць яго."
 
 msgid "Profile"
-msgstr ""
+msgstr "Профіль"
 
 msgid "Project did not load."
-msgstr ""
+msgstr "Праект не загружаны."
 
 msgid "Project name"
-msgstr ""
+msgstr "Назва праекта"
 
 msgid "Project name is required"
-msgstr ""
+msgstr "Трэба назва праекта"
 
 msgid "Project not saved!"
-msgstr ""
+msgstr "Праект не захаваны!"
 
 msgid "Quit"
-msgstr ""
+msgstr "Выйсці"
 
 msgid "Record"
-msgstr ""
+msgstr "Запісаць"
 
 msgid "Record Project Video"
 msgstr ""
 
 msgid "Record new sound"
-msgstr ""
+msgstr "Запісаць новы гук"
 
 msgid "Rectangle"
-msgstr ""
+msgstr "Прамавугольнік"
 
 msgid "Redo"
-msgstr ""
+msgstr "Вярнуць"
 
 msgid "Remix"
-msgstr ""
+msgstr "Рэмікс"
 
 msgid "Remixing..."
-msgstr ""
+msgstr "Стварэнне рэміксу..."
 
 msgid "Remove Background"
 msgstr ""
 
 msgid "Rename"
-msgstr ""
+msgstr "Змяніць назву"
 
 msgid "Replace existing project?"
-msgstr ""
+msgstr "Замяніць існуючы праект?"
 
 msgid "Reshape"
-msgstr ""
+msgstr "Змяніць форму"
 
 msgid "Revert"
-msgstr ""
+msgstr "Вярнуць"
 
 msgid "Reverting..."
-msgstr ""
+msgstr "Вяртанне..."
 
 msgid "Run without screen refresh"
-msgstr ""
+msgstr "Выканаць без аднаўлення экрану"
 
 msgid "Running pre-release"
-msgstr ""
+msgstr "Працуе перадрэлізная версія"
 
 msgid "Save"
-msgstr ""
+msgstr "Захаваць"
 
 msgid "Save Project"
-msgstr ""
+msgstr "Захаваць праект"
 
 msgid "Save a copy of this project and add your own ideas."
-msgstr ""
+msgstr "Захаваць копію гэтага праекта і дадаць свае ўласныя ідэі."
 
 msgid "Save as"
-msgstr ""
+msgstr "Захаваць як"
 
 msgid "Save as a copy"
-msgstr ""
+msgstr "Захаваць як копію"
 
 msgid "Save now"
-msgstr ""
+msgstr "Захаваць"
 
 msgid "Save project?"
-msgstr ""
+msgstr "Захаваць праект?"
 
 msgid "Saved"
-msgstr ""
+msgstr "Захавана"
 
 msgid "Saving changes..."
-msgstr ""
+msgstr "Захаванне зменаў..."
 
 msgid "Saving..."
-msgstr ""
+msgstr "Захаванне..."
 
 msgid "Saxophone"
-msgstr ""
+msgstr "Саксафон"
 
 msgid "Scratch Updater"
-msgstr ""
+msgstr "Праграма абнаўлення Scratch"
 
 msgid "Script"
-msgstr ""
+msgstr "Скрыпт"
 
 msgid "Scripts"
-msgstr ""
+msgstr "Скрыпты"
 
 msgid "See project page"
-msgstr ""
+msgstr "Старонка праекта"
 
 msgid "Select"
-msgstr ""
+msgstr "Выбраць"
 
 msgid "Select and duplicate"
-msgstr ""
+msgstr "Выбраць і падвоіць"
 
 msgid "Send to back"
-msgstr ""
+msgstr "Перанесці назад"
 
 msgid "Server error:"
-msgstr ""
+msgstr "Памылка сервера:"
 
 msgid "Set Costume Center"
-msgstr ""
+msgstr "Пазначыць цэнтр касцюма"
 
 msgid "Set costume center"
-msgstr ""
+msgstr "Пазначыць цэнтр касцюма"
 
 msgid "Share"
-msgstr ""
+msgstr "Апублікаваць"
 
 msgid "Share to Scratch Website"
-msgstr ""
+msgstr "Апублікаваць на сайце Scratch"
 
 msgid "Share to website"
-msgstr ""
+msgstr "Апублікаваць на сайце"
 
 msgid "Shift:"
-msgstr ""
+msgstr "Shift:"
 
 msgid "Shrink"
-msgstr ""
+msgstr "Сціснуць"
 
 msgid "Side Stick"
-msgstr ""
+msgstr "Удар па барабану збоку"
 
 msgid "Sign in"
-msgstr ""
+msgstr "Увайсці"
 
 msgid "Sign in to save"
-msgstr ""
+msgstr "Трэба ўвайсці, каб захаваць змены"
 
 msgid "Sign out"
-msgstr ""
+msgstr "Выйсці"
 
 msgid "Slider Range"
-msgstr ""
+msgstr "Дыяпазон паўзунка"
 
 msgid "Small stage layout"
-msgstr ""
+msgstr "Макет малой сцэны"
 
 msgid "Smooth"
-msgstr ""
+msgstr "Згладзіць"
 
 msgid "Snare Drum"
-msgstr ""
+msgstr "Малы барабан"
 
 msgid "Sound"
-msgstr ""
+msgstr "Гук"
 
 msgid "Sound Library"
-msgstr ""
+msgstr "Бібліятэка гукаў"
 
 msgid "Sounds"
-msgstr ""
+msgstr "Гукі"
 
 msgid "Space"
-msgstr ""
+msgstr "Прабел"
 
 msgid "Sports"
-msgstr ""
+msgstr "Спорт"
 
 msgid "Sprite"
-msgstr ""
+msgstr "Спрайт"
 
 msgid "Sprite Library"
-msgstr ""
+msgstr "Бібліятэка спрайтаў"
 
 msgid "Sprite1"
-msgstr ""
+msgstr "Спрайт1"
 
 msgid "Sprites"
-msgstr ""
+msgstr "Спрайты"
 
 msgid "Square"
-msgstr ""
+msgstr "Квадрат"
 
 msgid "Stage"
-msgstr ""
+msgstr "Сцэна"
 
 msgid "Stage selected:"
-msgstr ""
+msgstr "Абрана сцэна:"
 
 msgid "Steel Drum"
-msgstr ""
+msgstr "Стальны барабан"
 
 msgid "Success"
-msgstr ""
+msgstr "Паспяховае заканчэнне"
 
 msgid "Synth Lead"
-msgstr ""
+msgstr "Вядучы сінтэзатар"
 
 msgid "Synth Pad"
-msgstr ""
+msgstr "Сінтэзатар Pad"
 
 msgid "Tambourine"
-msgstr ""
+msgstr "Тамбурын"
 
 msgid "Text"
-msgstr ""
+msgstr "Тэкст"
 
 msgid "Theme"
-msgstr ""
+msgstr "Тэма"
 
 msgid "Things"
-msgstr ""
+msgstr "Рэчы"
 
 msgid "This is the current version."
-msgstr ""
+msgstr "Гэта апошняя версія."
 
 msgid ""
 "This project can detect who is using it, through the “username” block. To "
 "hide your identity, sign out before using the project."
 msgstr ""
+"Гэты праект можа праз блок “карыстальнік” вызначыць, хто ім карыстаецца. Каб "
+"схаваць, хто вы, разлагіньцеся перад выкарыстаннем праекта."
 
 msgid ""
 "This project uses Cloud data ‒ a feature that is available only to signed in "
 "users."
 msgstr ""
+"Гэты праект выкарыстовае Воблачныя дадзеныя. Гэтая функцыя даступная толькі "
+"для аўтарызаваных карыстальнікаў."
 
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "Гэтая версія больш новая за бягучую стабільную версію."
 
 msgid "Throw away all changes since opening this project?"
-msgstr ""
+msgstr "Прыбраць усе змены з моманту адкрыцця гэтага праекта?"
 
 msgid "Tips"
-msgstr ""
+msgstr "Парады"
 
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr ""
+"Каб выдаліць блок, спачатку трэба выдаліць усе выпадкі яго выкарыстання."
 
 msgid "Transportation"
-msgstr ""
+msgstr "Транспарт"
 
 msgid "Triangle"
-msgstr ""
+msgstr "Трохвугольнік"
 
 msgid "Trombone"
-msgstr ""
+msgstr "Трамбон"
 
 msgid "Turbo Mode"
-msgstr ""
+msgstr "Рэжым турба"
 
 msgid "Turbo mode"
-msgstr ""
+msgstr "Рэжым турба"
 
 msgid "Type"
-msgstr ""
+msgstr "Тып"
 
 msgid "Undelete"
-msgstr ""
+msgstr "Вярнуць выдаленае"
 
 msgid "Underwater"
-msgstr ""
+msgstr "Падводны свет"
 
 msgid "Undo"
-msgstr ""
+msgstr "Адмяніць"
 
 msgid "Undo Revert"
-msgstr ""
+msgstr "Адмяніць вяртанне"
 
 msgid "Ungroup"
-msgstr ""
+msgstr "Разгрупаваць"
 
 msgid "Update check failed"
-msgstr ""
+msgstr "Не атрымалася праверыць наяўнасць абнаўленняў"
 
 msgid "Update failed"
-msgstr ""
+msgstr "Памылка абнаўлення"
 
 msgid "Update not needed"
-msgstr ""
+msgstr "Абнаўленне не патрэбнае"
 
 msgid "Update now"
-msgstr ""
+msgstr "Абнавіць цяпер"
 
 msgid "Upload backdrop from file"
-msgstr ""
+msgstr "Загрузіць фон з файла"
 
 msgid "Upload costume from file"
-msgstr ""
+msgstr "Загрузіць касцюм з файла"
 
 msgid "Upload failed"
-msgstr ""
+msgstr "Загрузка няўдалая"
 
 msgid "Upload from your computer"
-msgstr ""
+msgstr "Загрузіць з камп'ютара"
 
 msgid "Upload sound from file"
-msgstr ""
+msgstr "Загрузіць гук з файла"
 
 msgid "Upload sprite from file"
-msgstr ""
+msgstr "Загрузіць спрайт з файла"
 
 msgid "Uploading image..."
-msgstr ""
+msgstr "Загрузка малюнка..."
 
 msgid "Uploading sound..."
-msgstr ""
+msgstr "Загрузка гуку.."
 
 msgid "Uploading sprite..."
-msgstr ""
+msgstr "Загрузка спрайта..."
 
 msgid "Variable name"
-msgstr ""
+msgstr "Імя пераменнай"
 
 msgid "Vector"
-msgstr ""
+msgstr "Вектар"
 
 msgid "Vector Mode"
-msgstr ""
+msgstr "Вектарны рэжым"
 
 msgid "Vibraphone"
-msgstr ""
+msgstr "Вібрафон"
 
 msgid "Vibraslap"
-msgstr ""
+msgstr "Вібраслэп"
 
 msgid "Video on:"
-msgstr ""
+msgstr "Уключана відэа:"
 
 msgid "Visit download page"
-msgstr ""
+msgstr "Перайсці на старонку сцягвання"
 
 msgid "Vocals"
-msgstr ""
+msgstr "Вакал"
 
 msgid "Walking"
-msgstr ""
+msgstr "Хадакі"
 
 msgid "Want to save? Click remix"
-msgstr ""
+msgstr "Хочаце захаваць? Націсніце рэмікс"
 
 msgid "Which column do you want to import"
-msgstr ""
+msgstr "Якую калонку вы хочаце імпартаваць"
 
 msgid "Wood Block"
-msgstr ""
+msgstr "Драўляная скрыначка"
 
 msgid "Wooden Flute"
-msgstr ""
+msgstr "Драўляная флейта"
 
 msgid ""
 "You cannot edit cloud data in someone else's project.<br>Any change that you "
 "make in the editor will be temporary and not persistent."
 msgstr ""
+"Вы не можаце рэдагаваць воблачныя дадзеныя ў чужых праектах.<br>Любыя змены, "
+"якія вы зробіце ў рэдактары, будуць часовымі."
 
 msgid "Your Scratch name"
-msgstr ""
+msgstr "Ваша імя ў Scratch"
 
 msgid "Your Scratch name is required"
-msgstr ""
+msgstr "Абавязкова запоўніць імя"
 
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "Ваш праект быў загружаны на scratch.mit.edu"
 
 msgid "a copy of the project file on your computer."
-msgstr ""
+msgstr "копію файла праекта на вашым кампутары"
 
 msgid "abs"
-msgstr ""
+msgstr "модуль"
 
 msgid "acos"
-msgstr ""
+msgstr "acos"
 
 msgid "add comment"
-msgstr ""
+msgstr "дадаць каментар"
 
 msgid "all"
-msgstr ""
+msgstr "усе"
 
 msgid "all around"
-msgstr ""
+msgstr "навокал"
 
 msgid "any"
 msgstr ""
 
 msgid "asin"
-msgstr ""
+msgstr "asin"
 
 msgid "assets loaded"
-msgstr ""
+msgstr "унёскі (асэты) загружаныя"
 
 msgid "atan"
-msgstr ""
+msgstr "atan"
 
 msgid "backdrop"
-msgstr ""
+msgstr "фон"
 
 msgid "backdrop #"
-msgstr ""
+msgstr "фон #"
 
 msgid "backdrop name"
-msgstr ""
+msgstr "імя фону"
 
 msgid "backdrop1"
-msgstr ""
+msgstr "фон1"
 
 msgid "backdrops"
-msgstr ""
+msgstr "фоны"
 
 msgid "brightness"
-msgstr ""
+msgstr "яркасць"
 
 msgid "button pressed"
-msgstr ""
+msgstr "кнопка націснутая"
 
 msgid "by"
-msgstr ""
+msgstr "аўтар"
 
 msgid "bytes loaded"
-msgstr ""
+msgstr "байт загружана"
 
 msgid "can drag in player:"
-msgstr ""
+msgstr "можна перацягнуць ў плэер:"
 
 msgid "ceiling"
-msgstr ""
+msgstr "ліміт"
 
 msgid "clean up"
-msgstr ""
+msgstr "ачысціць"
 
 msgid "clear senders/receivers"
-msgstr ""
+msgstr "ачысціць дасланае/атрыманае"
 
 msgid "color"
-msgstr ""
+msgstr "колер"
 
 msgid "copy"
-msgstr ""
+msgstr "капіяваць"
 
 msgid "cos"
-msgstr ""
+msgstr "cos"
 
 msgid "costume1"
-msgstr ""
+msgstr "касцюм1"
 
 msgid "costume2"
-msgstr ""
+msgstr "касцюм2"
 
 msgid "cut"
-msgstr ""
+msgstr "выразаць"
 
 msgid "date"
-msgstr ""
+msgstr "дата"
 
 msgid "day of week"
-msgstr ""
+msgstr "дзень тыдня"
 
 msgid "delete"
-msgstr ""
+msgstr "выдаліць"
 
 msgid "delete variable"
-msgstr ""
+msgstr "выдаліць пераменную"
 
 msgid "direction"
-msgstr ""
+msgstr "напрамак"
 
 msgid "direction:"
-msgstr ""
+msgstr "напрамак:"
 
 msgid "don't rotate"
-msgstr ""
+msgstr "не круціць"
 
 msgid "down"
-msgstr ""
+msgstr "уніз"
 
 msgid "down arrow"
-msgstr ""
+msgstr "стрэлка ўніз"
 
 msgid "duplicate"
-msgstr ""
+msgstr "падвоіць"
 
 msgid "e ^"
-msgstr ""
+msgstr "e ^"
 
 msgid "edge"
-msgstr ""
+msgstr "мяжа"
 
 msgid "edit"
-msgstr ""
+msgstr "змяніць"
 
 msgid "export"
-msgstr ""
+msgstr "экспарт"
 
 msgid "fade in"
-msgstr ""
+msgstr "паступова ўзмацняць"
 
 msgid "fade out"
-msgstr ""
+msgstr "паступова знікаць"
 
 msgid "fisheye"
-msgstr ""
+msgstr "рыбіна вока"
 
 msgid "floor"
-msgstr ""
+msgstr "меншае цэлае"
 
 msgid "ghost"
-msgstr ""
+msgstr "прывід"
 
 msgid "help"
-msgstr ""
+msgstr "даведка"
 
 msgid "hide"
-msgstr ""
+msgstr "схаваць"
 
 msgid "hour"
-msgstr ""
+msgstr "гадзіна"
 
 msgid "import"
-msgstr ""
+msgstr "імпарт"
 
 msgid "large readout"
-msgstr ""
+msgstr "вялікія літары"
 
 msgid "last"
-msgstr ""
+msgstr "апошні"
 
 msgid "left"
-msgstr ""
+msgstr "налева"
 
 msgid "left arrow"
-msgstr ""
+msgstr "стрэлка налева"
 
 msgid "left-right"
-msgstr ""
+msgstr "налева-направа"
 
 msgid "length"
-msgstr ""
+msgstr "даўжыня"
 
 msgid "light"
-msgstr ""
+msgstr "святло"
 
 msgid "limit reached"
-msgstr ""
+msgstr "дасягнута абмежаванне"
 
 msgid "list"
-msgstr ""
+msgstr "спіс"
 
 msgid "ln"
-msgstr ""
+msgstr "ln"
 
 msgid "log"
-msgstr ""
+msgstr "log"
 
 msgid "louder"
-msgstr ""
+msgstr "гучней"
 
 msgid "loudness"
-msgstr ""
+msgstr "гучнасць"
 
 msgid "meow"
-msgstr ""
+msgstr "мяў"
 
 msgid "message1"
-msgstr ""
+msgstr "паведамленне1"
 
 msgid "minute"
-msgstr ""
+msgstr "хвіліна"
 
 msgid "month"
-msgstr ""
+msgstr "месяц"
 
 msgid "mosaic"
-msgstr ""
+msgstr "мазаіка"
 
 msgid "motion"
-msgstr ""
+msgstr "рух"
 
 msgid "mouse-pointer"
-msgstr ""
+msgstr "мыш"
 
 msgid "myself"
-msgstr ""
+msgstr "сябе"
 
 msgid "new message..."
-msgstr ""
+msgstr "новае паведамленне..."
 
 msgid "next backdrop"
-msgstr ""
+msgstr "наступны фон"
 
 msgid "normal readout"
-msgstr ""
+msgstr "звычайнае счытванне"
 
 msgid "of"
-msgstr ""
+msgstr "з"
 
 msgid "off"
-msgstr ""
+msgstr "выкл"
 
 msgid "on"
-msgstr ""
+msgstr "укл"
 
 msgid "on-flipped"
-msgstr ""
+msgstr "адлюстравана"
 
 msgid "other scripts in sprite"
-msgstr ""
+msgstr "іншыя скрыпты спрайта"
 
 msgid "other scripts in stage"
-msgstr ""
+msgstr "іншыя скрыпты сцэны"
 
 msgid "paste"
-msgstr ""
+msgstr "уставіць"
 
 msgid "photo1"
-msgstr ""
+msgstr "здымак1"
 
 msgid "pixelate"
-msgstr ""
+msgstr "буйныя пікселі"
 
 msgid "pop"
-msgstr ""
+msgstr "поп"
 
 msgid "previous backdrop"
-msgstr ""
+msgstr "папярэдні фон"
 
 msgid "random"
-msgstr ""
+msgstr "выпадковы"
 
 msgid "random position"
 msgstr ""
 
 msgid "record..."
-msgstr ""
+msgstr "запіс..."
 
 msgid "recording1"
-msgstr ""
+msgstr "запіс1"
 
 msgid "redo"
-msgstr ""
+msgstr "вярнуць"
 
 msgid "rename variable"
-msgstr ""
+msgstr "змяніць імя пераменнай"
 
 msgid "requires sign in"
-msgstr ""
+msgstr "неабходна ўвайсці"
 
 msgid "resistance-A"
-msgstr ""
+msgstr "супраціўленне-А"
 
 msgid "resistance-B"
-msgstr ""
+msgstr "супраціўленне-B"
 
 msgid "resistance-C"
-msgstr ""
+msgstr "супраціўленне-C"
 
 msgid "resistance-D"
-msgstr ""
+msgstr "супраціўленне-D"
 
 msgid "reverse"
-msgstr ""
+msgstr "у адваротным парадку"
 
 msgid "right"
-msgstr ""
+msgstr "направа"
 
 msgid "right arrow"
-msgstr ""
+msgstr "стрэлка направа"
 
 msgid "rotation style:"
-msgstr ""
+msgstr "стыль кручэння:"
 
 msgid "save to local file"
-msgstr ""
+msgstr "захаваць як лакальны файл"
 
 msgid "second"
-msgstr ""
+msgstr "секунда"
 
 msgid "select all"
-msgstr ""
+msgstr "выбраць усё"
 
 msgid "set slider min and max"
-msgstr ""
+msgstr "задаць найменшае і найбольшае значэнні паўзунка"
 
 msgid "shared"
-msgstr ""
+msgstr "апублікавана"
 
 msgid "show"
-msgstr ""
+msgstr "паказаць"
 
 msgid "show:"
-msgstr ""
+msgstr "паказаць:"
 
 msgid "silence"
-msgstr ""
+msgstr "цішыня"
 
 msgid "sin"
-msgstr ""
+msgstr "sin"
 
 msgid "slider"
-msgstr ""
+msgstr "паўзунок"
 
 msgid "softer"
-msgstr ""
+msgstr "мякчэй"
 
 msgid "sound"
-msgstr ""
+msgstr "гук"
 
 msgid "space"
-msgstr ""
+msgstr "прабел"
 
 msgid "sqrt"
-msgstr ""
+msgstr "квадратны корань"
 
 msgid "tan"
-msgstr ""
+msgstr "tan"
 
 msgid "text"
-msgstr ""
+msgstr "тэкст"
 
 msgid "that way"
-msgstr ""
+msgstr "туды"
 
 msgid "this script"
-msgstr ""
+msgstr "гэты скрыпт"
 
 msgid "this sprite"
-msgstr ""
+msgstr "гэты спрайт"
 
 msgid "this way"
-msgstr ""
+msgstr "сюды"
 
 msgid "timer"
-msgstr ""
+msgstr "таймер"
 
 msgid "undo"
-msgstr ""
+msgstr "адмяніць"
 
 msgid "unshared"
-msgstr ""
+msgstr "не апублікавана"
 
 msgid "up"
-msgstr ""
+msgstr "уверх"
 
 msgid "up arrow"
-msgstr ""
+msgstr "стрэлка ўверх"
 
 msgid "variable"
-msgstr ""
+msgstr "пераменная"
 
 msgid "video direction"
-msgstr ""
+msgstr "напрамак відэа"
 
 msgid "video motion"
-msgstr ""
+msgstr "рух відэа"
 
 msgid "volume"
-msgstr ""
+msgstr "гучнасць"
 
 msgid "whirl"
-msgstr ""
+msgstr "вір"
 
 msgid "year"
-msgstr ""
+msgstr "год"
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
 "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
 "For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
+"<b>Інфармацыя пра Воблачныя пераменныя</b><br>&nbsp;<br>Пакуль што "
+"падтрымліваюцца толькі лікі<br>Чаты не дазволеныя і будуць выдаляцца<br>"
+"Дадатковая інфармацыя ў <a href= target=>даведніку па воблачных дадзеных!</a>"
 
 msgid "Click  to try again or  to save"
-msgstr ""
+msgstr "Націсні  , каб паспрабаваць зноўку ці  каб захаваць"
 
 msgid "Cloud"
-msgstr ""
+msgstr "Воблака"
 
 msgid "costume #"
-msgstr ""
+msgstr "касцюм #"
 
 msgid "costume name"
-msgstr ""
+msgstr "імя касцюма"
 
 msgid "Costumes:"
-msgstr ""
+msgstr "Касцюмы:"
 
 msgid "Eraser width:"
-msgstr ""
+msgstr "Шырыня гумкі:"
 
 msgid "Line width:"
-msgstr ""
+msgstr "Шырыня рысы:"
 
 msgid "Scripts:"
-msgstr ""
+msgstr "Скрыпты:"
 
 msgid "show receivers"
-msgstr ""
+msgstr "паказаць адрасатаў"
 
 msgid "show senders"
-msgstr ""
+msgstr "паказаць аўтараў"
 
 msgid "size"
-msgstr ""
+msgstr "памер"
 
 msgid "stored on server"
-msgstr ""
+msgstr "захавана на серверы"
 
 msgid "x position"
-msgstr ""
+msgstr "пазіцыя па х"
 
 msgid "y position"
-msgstr ""
+msgstr "пазіцыя па у"
+
+#: uiStrings-online.txt:529
+#: uiStrings-offline.txt:531
+msgid "rename broadcast"
+msgstr "змяніць назву трансляцыі"
+
+#: uiStrings-online.txt:777
+#: uiStrings-offline.txt:793
+msgid "when Stage clicked"
+msgstr "калі сцэна націснута"

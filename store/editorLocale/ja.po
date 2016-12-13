@@ -1842,7 +1842,7 @@ msgid "Remove Background"
 msgstr "背景を削除"
 
 msgid "any"
-msgstr "任意の"
+msgstr "どれかの"
 
 msgid "random position"
 msgstr "ランダムな場所"

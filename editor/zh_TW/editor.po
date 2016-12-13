@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2016-09-03 01:54+0000\n"
-"Last-Translator: Chun-Nan <brian030218@outlook.com>\n"
+"PO-Revision-Date: 2016-12-11 01:52+0000\n"
+"Last-Translator: dnowba <d.now.ba@gmail.com>\n"
 "Language-Team: Chinese (traditional)  <zh-l10n@lists.linux.org.tw>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1472867679.000000\n"
+"X-POOTLE-MTIME: 1481421165.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -190,7 +190,7 @@ msgid "C connected"
 msgstr "C 已連接"
 
 msgid "Cabasa"
-msgstr "抓筒"
+msgstr "鐵沙鈴"
 
 msgid "Camera"
 msgstr "相機"
@@ -250,7 +250,7 @@ msgid "Clarinet"
 msgstr "單簧管"
 
 msgid "Claves"
-msgstr "古鋼琴"
+msgstr "梆子"
 
 msgid "clean up"
 msgstr "整理程式區"
@@ -389,7 +389,7 @@ msgid "down"
 msgstr "下"
 
 msgid "down arrow"
-msgstr "向下鍵"
+msgstr "向下"
 
 msgid "Download"
 msgstr "下載"
@@ -528,7 +528,7 @@ msgid "Grow"
 msgstr "放大"
 
 msgid "Guiro"
-msgstr "吉羅"
+msgstr "刮瓜"
 
 msgid "Guitar"
 msgstr "吉他"
@@ -595,7 +595,7 @@ msgid "left"
 msgstr "左"
 
 msgid "left arrow"
-msgstr "向左鍵"
+msgstr "向左"
 
 msgid "left-right"
 msgstr "左-右"
@@ -643,10 +643,10 @@ msgid "log"
 msgstr "log"
 
 msgid "louder"
-msgstr "更大聲"
+msgstr "漸強"
 
 msgid "loudness"
-msgstr "音量值"
+msgstr "響度"
 
 msgid "Low C"
 msgstr "低音 C"
@@ -661,7 +661,7 @@ msgid "Make a Variable"
 msgstr "製做一個變數"
 
 msgid "Marimba"
-msgstr "立奏木琴"
+msgstr "馬林巴"
 
 msgid "Max"
 msgstr "最大值"
@@ -971,7 +971,7 @@ msgid "right"
 msgstr "右"
 
 msgid "right arrow"
-msgstr "向右鍵"
+msgstr "向右"
 
 msgid "rotation style:"
 msgstr "旋轉方式："
@@ -1126,7 +1126,7 @@ msgid "Snare Drum"
 msgstr "軍鼓"
 
 msgid "softer"
-msgstr "柔和"
+msgstr "漸弱"
 
 msgid "sound"
 msgstr "音效"
@@ -1142,10 +1142,10 @@ msgstr "音效"
 
 # 80%
 msgid "Space"
-msgstr "空間"
+msgstr "太空"
 
 msgid "space"
-msgstr "空白鍵"
+msgstr "空白"
 
 msgid "Sports"
 msgstr "運動"
@@ -1258,7 +1258,7 @@ msgid "Transportation"
 msgstr "交通工具"
 
 msgid "Triangle"
-msgstr "三角形"
+msgstr "三角鐵"
 
 msgid "Trombone"
 msgstr "長號"
@@ -1302,7 +1302,7 @@ msgid "up"
 msgstr "上"
 
 msgid "up arrow"
-msgstr "向上鍵"
+msgstr "向上"
 
 msgid "Update failed"
 msgstr "更新失敗"
@@ -1353,7 +1353,7 @@ msgid "Vibraphone"
 msgstr "抖音琴"
 
 msgid "Vibraslap"
-msgstr "顫擊"
+msgstr "振盪器"
 
 msgid "video direction"
 msgstr "影片方向"
@@ -1386,7 +1386,7 @@ msgid "whirl"
 msgstr "旋轉"
 
 msgid "Wood Block"
-msgstr "發音木塊"
+msgstr "木魚"
 
 msgid "Wooden Flute"
 msgstr "木笛"

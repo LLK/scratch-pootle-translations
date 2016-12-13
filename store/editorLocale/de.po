@@ -1041,7 +1041,7 @@ msgid "light"
 msgstr "Helligkeit"
 
 msgid "limit reached"
-msgstr "Grenze erreicht"
+msgstr "Limit erreicht"
 
 msgid "Line"
 msgstr "Linie"
@@ -1900,25 +1900,25 @@ msgid "random position"
 msgstr "Zufallsposition"
 
 msgid "Cloud list (stored on server)"
-msgstr ""
+msgstr "Cloud List (auf dem Server gespeichert)"
 
 msgid "Dance"
-msgstr ""
+msgstr "Tanz"
 
 msgid "Dress-Up"
-msgstr ""
+msgstr "Dress-Up"
 
 msgid "Music"
-msgstr ""
+msgstr "Musik"
 
 msgid "Musical Notes"
-msgstr ""
+msgstr "Musikalische Hinweise"
 
 msgid "My Class"
-msgstr ""
+msgstr "Meine Klasse"
 
 msgid "My Classes"
-msgstr ""
+msgstr "Meine Klassen"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

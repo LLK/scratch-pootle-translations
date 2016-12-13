@@ -725,7 +725,7 @@ msgid "Cloud data"
 msgstr "Cloud data"
 
 msgid "Cloud variable (stored on server)"
-msgstr ""
+msgstr "Cloudová premenná (uložená na serveri)"
 
 msgid "color"
 msgstr "farba"
@@ -1896,25 +1896,25 @@ msgid "random position"
 msgstr "náhodná pozícia"
 
 msgid "Cloud list (stored on server)"
-msgstr ""
+msgstr "Cloudový zoznam (uložený na serveri)"
 
 msgid "Dance"
-msgstr ""
+msgstr "Tancovať"
 
 msgid "Dress-Up"
-msgstr ""
+msgstr "Obliekať sa"
 
 msgid "Music"
-msgstr ""
+msgstr "Hudba"
 
 msgid "Musical Notes"
-msgstr ""
+msgstr "Noty"
 
 msgid "My Class"
-msgstr ""
+msgstr "Moja trieda"
 
 msgid "My Classes"
-msgstr ""
+msgstr "Moje triedy"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
