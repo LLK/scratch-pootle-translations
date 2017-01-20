@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-12-07 13:15+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2017-01-20 12:16+0000\n"
+"Last-Translator: Olier <o.armogn@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: br\n"
 "MIME-Version: 1.0\n"
@@ -12,467 +12,467 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1481116525.000000\n"
+"X-POOTLE-MTIME: 1484914619.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
 msgstr ""
 
 msgid "%b and %b"
-msgstr ""
+msgstr "%b ha %b"
 
 msgid "%b or %b"
-msgstr ""
+msgstr "%b pe %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr ""
+msgstr "%m.attribute ar, an, al %m.spriteOrStage"
 
 msgid "%m.list contains %s"
 msgstr ""
 
 msgid "%m.mathOp of %n"
-msgstr ""
+msgstr "%m.mathOp %n"
 
 msgid "%m.sensor sensor value"
-msgstr ""
+msgstr "talvoud ar santer %m.sensor"
 
 msgid "%n mod %n"
-msgstr ""
+msgstr "%n mod %n"
 
 msgid "add %s to %m.list"
-msgstr ""
+msgstr "ouzhpennañ %s e %m.list"
 
 msgid "answer"
-msgstr ""
+msgstr "respont"
 
 msgid "ask %s and wait"
-msgstr ""
+msgstr "goulenn %s ha gortoz"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
-msgstr ""
+msgstr "drekleur #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "anv an drekleur"
 
 msgid "broadcast %m.broadcast"
-msgstr ""
+msgstr "kas %m.broadcast d'an holl"
 
 msgid "broadcast %m.broadcast and wait"
-msgstr ""
+msgstr "kas %m.broadcast d'an holl ha gortoz"
 
 msgid "change %m.effect effect by %n"
-msgstr ""
+msgstr "cheñch an efed %m.effect gant %n"
 
 msgid "change %m.var by %n"
-msgstr ""
+msgstr "cheñch %m.var gant %n"
 
 msgid "change pen color by %n"
-msgstr ""
+msgstr "cheñch liv ar stilo gant %n"
 
 msgid "change pen shade by %n"
-msgstr ""
+msgstr "cheñch kreñvder ar stilo gant %n"
 
 msgid "change pen size by %n"
-msgstr ""
+msgstr "cheñch tevder ar stilo gant %n"
 
 msgid "change size by %n"
-msgstr ""
+msgstr "cheñch ar vent gant %n"
 
 msgid "change tempo by %n"
-msgstr ""
+msgstr "cheñch tempo gant %n"
 
 msgid "change volume by %n"
-msgstr ""
+msgstr "cheñch ar volum eus %/n"
 
 msgid "change x by %n"
-msgstr ""
+msgstr "cheñch x eus %n"
 
 msgid "change y by %n"
-msgstr ""
+msgstr "cheñch y eus %n"
 
 msgid "clear"
-msgstr ""
+msgstr "dilemel"
 
 msgid "clear graphic effects"
-msgstr ""
+msgstr "dilemel an efedoù grafikel"
 
 msgid "color %c is touching %c?"
-msgstr ""
+msgstr "al liv %c stok ouzh %c?"
 
 msgid "Control"
-msgstr ""
+msgstr "Kontroll"
 
 msgid "costume #"
-msgstr ""
+msgstr "gwiskamant #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "krouiñ ur c'hlon eus %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "%m.timeAndDate a-vremañ"
 
 msgid "Data"
-msgstr ""
+msgstr "Roadennoù"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "devezhioù abaoe 2000"
 
 msgid "define"
-msgstr ""
+msgstr "termeniñ"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr ""
+msgstr "dilemel %d.listDeleteItem eus %m.list"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "dilemel ar c'hlon-mañ"
 
 msgid "direction"
-msgstr ""
+msgstr "tu"
 
 msgid "distance"
-msgstr ""
+msgstr "hed"
 
 msgid "distance to %m.spriteOrMouse"
-msgstr ""
+msgstr "hed betek %m.spriteOrMouse"
 
 msgid "else"
-msgstr ""
+msgstr "a-hend-all"
 
 msgid "Events"
-msgstr ""
+msgstr "Darvoudoù"
 
 msgid "forever"
-msgstr ""
+msgstr "da viken"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr ""
+msgstr "riklañ %n s da x:%n y:%n"
 
 msgid "go back %n layers"
-msgstr ""
+msgstr "mont %n gwiskad en adreñv"
 
 msgid "go to %m.spriteOrMouse"
 msgstr ""
 
 msgid "go to front"
-msgstr ""
+msgstr "kas en dalenn gentañ"
 
 msgid "go to x:%n y:%n"
-msgstr ""
+msgstr "mont da x:%n y:%n"
 
 msgid "hide"
-msgstr ""
+msgstr "kuzhat"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "kuzhat ar roll %m.list"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "kuzhat ar varienn %m.var"
 
 msgid "if %b then"
-msgstr ""
+msgstr "ma %b neuze"
 
 msgid "if on edge, bounce"
-msgstr ""
+msgstr "distreiñ ma stok ar bord"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr ""
+msgstr "lakaat %s er renk %d.listItem e %m.list"
 
 msgid "item %d.listItem of %m.list"
-msgstr ""
+msgstr "elfenn %d.listItem eus %m.list"
 
 msgid "join %s %s"
-msgstr ""
+msgstr "strollañ %s %s"
 
 msgid "key %m.key pressed?"
-msgstr ""
+msgstr "touchenn %m.key pouezet ?"
 
 msgid "length of %m.list"
-msgstr ""
+msgstr "hirder ar roll %m.list"
 
 msgid "length of %s"
-msgstr ""
+msgstr "hirder %s"
 
 msgid "letter %n of %s"
-msgstr ""
+msgstr "lizherenn %n eus %s"
 
 msgid "Looks"
-msgstr ""
+msgstr "Tres"
 
 msgid "loudness"
-msgstr ""
+msgstr "live ar son"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "Ouzhpennañ bloc'hoù"
 
 msgid "Motion"
-msgstr ""
+msgstr "Fiñv"
 
 msgid "mouse down?"
-msgstr ""
+msgstr "logodenn pouezet ?"
 
 msgid "mouse x"
-msgstr ""
+msgstr "logodenn x"
 
 msgid "mouse y"
-msgstr ""
+msgstr "logodenn y"
 
 msgid "move %n steps"
-msgstr ""
+msgstr "fiñval eus %n kammed"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
-msgstr ""
+msgstr "drekleur da heul"
 
 msgid "next costume"
-msgstr ""
+msgstr "gwiskamant da heul"
 
 msgid "not %b"
-msgstr ""
+msgstr "ket %b"
 
 msgid "Operators"
-msgstr ""
+msgstr "Oberataerioù"
 
 msgid "Pen"
-msgstr ""
+msgstr "Stilo"
 
 msgid "pen down"
-msgstr ""
+msgstr "stilo prest da skrivañ"
 
 msgid "pen up"
-msgstr ""
+msgstr "kreion savet"
 
 msgid "pick random %n to %n"
-msgstr ""
+msgstr "dibab un niver etre %n ha %n"
 
 msgid "play drum %d.drum for %n beats"
-msgstr ""
+msgstr "seniñ taboulin %d.drum e-pad %n talm"
 
 msgid "play note %d.note for %n beats"
-msgstr ""
+msgstr "seniñ an notenn %d.note e-pad %n talm"
 
 msgid "play sound %m.sound"
-msgstr ""
+msgstr "seniñ ar son %m.sound"
 
 msgid "play sound %m.sound until done"
-msgstr ""
+msgstr "seniñ ar son %m.sound betek penn"
 
 msgid "point in direction %d.direction"
-msgstr ""
+msgstr "treiñ war-zu %d.direction"
 
 msgid "point towards %m.spriteOrMouse"
-msgstr ""
+msgstr "treiñ war-zu %m.spriteOrMouse"
 
 msgid "repeat %n"
-msgstr ""
+msgstr "adober %n"
 
 msgid "repeat until %b"
-msgstr ""
+msgstr "adober betek %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr ""
+msgstr "erlec'hiañ %s ouzh %d.listItem e %m.list"
 
 msgid "reset timer"
-msgstr ""
+msgstr "adderaouekaat ar c'hronometr"
 
 msgid "rest for %n beats"
-msgstr ""
+msgstr "chom a-sav e-pad %n talm"
 
 msgid "round %n"
-msgstr ""
+msgstr "nesaat %n"
 
 msgid "say %s"
-msgstr ""
+msgstr "lavaret %s"
 
 msgid "say %s for %n secs"
-msgstr ""
+msgstr "lavaret %s e-pad %n s"
 
 msgid "Sensing"
-msgstr ""
+msgstr "Santerioù"
 
 msgid "sensor %m.booleanSensor?"
-msgstr ""
+msgstr "santer %m.booleanSensor?"
 
 msgid "set %m.effect effect to %n"
-msgstr ""
+msgstr "lakaat an efed %m.effect da %n"
 
 msgid "set %m.var to %s"
-msgstr ""
+msgstr "lakaat %m.var da %s"
 
 msgid "set instrument to %d.instrument"
-msgstr ""
+msgstr "dibab ar benveg %d.instrument"
 
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr ""
+msgstr "lakaat tu ar c'heflusker %m.motor2 da %m.motorDirection"
 
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "lakaat galloud ar c'heflusker %m.motor da %n"
 
 msgid "set pen color to %c"
-msgstr ""
+msgstr "lakaat %c da liv ar stilo"
 
 msgid "set pen color to %n"
-msgstr ""
+msgstr "lakaat liv ar stilo da %n"
 
 msgid "set pen shade to %n"
-msgstr ""
+msgstr "lakaat arliv ar stilo da %n"
 
 msgid "set pen size to %n"
-msgstr ""
+msgstr "lakaat tevder ar stilo da %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "resisaat an tu treiñ: %m.rotationStyle"
 
 msgid "set size to %n%"
-msgstr ""
+msgstr "lakaat e %n % eus ar vent orin"
 
 msgid "set tempo to %n bpm"
-msgstr ""
+msgstr "lakaat an tempo da %n bpm"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "lakaat treuzwelusted ar video da %n %"
 
 msgid "set volume to %n%"
-msgstr ""
+msgstr "lakaat live ar son da %n %"
 
 msgid "set x to %n"
-msgstr ""
+msgstr "lakaat x da %n"
 
 msgid "set y to %n"
-msgstr ""
+msgstr "lakaat y da %n"
 
 msgid "show"
-msgstr ""
+msgstr "diskouez"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "diskouez ar roll %m.list"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "diskouez ar varienn %m.var"
 
 msgid "size"
-msgstr ""
+msgstr "ment"
 
 msgid "Sound"
-msgstr ""
+msgstr "Son"
 
 msgid "stamp"
-msgstr ""
+msgstr "siellañ"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "paouez %m.stop"
 
 msgid "stop all sounds"
-msgstr ""
+msgstr "lazhañ an holl sonioù"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "tremen an drekleur da %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "tremen an drekleur da %m.backdrop ha gortoz"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "cheñch ar gwiskamant gant %m.costume"
 
 msgid "tempo"
-msgstr ""
+msgstr "tempo"
 
 msgid "think %s"
-msgstr ""
+msgstr "soñjal e %s"
 
 msgid "think %s for %n secs"
-msgstr ""
+msgstr "soñjal e %s e-pad %n s"
 
 msgid "tilt"
-msgstr ""
+msgstr "stouadur"
 
 msgid "timer"
-msgstr ""
+msgstr "kronometr"
 
 msgid "touching %m.touching?"
-msgstr ""
+msgstr "%m.touching stoket ?"
 
 msgid "touching color %c?"
-msgstr ""
+msgstr "liv %c stoket ?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "treiñ @turnLeft eus %n derez"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "treiñ @turnRight eus %n derez"
 
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "lazhañ ar c'heflusker %m.motor"
 
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "loc'hañ ar c'heflusker %m.motor"
 
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "loc'hañ ar c'heflusker %m.motor e-pad %n s"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "embann ar video %m.videoState"
 
 msgid "username"
-msgstr ""
+msgstr "anv implijer"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "video %m.videoMotionType war %m.stageOrThis"
 
 msgid "volume"
-msgstr ""
+msgstr "live ar son"
 
 msgid "wait %n secs"
-msgstr ""
+msgstr "gortoz %n s"
 
 msgid "wait until %b"
-msgstr ""
+msgstr "gortoz betek %b"
 
 msgid "when %m.booleanSensor"
-msgstr ""
+msgstr "pa %m.booleanSensor"
 
 msgid "when %m.key key pressed"
-msgstr ""
+msgstr "pa vez pouezet war %m.key"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "pa vez %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "pa vez %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
-msgstr ""
+msgstr "pa vez kliket war @greenFlag"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "pa vez lakaet %m.backdrop da zrekleur"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "pa vez an hed %m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "pa resevan %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "pa grogan evel ur c'hlon"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "pa vez kliket war al Leurenn"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "pa vez kliket war al lutun-mañ"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "pa vez ar stouadur %m.eNe %n"
 
 msgid "x position"
-msgstr ""
+msgstr "absisenn x"
 
 msgid "y position"
-msgstr ""
+msgstr "urzhienn y"
 
 msgid "set motor direction %m.motorDirection"
 msgstr ""
@@ -497,10 +497,10 @@ msgstr ""
 
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
-msgstr ""
+msgstr "%s a zo e %m.list ?"
 
 msgid "go to %m.location"
-msgstr ""
+msgstr "mont da %m.location"
 
 msgid "10 ^"
 msgstr ""

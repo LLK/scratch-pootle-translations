@@ -1457,7 +1457,7 @@ msgid "Sign out"
 msgstr "サインアウト"
 
 msgid "silence"
-msgstr "サイレンス"
+msgstr "無音"
 
 msgid "sin"
 msgstr "sin"

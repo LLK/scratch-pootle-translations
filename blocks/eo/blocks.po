@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-07-27 13:18+0000\n"
-"Last-Translator: oreg1965 <bago@palffy.hu>\n"
+"PO-Revision-Date: 2017-01-10 12:09+0000\n"
+"Last-Translator: timsk3 <translate_scratch@timsk.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: eo\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1469625533.000000\n"
+"X-POOTLE-MTIME: 1484050150.000000\n"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
@@ -308,13 +308,12 @@ msgstr "valorigi instrumenton al %d.instrument"
 # 86%
 # 97%
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "valorigi %m.motor2 motordirekton al %m.motorDirection"
+msgstr "valorigi direkton de %m.motor2 al %m.motorDirection"
 
 # 77%
 # 75%
-#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "valorigi motorforton al %n"
+msgstr "valorigi forton de %m.motor al %n"
 
 msgid "set pen color to %c"
 msgstr "elekti skribilkoloron %c"
@@ -412,20 +411,17 @@ msgid "turn @turnRight %n degrees"
 msgstr "turni @turnRight je %n gradoj"
 
 # 82%
-#, fuzzy
 msgid "turn %m.motor off"
-msgstr "malŝalti motoron"
+msgstr "malŝalti motoron %m.motor"
 
 # 81%
-#, fuzzy
 msgid "turn %m.motor on"
-msgstr "ŝalti motoron"
+msgstr "ŝalti motoron %m.motor"
 
 # 80%
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr "ŝalti motoron dum %n sekundoj"
+msgstr "ŝalti motoron %m.motor dum %n sekundoj"
 
 msgid "turn video %m.videoState"
 msgstr "video iĝu %m.videoState"
@@ -453,7 +449,7 @@ msgid "when %m.key key pressed"
 msgstr "kiam klavo %m.key estas premita"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "kiam %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "kiam %m.triggerSensor > %n"
@@ -466,7 +462,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "kiam fono ŝanĝiĝas al %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "kiam distanco %m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "kiam mi ricevas %m.broadcast"
@@ -475,13 +471,13 @@ msgid "when I start as a clone"
 msgstr "kiam mi komenciĝas kiel klono"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "kiam Fono estas alklakita"
 
 msgid "when this sprite clicked"
 msgstr "kiam tiu ĉi rolulo estas alklakita"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "kiam klino %m.eNe %n"
 
 msgid "x position"
 msgstr "x-pozicio"
@@ -545,9 +541,8 @@ msgstr "y-pozicio"
 
 #: commands-online.txt:7
 #: commands-offline.txt:7
-#, fuzzy
 msgid "%m.list contains %s?"
-msgstr "%m.list enhavas %s"
+msgstr "%m.list enhavas %s?"
 
 msgid "go to %m.location"
 msgstr "iri al %m.location"

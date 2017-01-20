@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-07-15 17:05+0000\n"
+"PO-Revision-Date: 2017-01-16 08:11+0000\n"
 "Last-Translator: YunJae <janggoons@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1436979930.000000\n"
+"X-POOTLE-MTIME: 1484554277.000000\n"
 
 msgid "%b and %b"
 msgstr "%b 그리고 %b"
@@ -163,7 +163,7 @@ msgid "hide variable %m.var"
 msgstr "%m.var 변수 숨기기"
 
 msgid "if %b then"
-msgstr "만약 %b 라면"
+msgstr "만약 %b (이)라면"
 
 msgid "if on edge, bounce"
 msgstr "벽에 닿으면 튕기기"
@@ -330,7 +330,7 @@ msgid "set size to %n%"
 msgstr "크기를 %n% 로 정하기"
 
 msgid "set tempo to %n bpm"
-msgstr "박자를 %n BPM 으로 정하기"
+msgstr "빠르기를 %n bpm 으로 정하기"
 
 msgid "set video transparency to %n%"
 msgstr "비디오 투명도를 %n% 로 정하기"
@@ -470,7 +470,7 @@ msgid "when Stage clicked"
 msgstr "배경을 클릭했을 때"
 
 msgid "when this sprite clicked"
-msgstr "이 스프라이트를 클릭했을 때"
+msgstr "이 스프라이트가 클릭될 때"
 
 msgid "when tilt %m.eNe %n"
 msgstr "기울기 %m.eNe %n 일 때"
@@ -802,7 +802,7 @@ msgstr "생성중..."
 
 # A user reported that this message is translated as "'only Scratch members can use Cloud variables', and suggested a different translation. Please review.
 msgid "Currently, only numbers can be stored in Cloud variables."
-msgstr "현재, 스크래치 회원만 클라우드 변수를 사용할 수 있습니다."
+msgstr "현재, 오직 숫자만 클라우드 변수에 저장할 수 있습니다"
 
 msgid "cut"
 msgstr "자르기"
@@ -1235,7 +1235,7 @@ msgid "Paint new costume"
 msgstr "모양 새로 그리기"
 
 msgid "Paint new sprite"
-msgstr "새 스프라이트 색칠"
+msgstr "새 스프라이트 그리기"
 
 msgid "Password"
 msgstr "비밀번호"
@@ -1274,7 +1274,7 @@ msgid "pop"
 msgstr "팝"
 
 msgid "previous backdrop"
-msgstr "이전 저장소"
+msgstr "이전 배경"
 
 msgid "Profile"
 msgstr "프로필"
@@ -1866,25 +1866,25 @@ msgid "random position"
 msgstr "랜덤 위치"
 
 msgid "Cloud list (stored on server)"
-msgstr ""
+msgstr "클라우드 리스트(서버에 저장됨)"
 
 msgid "Dance"
-msgstr ""
+msgstr "댄스"
 
 msgid "Dress-Up"
-msgstr ""
+msgstr "차려 입다"
 
 msgid "Music"
-msgstr ""
+msgstr "음악"
 
 msgid "Musical Notes"
-msgstr ""
+msgstr "음표"
 
 msgid "My Class"
-msgstr ""
+msgstr "내 수업"
 
 msgid "My Classes"
-msgstr ""
+msgstr "내 수업들"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

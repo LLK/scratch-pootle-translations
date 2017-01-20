@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2016-09-18 13:27+0000\n"
+"PO-Revision-Date: 2017-01-13 15:00+0000\n"
 "Last-Translator: Emmanuella <emma.rumanti@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1474205238.000000\n"
+"X-POOTLE-MTIME: 1484319604.000000\n"
 
 # Sepertinya ini matematika... ~R
 msgid "10 ^"
@@ -30,10 +30,10 @@ msgstr ""
 "lihat FAQ Cloud Data!</a>"
 
 msgid "A connected"
-msgstr "A terkoneksi"
+msgstr "A tersambung"
 
 msgid "a copy of the project file on your computer."
-msgstr "sebuah salinan karya pada komputermu."
+msgstr "sebuah salinan dari berkas karya pada komputermu."
 
 msgid "A newer version of Scratch is available"
 msgstr "Versi Scratch yang lebih baru telah tersedia"
@@ -109,10 +109,10 @@ msgid "atan"
 msgstr "atan"
 
 msgid "B connected"
-msgstr "B terkoneksi"
+msgstr "B tersambung"
 
 msgid "Back a layer"
-msgstr "Back satu layer"
+msgstr "Mundur satu lapisan"
 
 msgid "backdrop"
 msgstr "latar"
@@ -158,7 +158,7 @@ msgid ""
 "soon!"
 msgstr ""
 "Karena akun Scratch-mu baru, setiap perubahan pada cloud data tidak akan "
-"tersimpan. Tetaplah berpartisipasi di situs ini dan kau akan dapat "
+"tersimpan. Tetaplah berpartisipasi di situs ini dan kamu akan dapat "
 "menggunakan cloud data!"
 
 msgid "Bitmap"
@@ -193,10 +193,10 @@ msgid "by"
 msgstr "oleh"
 
 msgid "bytes loaded"
-msgstr "bytes termuat"
+msgstr "byte termuat"
 
 msgid "C connected"
-msgstr "C terkoneksi"
+msgstr "C tersambung"
 
 msgid "Cabasa"
 msgstr "Cabasa"
@@ -205,7 +205,7 @@ msgid "Camera"
 msgstr "Kamera"
 
 msgid "can drag in player:"
-msgstr "bisa digerakan di player:"
+msgstr "bisa diseret di player:"
 
 msgid "Cancel"
 msgstr "Batal"
@@ -215,10 +215,10 @@ msgid "Cannot Add"
 msgstr "Tidak bisa menambahkan"
 
 msgid "Cannot Delete"
-msgstr "Tidak dapat menghapus"
+msgstr "Tidak dapat Menghapus"
 
 msgid "Can’t find network connection or reach server."
-msgstr "Tidak dapat menemukan koneksi atau mencapai server."
+msgstr "Tidak dapat menemukan sambungan atau mencapai server."
 
 msgid "Castle"
 msgstr "Istana"
@@ -227,7 +227,7 @@ msgid "Category"
 msgstr "Kategori"
 
 msgid "ceiling"
-msgstr "langit-langit"
+msgstr "ceiling"
 
 msgid "Cello"
 msgstr "Biola selo"
@@ -267,28 +267,27 @@ msgid "clean up"
 msgstr "rapikan"
 
 msgid "Clear"
-msgstr "Hapus semua"
+msgstr "Bersihkan"
 
 msgid "clear senders/receivers"
 msgstr "hapus pengirim/penerima"
 
 msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr ""
-"Klik \"Simpan sekarang\" untuk mencoba lagi atau untuk \"Unduh\" untuk "
-"menyimpan"
+"Klik \"Simpan sekarang\" untuk mencoba lagi atau \"Unduh\" untuk menyimpan"
 
 msgid "Close"
 msgstr "Tutup"
 
 msgid "Closed Hi-Hat"
-msgstr "Tutup hi-hat"
+msgstr "Hi-Hat Tertutup"
 
 # Sepertinya "cloud" disini ada hubungannya dengan cloud data, jadi kupikir sebaiknya tidak diterjemahkan :) ~R
 #~ msgid "Cloud"
 #~ msgstr "Cloud"
 
 msgid "Cloud data"
-msgstr "Cloud data"
+msgstr "Data cloud"
 
 msgid "Cloud variable (stored on server)"
 msgstr "Variabel Cloud (disimpan di server)"
@@ -303,16 +302,16 @@ msgid "Conga"
 msgstr "Conga"
 
 msgid "Connecting to Cloud data server..."
-msgstr "Menyambung ke server Cloud data..."
+msgstr "Menyambung ke server data Cloud..."
 
 msgid "Convert to bitmap"
 msgstr "Sesuaikan ke bitmap"
 
 msgid "Convert to vector"
-msgstr "Sesuaikan ke vector"
+msgstr "Sesuaikan ke vektor"
 
 msgid "Converting mp3..."
-msgstr "Mengkonversi mp3..."
+msgstr "Menyesuaikan ke mp3..."
 
 msgid "copy"
 msgstr "salin"
@@ -366,7 +365,7 @@ msgid "Creating..."
 msgstr "Membuat..."
 
 msgid "Currently, only numbers can be stored in Cloud variables."
-msgstr "Saat ini, baru angka yang bisa disimpan di Cloud variable."
+msgstr "Saat ini, hanya angka yang bisa disimpan di variabel Cloud."
 
 msgid "cut"
 msgstr "potong"
@@ -412,7 +411,7 @@ msgid "Download"
 msgstr "Unduh"
 
 msgid "Download to your computer"
-msgstr "Download ke komputermu"
+msgstr "Unduh ke komputermu"
 
 #~ msgid "Downloading new version"
 #~ msgstr "Mengunduh versi baru"
@@ -444,13 +443,13 @@ msgid "Effects"
 msgstr "Efek"
 
 msgid "Electric Guitar"
-msgstr "Gitar Elektrik"
+msgstr "Gitar Listrik"
 
 msgid "Electric Piano"
-msgstr "Piano Elektrik"
+msgstr "Piano Listrik"
 
 msgid "Electronic"
-msgstr "Elektronik"
+msgstr "Elektronika"
 
 msgid "Ellipse"
 msgstr "Lonjong"
@@ -483,10 +482,10 @@ msgstr "ekspor"
 #~ msgstr "Masalah Extension"
 
 msgid "fade in"
-msgstr "fade in"
+msgstr "angsur jelas"
 
 msgid "fade out"
-msgstr "fade out"
+msgstr "angsur pudar"
 
 #~ msgid "false"
 #~ msgstr "salah"
@@ -531,10 +530,10 @@ msgid "For this sprite only"
 msgstr "Hanya untuk sprite ini"
 
 msgid "Forward a layer"
-msgstr "Majukan satu layer"
+msgstr "Majukan satu lapisan"
 
 msgid "ghost"
-msgstr "transparan"
+msgstr "bayangan"
 
 # Cukup sederhana untuk dimengerti segala usia ~R
 msgid "Go to My Stuff"
@@ -597,10 +596,10 @@ msgid "Importing sound..."
 msgstr "Mengimpor suara..."
 
 msgid "Indoors"
-msgstr "Indoor"
+msgstr "Dalam ruangan"
 
 msgid "Installing..."
-msgstr "Menginstall..."
+msgstr "Memasang..."
 
 msgid "Instruments"
 msgstr "Alat Musik"
@@ -651,7 +650,7 @@ msgid "list"
 msgstr "daftar"
 
 msgid "List name"
-msgstr "Nama list"
+msgstr "Nama daftar"
 
 msgid "ln"
 msgstr "di dalam"
@@ -664,10 +663,10 @@ msgid "log"
 msgstr "log"
 
 msgid "louder"
-msgstr "lebih keras"
+msgstr "lebih nyaring"
 
 msgid "loudness"
-msgstr "kekerasan suara"
+msgstr "kenyaringan"
 
 msgid "Low C"
 msgstr "C Rendah"
@@ -715,7 +714,7 @@ msgid "mosaic"
 msgstr "mosaik"
 
 msgid "motion"
-msgstr "gerak"
+msgstr "gerakan"
 
 #~ msgid "motor"
 #~ msgstr "motor"
@@ -727,7 +726,7 @@ msgstr "gerak"
 #~ msgstr "motor B"
 
 msgid "mouse-pointer"
-msgstr "pointer-mouse"
+msgstr "penunjuk-mouse"
 
 msgid "Multiple"
 msgstr "Kalikan"
@@ -807,7 +806,7 @@ msgstr "tampilan normal"
 #~ msgstr "tidak ="
 
 msgid "Not saved; network or server problem."
-msgstr "Tidak tersimpan; masalah koneksi network atau server."
+msgstr "Tidak tersimpan; masalah sambungan network atau server."
 
 msgid "Not saved; project did not load."
 msgstr "Tidak tersimpan; karya tidak termuat."
@@ -1485,7 +1484,7 @@ msgstr ""
 
 # Offline editor only
 msgid "Could not retrieve update location from server."
-msgstr "Tidak mampu mendapatkan lokasi pembaruan dari server."
+msgstr "Tidak mampu mengambil lokasi pembaruan dari server."
 
 # Offline editor only
 msgid "Could not retrieve version information from server."
@@ -1505,7 +1504,7 @@ msgstr "Error menyimpan karya"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr "Paksa pembaruan berkas bantuan"
+msgstr "Paksa perbarui berkas bantuan"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"

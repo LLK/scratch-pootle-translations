@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-10-01 17:22+0000\n"
+"PO-Revision-Date: 2017-01-03 04:52+0000\n"
 "Last-Translator: nahar <ngo.nahar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bn\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1475342536.000000\n"
+"X-POOTLE-MTIME: 1483419179.000000\n"
 
 msgid "%b and %b"
 msgstr "%b এবং %b"
@@ -30,7 +30,7 @@ msgid "%m.sensor sensor value"
 msgstr "%m.sensor সেন্সরের মান"
 
 msgid "%n mod %n"
-msgstr ""
+msgstr "%n অবশিষ্ট %n"
 
 # Sorry, the placeholders must stay in the same order, %s, must be before %m.list
 msgid "add %s to %m.list"
@@ -60,7 +60,7 @@ msgid "change %m.effect effect by %n"
 msgstr "%m.effect এর %n বদলাও"
 
 msgid "change %m.var by %n"
-msgstr ""
+msgstr "%n কে %m.var দিয়ে পরিবর্তন করো "
 
 msgid "change pen color by %n"
 msgstr "কলমের রং %n বদলাও"
@@ -79,7 +79,7 @@ msgid "change tempo by %n"
 msgstr "সুরের-তাল %n বদলাও"
 
 msgid "change volume by %n"
-msgstr ""
+msgstr "%n দ্বারা পরিমাপ পরিবর্তন করুন"
 
 msgid "change x by %n"
 msgstr "x কে %n পরিমান পরিবর্তন কর"
@@ -118,10 +118,10 @@ msgid "define"
 msgstr "নির্ধারণ"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr ""
+msgstr "%m.list থেকে %d.listDeleteItem কে মুছে দাও "
 
 msgid "delete this clone"
-msgstr ""
+msgstr "এই অভিন্ন নকল মুছে ফেলুন"
 
 msgid "direction"
 msgstr "দিক"
@@ -136,31 +136,31 @@ msgid "else"
 msgstr "অন্যথায়"
 
 msgid "Events"
-msgstr ""
+msgstr "কাহিনীগুলো "
 
 msgid "forever"
 msgstr "চিরকালের জন্য"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr ""
+msgstr "ভেসে %n মূর্হুতে x:%n y:%n তে যাও"
 
 msgid "go back %n layers"
-msgstr ""
+msgstr "%n লেয়ার পেছনে যাও"
 
 msgid "go to front"
 msgstr "সামনে যাও"
 
 msgid "go to x:%n y:%n"
-msgstr ""
+msgstr "x:%n y:%n তে যাও"
 
 msgid "hide"
 msgstr "আড়াল কর"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "%m.list আড়াল করো "
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "%m.var চলক লুকিয়ে ফেলো "
 
 msgid "if %b then"
 msgstr "যদি %b হয় তাহলে"
@@ -169,13 +169,13 @@ msgid "if on edge, bounce"
 msgstr "যদি প্রান্তরে পৌঁছায়, তাহলে লাফাও"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr ""
+msgstr "%d.listItem এর  %m.list এ %s অন্তর্ভুক্ত কর "
 
 msgid "item %d.listItem of %m.list"
-msgstr ""
+msgstr "%d.listItem হল %m.list এর উপাদান"
 
 msgid "join %s %s"
-msgstr ""
+msgstr "%s %s তে যোগ দাও "
 
 msgid "key %m.key pressed?"
 msgstr "%m.key কি চাপা হয়েছে?"
@@ -184,10 +184,10 @@ msgid "length of %m.list"
 msgstr "এই %m.list তালিকাটির দৈর্ঘ্য"
 
 msgid "length of %s"
-msgstr ""
+msgstr "%s এর দৈর্ঘ্য "
 
 msgid "letter %n of %s"
-msgstr ""
+msgstr "%s এর %nতম অক্ষর"
 
 msgid "Looks"
 msgstr "চেহারা"
@@ -199,7 +199,7 @@ msgid "More Blocks"
 msgstr "আরো কোড ব্লক"
 
 msgid "Motion"
-msgstr ""
+msgstr "গতি"
 
 msgid "mouse down?"
 msgstr "মাউস কি চাপা হয়েছে?"
@@ -224,7 +224,7 @@ msgid "not %b"
 msgstr "%b নয়"
 
 msgid "Operators"
-msgstr ""
+msgstr "যা দিয়ে কাজ করবে "
 
 msgid "Pen"
 msgstr "কলম"

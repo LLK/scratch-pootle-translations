@@ -1859,25 +1859,25 @@ msgid "random position"
 msgstr "Tilfældig position"
 
 msgid "Cloud list (stored on server)"
-msgstr ""
+msgstr "Skyliste (gemt på server)"
 
 msgid "Dance"
-msgstr ""
+msgstr "Dans"
 
 msgid "Dress-Up"
-msgstr ""
+msgstr "Klæd på"
 
 msgid "Music"
-msgstr ""
+msgstr "Musik"
 
 msgid "Musical Notes"
-msgstr ""
+msgstr "Noder"
 
 msgid "My Class"
-msgstr ""
+msgstr "Min klasse"
 
 msgid "My Classes"
-msgstr ""
+msgstr "Mine klasser"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

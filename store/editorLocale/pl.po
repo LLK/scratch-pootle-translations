@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-29 13:54+0000\n"
-"PO-Revision-Date: 2016-10-21 12:49+0000\n"
-"Last-Translator: popek069 <popek069@gmail.com>\n"
+"PO-Revision-Date: 2016-12-16 16:24+0000\n"
+"Last-Translator: chrisg <chrisg@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1477054181.000000\n"
+"X-POOTLE-MTIME: 1481905497.000000\n"
 
 #: commands-online.txt:1 commands-offline.txt:1
 msgid "%b and %b"
@@ -632,7 +632,7 @@ msgid "go to %m.location"
 msgstr "idź do %m.location"
 
 msgid "when Stage clicked"
-msgstr "po kliknięciu Etapu"
+msgstr "po kliknięciu Sceny"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -896,7 +896,7 @@ msgid "Cloud data"
 msgstr "Dane w Chmurze"
 
 msgid "Cloud variable (stored on server)"
-msgstr ""
+msgstr "Zmienna w chmurze (przechowywana na serwerze)"
 
 msgid "color"
 msgstr "kolor"
@@ -2092,25 +2092,25 @@ msgid "random position"
 msgstr "losowe położenie"
 
 msgid "Cloud list (stored on server)"
-msgstr ""
+msgstr "Lista w chmurze (przechowywana na serwerze)"
 
 msgid "Dance"
-msgstr ""
+msgstr "Taniec"
 
 msgid "Dress-Up"
-msgstr ""
+msgstr "Ubieranie"
 
 msgid "Music"
-msgstr ""
+msgstr "Muzyka"
 
 msgid "Musical Notes"
-msgstr ""
+msgstr "Nuty muzyczne"
 
 msgid "My Class"
-msgstr ""
+msgstr "Moja klasa"
 
 msgid "My Classes"
-msgstr ""
+msgstr "Moje lekcje"
 
 #~ msgid "go to %m.spriteOrMouse"
 #~ msgstr "idź do %m.spriteOrMouse"

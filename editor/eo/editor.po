@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2014-03-02 21:28+0000\n"
+"PO-Revision-Date: 2017-01-10 14:36+0000\n"
 "Last-Translator: timsk3 <translate_scratch@timsk.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: eo\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1393795680.000000\n"
+"X-POOTLE-MTIME: 1484058987.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -35,10 +35,10 @@ msgid "a copy of the project file on your computer."
 msgstr "kopio de la projekto-dosiero ĉe via komputilo."
 
 msgid "A newer version of Scratch is available"
-msgstr ""
+msgstr "Pli nova versio de Scratch haveblas"
 
 msgid "About"
-msgstr ""
+msgstr "Pri"
 
 msgid "About LEGO WeDo extension..."
 msgstr ""
@@ -56,10 +56,10 @@ msgid "acos"
 msgstr "acos"
 
 msgid "Add"
-msgstr ""
+msgstr "Aldoni"
 
 msgid "Add an Extension"
-msgstr ""
+msgstr "Aldoni Kromprogramon"
 
 msgid "Add boolean input:"
 msgstr "Aldoni bulean enigon:"
@@ -227,7 +227,7 @@ msgid "Cello"
 msgstr "Violonĉelo"
 
 msgid "Check for updates"
-msgstr ""
+msgstr "Kontroli ĉu haveblas ĝisdatigoj"
 
 msgid "Choir"
 msgstr "Ĥoro"
@@ -1452,13 +1452,15 @@ msgstr ""
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "Ĉiuj konsiloj"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
 msgstr ""
+"Ĝisdatigita versio de la elŝutebla redaktilo de Scratch nun haveblas ĉe la "
+"Scratch-retejo."
 
 # Offline editor only
 msgid "Could not retrieve update location from server."

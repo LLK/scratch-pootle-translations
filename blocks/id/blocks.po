@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-04-23 06:37+0000\n"
-"Last-Translator: Emmanuella <emma.rumanti@gmail.com>\n"
+"PO-Revision-Date: 2017-01-13 14:45+0000\n"
+"Last-Translator: iburhan <ibrahim.burhan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1461393473.000000\n"
+"X-POOTLE-MTIME: 1484318706.000000\n"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
@@ -175,7 +175,7 @@ msgid "hide variable %m.var"
 msgstr "sembunyikan variable %m.var"
 
 msgid "if %b then"
-msgstr "jika %b kemudian"
+msgstr "jika %b maka"
 
 msgid "if on edge, bounce"
 msgstr "jika di pinggir, pantulkan"
@@ -205,10 +205,10 @@ msgid "Looks"
 msgstr "Tampilan"
 
 msgid "loudness"
-msgstr "kekerasan suara"
+msgstr "kenyaringan"
 
 msgid "More Blocks"
-msgstr "Balok Baru"
+msgstr "Balok Lainnya"
 
 # Do you forgot to use capitals?
 msgid "Motion"
@@ -271,7 +271,7 @@ msgid "point towards %m.spriteOrMouse"
 msgstr "mengarah ke %m.spriteOrMouse"
 
 msgid "repeat %n"
-msgstr "ulangi sebanyak %n kali"
+msgstr "ulangi %n kali"
 
 msgid "repeat until %b"
 msgstr "ulangi sampai %b"
@@ -280,7 +280,7 @@ msgid "replace item %d.listItem of %m.list with %s"
 msgstr "gantikan benda %d.listItem dari %m.list dengan %s"
 
 msgid "reset timer"
-msgstr "reset timer"
+msgstr "atur ulang pengatur waktu"
 
 msgid "rest for %n beats"
 msgstr "diam selama %n ketukan"
@@ -402,7 +402,7 @@ msgid "tilt"
 msgstr "miring"
 
 msgid "timer"
-msgstr "timer"
+msgstr "pengatur waktu"
 
 msgid "touching %m.touching?"
 msgstr "menyentuh %m.touching?"

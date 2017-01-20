@@ -750,7 +750,7 @@ msgid "Cloud data"
 msgstr "Felhő adatok"
 
 msgid "Cloud variable (stored on server)"
-msgstr ""
+msgstr "Változó (kiszolgálón tárolt)"
 
 msgid "color"
 msgstr "szín"
@@ -1085,7 +1085,7 @@ msgid "lights"
 msgstr "fény"
 
 msgid "limit reached"
-msgstr ""
+msgstr "határ elérve"
 
 msgid "Line"
 msgstr "Vonal"
@@ -1976,7 +1976,7 @@ msgid "random position"
 msgstr "játéktér véletlen"
 
 msgid "Cloud list (stored on server)"
-msgstr ""
+msgstr "Lista (kiszolgálón tárolt)"
 
 msgid "Dance"
 msgstr "Tánc"
@@ -1991,10 +1991,10 @@ msgid "Musical Notes"
 msgstr "Hangjegyek"
 
 msgid "My Class"
-msgstr ""
+msgstr "Osztályom"
 
 msgid "My Classes"
-msgstr ""
+msgstr "Osztályaim"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

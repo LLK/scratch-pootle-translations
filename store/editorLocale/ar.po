@@ -1881,25 +1881,25 @@ msgid "random position"
 msgstr "موضع عشوائي"
 
 msgid "Cloud list (stored on server)"
-msgstr ""
+msgstr "لائحة سحابية (مخزّنة على المخدّم)"
 
 msgid "Dance"
-msgstr ""
+msgstr "حفلة راقصة"
 
 msgid "Dress-Up"
-msgstr ""
+msgstr "لعبة الملابس"
 
 msgid "Music"
-msgstr ""
+msgstr "الموسيقى"
 
 msgid "Musical Notes"
-msgstr ""
+msgstr "نوتات موسيقية"
 
 msgid "My Class"
-msgstr ""
+msgstr "صفي"
 
 msgid "My Classes"
-msgstr ""
+msgstr "صفوفي"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
