@@ -1403,7 +1403,7 @@ msgid "Save project?"
 msgstr "Simpan karya?"
 
 msgid "save to local file"
-msgstr "simpan ke local file"
+msgstr "simpan ke berkas lokal"
 
 msgid "Saved"
 msgstr "Tersimpan"
@@ -1688,22 +1688,22 @@ msgid "Update now"
 msgstr "Perbarui sekarang"
 
 msgid "Upload backdrop from file"
-msgstr "Muat latar dari file"
+msgstr "Unggah latar dari berkas"
 
 msgid "Upload costume from file"
-msgstr "Upload kostum dari file"
+msgstr "Unggah kostum dari berkas"
 
 msgid "Upload from your computer"
-msgstr "Upload dari komputermu"
+msgstr "Unggah dari komputermu"
 
 msgid "Upload sound from file"
-msgstr "Upload suara dari file"
+msgstr "Unggah suara dari berkas"
 
 msgid "Upload sprite from file"
-msgstr "Upload sprite dari file"
+msgstr "Unggah sprite dari berkas"
 
 msgid "Uploading image..."
-msgstr "Uploading gambar..."
+msgstr "Mengunggah gambar..."
 
 msgid "Uploading sound..."
 msgstr "Memuat suara..."

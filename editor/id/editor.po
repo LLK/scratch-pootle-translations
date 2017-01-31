@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2017-01-13 15:00+0000\n"
+"PO-Revision-Date: 2017-01-21 03:38+0000\n"
 "Last-Translator: Emmanuella <emma.rumanti@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1484319604.000000\n"
+"X-POOTLE-MTIME: 1484969894.000000\n"
 
 # Sepertinya ini matematika... ~R
 msgid "10 ^"
@@ -1021,7 +1021,7 @@ msgid "Save project?"
 msgstr "Simpan karya?"
 
 msgid "save to local file"
-msgstr "simpan ke local file"
+msgstr "simpan ke berkas lokal"
 
 msgid "Saved"
 msgstr "Tersimpan"
@@ -1350,22 +1350,22 @@ msgid "Update now"
 msgstr "Perbarui sekarang"
 
 msgid "Upload backdrop from file"
-msgstr "Muat latar dari file"
+msgstr "Unggah latar dari berkas"
 
 msgid "Upload costume from file"
-msgstr "Upload kostum dari file"
+msgstr "Unggah kostum dari berkas"
 
 msgid "Upload from your computer"
-msgstr "Upload dari komputermu"
+msgstr "Unggah dari komputermu"
 
 msgid "Upload sound from file"
-msgstr "Upload suara dari file"
+msgstr "Unggah suara dari berkas"
 
 msgid "Upload sprite from file"
-msgstr "Upload sprite dari file"
+msgstr "Unggah sprite dari berkas"
 
 msgid "Uploading image..."
-msgstr "Uploading gambar..."
+msgstr "Mengunggah gambar..."
 
 msgid "Uploading sound..."
 msgstr "Memuat suara..."

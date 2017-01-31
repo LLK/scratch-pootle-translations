@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2017-01-15 08:49+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2017-01-24 11:36+0000\n"
+"Last-Translator: Olier <o.armogn@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: br\n"
 "MIME-Version: 1.0\n"
@@ -12,10 +12,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1484470143.000000\n"
+"X-POOTLE-MTIME: 1485257772.000000\n"
 
 msgid "10 ^"
-msgstr ""
+msgstr "10 ^"
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
@@ -23,18 +23,22 @@ msgid ""
 "removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
 "\">see the cloud data FAQ!</a>"
 msgstr ""
+"<b>Titouroù diwar-benn ar variennoù Cloud</b><br>&nbsp;<br>An deiz a hiziv "
+"ez eo aotreet an niveroù hepken<br>N'eo ket aotreet ar salioù-flapañ, "
+"dilamet e vint<br>Sellit ouzh ar FAQ war ar roadennoù Cloud <a href=\""
+"/help/faq/#clouddata\" target=\"_blank\">evit kaout muioc'h a ditouroù !</a>"
 
 msgid "A connected"
-msgstr ""
+msgstr "A kevreet"
 
 msgid "a copy of the project file on your computer."
-msgstr ""
+msgstr "un eilad eus restr ar raktres en hoc'h urzhiataer."
 
 msgid "A newer version of Scratch is available"
-msgstr ""
+msgstr "Pourchas a c'heller un doare nevez eus Scratch"
 
 msgid "About"
-msgstr ""
+msgstr "Diwar-benn"
 
 msgid "About LEGO WeDo extension..."
 msgstr ""
@@ -43,415 +47,429 @@ msgid "About PicoBoard extension..."
 msgstr ""
 
 msgid "abs"
-msgstr ""
+msgstr "abs"
 
 msgid "Account settings"
-msgstr ""
+msgstr "Arventennoù ar gont"
 
 msgid "acos"
-msgstr ""
+msgstr "acos"
 
 msgid "Add"
-msgstr ""
+msgstr "Ouzhpennañ"
 
 msgid "Add an Extension"
-msgstr ""
+msgstr "Ouzhpennañ un astenn"
 
 msgid "Add boolean input:"
-msgstr ""
+msgstr "Ouzhpennañ ur moned boolean :"
 
 msgid "add comment"
-msgstr ""
+msgstr "ouzhpennañ un evezhiadenn"
 
 msgid "add comment here..."
 msgstr ""
 
 msgid "Add label text:"
-msgstr ""
+msgstr "Ouzhpennañ testenn al label"
 
 msgid "Add number input:"
-msgstr ""
+msgstr "Ouzhpennañ ur moned niver"
 
 msgid "Add string input:"
-msgstr ""
+msgstr "Ouzhpennañ un heuliad arouezennoù"
 
 msgid "all"
-msgstr ""
+msgstr "holl"
 
 msgid "All"
-msgstr ""
+msgstr "An holl"
 
 msgid "all around"
-msgstr ""
+msgstr "a bep tu"
 
 msgid "all motors"
 msgstr ""
 
 msgid "Animal"
-msgstr ""
+msgstr "Loen"
 
 msgid "Animals"
-msgstr ""
+msgstr "Loened"
 
+#, fuzzy
 msgid "asin"
-msgstr ""
+msgstr "asin"
 
+#, fuzzy
 msgid "assets loaded"
-msgstr ""
+msgstr "assets loaded"
 
+#, fuzzy
 msgid "atan"
-msgstr ""
+msgstr "atan"
 
 msgid "B connected"
-msgstr ""
+msgstr "B kevreet"
 
 msgid "Back a layer"
-msgstr ""
+msgstr "Un dalenn war-dreñv"
 
 msgid "backdrop"
-msgstr ""
+msgstr "drekleur"
 
 msgid "Backdrop"
-msgstr ""
+msgstr "Drekleur"
 
 msgid "backdrop #"
-msgstr ""
+msgstr "drekleur #"
 
 msgid "Backdrop Library"
-msgstr ""
+msgstr "Bank drekleurioù"
 
 msgid "backdrop name"
-msgstr ""
+msgstr "anv an drekleur"
 
 msgid "backdrop1"
-msgstr ""
+msgstr "drekleur1"
 
 msgid "backdrops"
-msgstr ""
+msgstr "drekleurioù"
 
 msgid "Backdrops"
-msgstr ""
+msgstr "Drekleurioù"
 
 msgid "Backpack"
-msgstr ""
+msgstr "Sac'h-kein"
 
+#, fuzzy
 msgid "Bass"
-msgstr ""
+msgstr "Gitar boud"
 
 msgid "Bass Drum"
-msgstr ""
+msgstr "Mandore"
 
 msgid "Bassoon"
-msgstr ""
+msgstr "Gourbombard"
 
 msgid ""
 "Because you have a new Scratch account, any changes to cloud data won't be "
 "saved yet. Keep participating on the site you'll be able to use cloud data "
 "soon!"
 msgstr ""
+"Dre m'hoc'h eus ur gont Scratch nevez ne vo saveteet kemm ebet er roadennoù "
+"cloud. Kendalc'hit da gemer perzh el lec'hienn, gallout a reoc'h ober gant "
+"roadennoù cloud hepdale !"
 
 msgid "Bitmap"
-msgstr ""
+msgstr "Bitmap"
 
 msgid "Bitmap Mode"
-msgstr ""
+msgstr "Mod bitmap"
 
 msgid "Block help"
-msgstr ""
+msgstr "Skoazell war implij ar bloc'hoù"
 
 msgid "Bongo"
-msgstr ""
+msgstr "Bongo"
 
 msgid "brightness"
-msgstr ""
+msgstr "sked"
 
 msgid "Bring to front"
-msgstr ""
+msgstr "Kas en dalenn gentañ"
 
 msgid "Broadcast"
-msgstr ""
+msgstr "Kas d'an holl"
 
 msgid "Brush"
-msgstr ""
+msgstr "Barr-livañ"
 
 msgid "button pressed"
-msgstr ""
+msgstr "bouton pouezet"
 
+#, fuzzy
 msgid "by"
-msgstr ""
+msgstr "by"
 
 msgid "bytes loaded"
-msgstr ""
+msgstr "okted karget"
 
 msgid "C connected"
-msgstr ""
+msgstr "C kevreet"
 
 msgid "Cabasa"
-msgstr ""
+msgstr "Cabasa"
 
 msgid "Camera"
-msgstr ""
+msgstr "Webkam"
 
+#, fuzzy
 msgid "can drag in player:"
-msgstr ""
+msgstr "a c'hall riklañ el lenner"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Nullañ"
 
 msgid "Cannot Add"
 msgstr ""
 
 msgid "Cannot Delete"
-msgstr ""
+msgstr "Ne c'haller ket lemel"
 
 msgid "Can’t find network connection or reach server."
-msgstr ""
+msgstr "Ne c'haller ket kevreañ ouzh ar rouedad pe tizhout ar servijer"
 
 msgid "Castle"
-msgstr ""
+msgstr "kastell"
 
 msgid "Category"
-msgstr ""
+msgstr "Rummad"
 
+#, fuzzy
 msgid "ceiling"
-msgstr ""
+msgstr "lein"
 
 msgid "Cello"
-msgstr ""
+msgstr "Violoñsel"
 
 msgid "Check for updates"
-msgstr ""
+msgstr "Gwiriañ an hizivadennoù"
 
 msgid "Choir"
-msgstr ""
+msgstr "Laz-kanañ"
 
 msgid "Choose backdrop from library"
-msgstr ""
+msgstr "Dibab un drekleur er bank"
 
 msgid "Choose costume from library"
-msgstr ""
+msgstr "Dibab ar gwiskamant er bank"
 
 msgid "Choose sound from library"
-msgstr ""
+msgstr "Dibab ur son er bank"
 
 msgid "Choose sprite from library"
-msgstr ""
+msgstr "Dibab ul lutun er bank"
 
 msgid "Circle"
-msgstr ""
+msgstr "Kelc'h"
 
 msgid "City"
-msgstr ""
+msgstr "Kêr"
 
 msgid "Clarinet"
-msgstr ""
+msgstr "Treujenn-gaol"
 
 msgid "Claves"
-msgstr ""
+msgstr "Claves"
 
 msgid "clean up"
-msgstr ""
+msgstr "naetaat"
 
 msgid "Clear"
-msgstr ""
+msgstr "Diverkañ"
 
 msgid "clear senders/receivers"
-msgstr ""
+msgstr "diverkañ kaserien/reseverien"
 
 msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr ""
+"Klikañ \"Saveteiñ bremañ\" evit klask en-dro pe \"Pellgargañ\" evit saveteiñ"
 
 msgid "Close"
-msgstr ""
+msgstr "Serriñ"
 
+#, fuzzy
 msgid "Closed Hi-Hat"
-msgstr ""
+msgstr "Charleston serr"
 
 msgid "Cloud"
 msgstr ""
 
 msgid "Cloud data"
-msgstr ""
+msgstr "Roadennoù Cloud"
 
+#, fuzzy
 msgid "Cloud variable (stored on server)"
-msgstr ""
+msgstr "Varienn Cloud (miret er servijer)"
 
 msgid "color"
-msgstr ""
+msgstr "liv"
 
 msgid "Color a shape"
-msgstr ""
+msgstr "Livañ ur stumm"
 
 msgid "Conga"
-msgstr ""
+msgstr "Conga"
 
 msgid "Connecting to Cloud data server..."
-msgstr ""
+msgstr "O kevreañ ouzh servijer roadennoù Cloud..."
 
 msgid "Convert to bitmap"
-msgstr ""
+msgstr "Amdreiñ e bitmap"
 
 msgid "Convert to vector"
-msgstr ""
+msgstr "Vektorizañ"
 
 msgid "Converting mp3..."
-msgstr ""
+msgstr "Treiñ e mp3..."
 
 msgid "copy"
-msgstr ""
+msgstr "eilañ"
 
 msgid "Copying..."
-msgstr ""
+msgstr "Oc'h eilañ..."
 
+#, fuzzy
 msgid "cos"
-msgstr ""
+msgstr "cos"
 
 msgid "Costume"
-msgstr ""
+msgstr "Gwiskamant"
 
 msgid "costume #"
 msgstr ""
 
 msgid "Costume Library"
-msgstr ""
+msgstr "Bank gwiskamantoù"
 
 msgid "costume name"
 msgstr ""
 
 msgid "costume1"
-msgstr ""
+msgstr "gwiskamant1"
 
 msgid "costume2"
-msgstr ""
+msgstr "gwiskamant2"
 
 msgid "Costumes"
-msgstr ""
+msgstr "Gwiskamantoù"
 
 msgid "Costumes > 1"
-msgstr ""
+msgstr "Gwiskamantoù > 1"
 
 msgid "Costumes:"
 msgstr ""
 
 msgid "Could not retrieve new application from server."
-msgstr ""
+msgstr "N'eus ket bet gallet adpakañ an arload nevez diwar ar servijer."
 
 msgid "Cowbell"
-msgstr ""
+msgstr "Kleier saout"
 
 msgid "Crash Cymbal"
-msgstr ""
+msgstr "Trouz simbalenn"
 
 msgid "Creating..."
-msgstr ""
+msgstr "O krouiñ..."
 
 msgid "Currently, only numbers can be stored in Cloud variables."
-msgstr ""
+msgstr "Evit ar mare ne c'haller stokiñ nemet niveroù e variennoù Cloud"
 
 msgid "cut"
-msgstr ""
+msgstr "troc'hañ"
 
 msgid "D connected"
-msgstr ""
+msgstr "D kevreet"
 
 msgid "date"
-msgstr ""
+msgstr "deiziad"
 
 msgid "day of week"
-msgstr ""
+msgstr "deiz eus ar sizhun"
 
 msgid "delete"
-msgstr ""
+msgstr "dilemel"
 
 msgid "Delete"
-msgstr ""
+msgstr "Dilemel"
 
 msgid "delete variable"
-msgstr ""
+msgstr "dilemel ur varienn"
 
 msgid "direction"
-msgstr ""
+msgstr "tu"
 
 msgid "direction:"
-msgstr ""
+msgstr "tu:"
 
 msgid "don't rotate"
-msgstr ""
+msgstr "ne dro ket"
 
 msgid "Don't save"
-msgstr ""
+msgstr "Chom hep saveteiñ"
 
 msgid "down"
-msgstr ""
+msgstr "war-draoñ"
 
 msgid "down arrow"
-msgstr ""
+msgstr "bir traoñ"
 
 msgid "Download"
-msgstr ""
+msgstr "Pellgargañ"
 
 msgid "Download to your computer"
-msgstr ""
+msgstr "Pellgargañ en hoc'h urzhiataer"
 
 msgid "Downloading new version"
 msgstr ""
 
 msgid "duplicate"
-msgstr ""
+msgstr "eilañ"
 
 msgid "Duplicate"
-msgstr ""
+msgstr "Eilañ"
 
 msgid "e ^"
-msgstr ""
+msgstr "e ^"
 
 msgid "edge"
-msgstr ""
+msgstr "bord"
 
 msgid "Edit"
-msgstr ""
+msgstr "Aozañ"
 
 msgid "edit"
-msgstr ""
+msgstr "aozañ"
 
 msgid "Edit Block"
-msgstr ""
+msgstr "Aozañ ur bloc'h"
 
 msgid "Effects"
-msgstr ""
+msgstr "Efedoù"
 
 msgid "Electric Guitar"
-msgstr ""
+msgstr "Gitar tredan"
 
 msgid "Electric Piano"
-msgstr ""
+msgstr "Piano tredan"
 
 msgid "Electronic"
-msgstr ""
+msgstr "Elektronik"
 
 msgid "Ellipse"
-msgstr ""
+msgstr "Elipsenn"
 
 msgid "empty"
 msgstr ""
 
 msgid "Erase"
-msgstr ""
+msgstr "Diverkañ"
 
 msgid "Erase all"
 msgstr ""
 
 msgid "Eraser width"
-msgstr ""
+msgstr "Ledander an diverker"
 
 msgid "Error!"
-msgstr ""
+msgstr "Fazi!"
 
 msgid "everything"
 msgstr ""
 
 msgid "export"
-msgstr ""
+msgstr "ezporzhiañ"
 
 msgid "Extension Library"
 msgstr ""
@@ -459,83 +477,85 @@ msgstr ""
 msgid "Extension Problem"
 msgstr ""
 
+#, fuzzy
 msgid "fade in"
-msgstr ""
+msgstr "fade in"
 
 msgid "fade out"
-msgstr ""
+msgstr "treveuz"
 
 msgid "false"
 msgstr ""
 
 msgid "Fantasy"
-msgstr ""
+msgstr "Faltazi"
 
 msgid "Features"
-msgstr ""
+msgstr "Perzhioù"
 
 msgid "File"
-msgstr ""
+msgstr "Restr"
 
 msgid "Fill with color"
-msgstr ""
+msgstr "Leuniañ gant ul liv"
 
+#, fuzzy
 msgid "fisheye"
-msgstr ""
+msgstr "lagad pesk"
 
 msgid "Flip left-right"
-msgstr ""
+msgstr "Treiñ kleiz-dehoù"
 
 msgid "Flip up-down"
-msgstr ""
+msgstr "Treiñ krec'h-traoñ"
 
 msgid "floor"
-msgstr ""
+msgstr "leur"
 
 msgid "Flute"
-msgstr ""
+msgstr "Fleüt"
 
 msgid "Flying"
-msgstr ""
+msgstr "O nijal"
 
 msgid "Font:"
-msgstr ""
+msgstr "Font:"
 
 msgid "For all sprites"
-msgstr ""
+msgstr "Evit an holl lutuned"
 
 msgid "For this sprite only"
-msgstr ""
+msgstr "Evit al lutun-mañ hepken"
 
 msgid "Forward a layer"
-msgstr ""
+msgstr "Araokaat eus un dalenn"
 
 msgid "ghost"
-msgstr ""
+msgstr "tasmant"
 
 msgid "Go to My Stuff"
-msgstr ""
+msgstr "Mont da'm raktresoù"
 
 msgid "Group"
-msgstr ""
+msgstr "Strollad"
 
 msgid "Grow"
-msgstr ""
+msgstr "Brasaat"
 
 msgid "Guiro"
-msgstr ""
+msgstr "Guiro"
 
 msgid "Guitar"
-msgstr ""
+msgstr "Gitar"
 
 msgid "Hand Clap"
-msgstr ""
+msgstr "Stlakañ daouarn"
 
 msgid "Hardware"
-msgstr ""
+msgstr "Dafar urzhiataerezh"
 
 msgid "help"
-msgstr ""
+msgstr "skoazell"
 
 msgid "Hello!"
 msgstr ""
@@ -547,145 +567,150 @@ msgid "hello"
 msgstr ""
 
 msgid "hide"
-msgstr ""
+msgstr "kuzhat"
 
 msgid "High C"
-msgstr ""
+msgstr "Do Soprano"
 
 msgid "Holiday"
-msgstr ""
+msgstr "Vakañsoù"
 
 msgid "hour"
-msgstr ""
+msgstr "eur"
 
 msgid "Human"
-msgstr ""
+msgstr "Den"
 
 msgid "import"
-msgstr ""
+msgstr "enporzhiañ"
 
 msgid "Import"
-msgstr ""
+msgstr "Enporzhiañ"
 
 msgid "Importing sound..."
-msgstr ""
+msgstr "Oc'h enporzhiañ ur son..."
 
 msgid "Indoors"
-msgstr ""
+msgstr "Diabarzh"
 
 msgid "Installing..."
-msgstr ""
+msgstr "O staliañ..."
 
 msgid "Instruments"
-msgstr ""
+msgstr "Binvioù"
 
+#, fuzzy
 msgid "large readout"
-msgstr ""
+msgstr "large readout"
 
 msgid "last"
-msgstr ""
+msgstr "diwezhañ"
 
 msgid "left"
-msgstr ""
+msgstr "a-gleiz"
 
 msgid "left arrow"
-msgstr ""
+msgstr "bir kleiz"
 
 msgid "left-right"
-msgstr ""
+msgstr "a-gleiz pe a-zehoù"
 
+#, fuzzy
 msgid "length"
-msgstr ""
+msgstr "hirder"
 
 msgid "Letters"
-msgstr ""
+msgstr "Lizherennoù"
 
 msgid "Library"
-msgstr ""
+msgstr "Bank"
 
 msgid "light"
-msgstr ""
+msgstr "gouloù"
 
 msgid "lights"
 msgstr ""
 
 msgid "limit reached"
-msgstr ""
+msgstr "bevenn tizhet"
 
 msgid "Line"
-msgstr ""
+msgstr "Linenn"
 
 msgid "Line width"
-msgstr ""
+msgstr "Tevder al linenn"
 
 msgid "list"
-msgstr ""
+msgstr "roll"
 
 msgid "List name"
-msgstr ""
+msgstr "Anv ar roll"
 
+#, fuzzy
 msgid "ln"
-msgstr ""
+msgstr "ln"
 
 msgid "Loading project..."
-msgstr ""
+msgstr "O kargañ ur raktres"
 
+#, fuzzy
 msgid "log"
-msgstr ""
+msgstr "log"
 
 msgid "louder"
-msgstr ""
+msgstr "kreñvoc'h"
 
 msgid "loudness"
-msgstr ""
+msgstr "live ar son"
 
+#, fuzzy
 msgid "Low C"
-msgstr ""
+msgstr "C Boud"
 
 msgid "Make a Block"
-msgstr ""
+msgstr "Krouiñ ur bloc'h"
 
 msgid "Make a List"
-msgstr ""
+msgstr "Krouiñ ur roll"
 
 msgid "Make a Variable"
-msgstr ""
+msgstr "Krouiñ ur varienn"
 
 msgid "Marimba"
-msgstr ""
+msgstr "Marimba"
 
 msgid "Max"
-msgstr ""
+msgstr "Max"
 
 msgid "meow"
-msgstr ""
+msgstr "miniaou"
 
 msgid "Message Name"
-msgstr ""
+msgstr "Anv ar gemennadenn"
 
 msgid "message1"
-msgstr ""
+msgstr "kemennadenn1"
 
 msgid "Microphone volume:"
-msgstr ""
+msgstr "Volum ar mikro:"
 
 msgid "Middle C"
-msgstr ""
+msgstr "Do kreiz"
 
 msgid "Min"
-msgstr ""
+msgstr "Min"
 
 msgid "minute"
-msgstr ""
+msgstr "munut"
 
 msgid "month"
-msgstr ""
+msgstr "miz"
 
 msgid "mosaic"
-msgstr ""
+msgstr "mozaikenn"
 
 msgid "motion"
-msgstr ""
+msgstr "fiñv"
 
 msgid "motor"
 msgstr ""
@@ -697,331 +722,342 @@ msgid "motor B"
 msgstr ""
 
 msgid "mouse-pointer"
-msgstr ""
+msgstr "biz al logodenn"
 
+#, fuzzy
 msgid "Multiple"
-msgstr ""
+msgstr "Lies"
 
 msgid "Music and Dance"
-msgstr ""
+msgstr "Sonerezh ha Dañs"
 
 msgid "Music Box"
-msgstr ""
+msgstr "Boest-vuzik"
 
+#, fuzzy
 msgid "Music Loops"
-msgstr ""
+msgstr "Boukloù sonerezh"
 
 msgid "My Stuff"
-msgstr ""
+msgstr "Ma raktresoù"
 
 msgid "myself"
-msgstr ""
+msgstr "ma-unan"
 
 msgid "Nature"
-msgstr ""
+msgstr "Natur"
 
 msgid "New"
-msgstr ""
+msgstr "Nevez"
 
 msgid "New backdrop from camera"
-msgstr ""
+msgstr "Drekleur nevez gant ar webkam"
 
 msgid "New backdrop:"
-msgstr ""
+msgstr "Drekleur nevez:"
 
 msgid "New Block"
-msgstr ""
+msgstr "Bloc'h nevez"
 
 msgid "New costume from camera"
-msgstr ""
+msgstr "Gwiskamant nevez gant webkam"
 
 msgid "New costume:"
-msgstr ""
+msgstr "Gwiskamant nevez:"
 
 msgid "New List"
-msgstr ""
+msgstr "Roll nevez"
 
 msgid "New Message"
-msgstr ""
+msgstr "Kemennadenn nevez"
 
 msgid "new message..."
-msgstr ""
+msgstr "kemennadenn nevez..."
 
 msgid "New name"
-msgstr ""
+msgstr "Anv nevez"
 
 msgid "New sound:"
-msgstr ""
+msgstr "Son nevez :"
 
 msgid "New sprite from camera"
-msgstr ""
+msgstr "Lutun nevez gant webkam"
 
 msgid "New sprite:"
-msgstr ""
+msgstr "Lutun nevez:"
 
 msgid "New Variable"
-msgstr ""
+msgstr "Varienn nevez"
 
 msgid "next backdrop"
-msgstr ""
+msgstr "drekleur nevez"
 
 msgid "No motion blocks"
-msgstr ""
+msgstr "Bloc'h fiñval ebet"
 
 msgid "normal readout"
-msgstr ""
+msgstr "lenn reizh"
 
 msgid "not ="
 msgstr ""
 
 msgid "Not saved; network or server problem."
-msgstr ""
+msgstr "N'eo ket bet saveteet; kudenn rouedad pe servijer"
 
 msgid "Not saved; project did not load."
-msgstr ""
+msgstr "N'eo ket bet saveteet; n'eo ket bet karget ar raktres"
 
+#, fuzzy
 msgid "of"
-msgstr ""
+msgstr "eus"
 
 msgid "off"
-msgstr ""
+msgstr "diweredekaet"
 
 msgid "Offline Editor"
-msgstr ""
+msgstr "Aozer ezlinenn"
 
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgid "on"
-msgstr ""
+msgstr "gweredekaet"
 
+#, fuzzy
 msgid "on-flipped"
-msgstr ""
+msgstr "efed melezour"
 
 msgid "Open"
-msgstr ""
+msgstr "Digeriñ"
 
 msgid "Open Cuica"
-msgstr ""
+msgstr "Cuica digor"
 
 msgid "Open Hi-Hat"
-msgstr ""
+msgstr "Charleston digor"
 
 msgid "Options"
-msgstr ""
+msgstr "Dibaboù"
 
 msgid "Organ"
-msgstr ""
+msgstr "Ograoù"
 
 msgid "Other"
-msgstr ""
+msgstr "Traoù all"
 
 msgid "other scripts in sprite"
-msgstr ""
+msgstr "skriptoù all al lutun"
 
 msgid "other scripts in stage"
-msgstr ""
+msgstr "skriptoù all"
 
 msgid "Outdoors"
-msgstr ""
+msgstr "En diavaez"
 
 msgid "Paint new backdrop"
-msgstr ""
+msgstr "Tresañ un drekleur nevez"
 
 msgid "Paint new costume"
-msgstr ""
+msgstr "Tresañ ur gwiskamant nevez"
 
 msgid "Paint new sprite"
-msgstr ""
+msgstr "Tresañ ul lutun nevez"
 
 msgid "Password"
-msgstr ""
+msgstr "Ger-tremen"
 
 msgid "Password is required"
-msgstr ""
+msgstr "Rekis eo ar ger-tremen"
 
 msgid "paste"
-msgstr ""
+msgstr "pegañ"
 
 msgid "Pencil"
-msgstr ""
+msgstr "Kreion"
 
 msgid "People"
-msgstr ""
+msgstr "Tud"
 
 msgid "Percussion"
-msgstr ""
+msgstr "Toserezh"
 
 msgid "photo1"
-msgstr ""
+msgstr "foto1"
 
 msgid "Piano"
-msgstr ""
+msgstr "Piano"
 
 msgid "Pick up color"
-msgstr ""
+msgstr "Dibab al liv"
 
 msgid "pixelate"
-msgstr ""
+msgstr "pikselaat"
 
 msgid "Pizzicato"
-msgstr ""
+msgstr "Pizzicato"
 
 msgid "pop"
-msgstr ""
+msgstr "pop"
 
 msgid "previous backdrop"
-msgstr ""
+msgstr "drekleur a-raok"
 
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 msgid "Project did not load."
-msgstr ""
+msgstr "N'eo ket bet karget ar raktres."
 
 msgid "Project not saved!"
-msgstr ""
+msgstr "N'eo ket bet saveteet ar raktres!"
 
 msgid "Project name"
-msgstr ""
+msgstr "Anv ar raktres"
 
 msgid "Project name is required"
-msgstr ""
+msgstr "Anv ar raktres a zo rekis"
 
 msgid "random"
-msgstr ""
+msgstr "evel ma teu e teu"
 
 msgid "Record"
-msgstr ""
+msgstr "Enrollañ"
 
 msgid "Record new sound"
-msgstr ""
+msgstr "Enrollañ ur son nevez"
 
 msgid "record..."
-msgstr ""
+msgstr "enrollañ..."
 
 msgid "recording1"
-msgstr ""
+msgstr "enrolladenn1"
 
 msgid "Rectangle"
-msgstr ""
+msgstr "Skouergorneg"
 
 msgid "Redo"
-msgstr ""
+msgstr "Adsevel"
 
 msgid "redo"
-msgstr ""
+msgstr "adsevel"
 
+#, fuzzy
 msgid "Remix"
-msgstr ""
+msgstr "Adveskañ"
 
+#, fuzzy
 msgid "Remixing..."
-msgstr ""
+msgstr "Oc'h adveskañ..."
 
 msgid "Remove extension blocks"
 msgstr ""
 
 msgid "Rename"
-msgstr ""
+msgstr "Adenvel"
 
 msgid "rename variable"
-msgstr ""
+msgstr "adenvel ar varienn"
 
 msgid "Replace existing project"
 msgstr ""
 
 msgid "requires sign in"
-msgstr ""
+msgstr "ret eo lakaat e anv"
 
 msgid "Reshape"
-msgstr ""
+msgstr "Adtresañ"
 
+#, fuzzy
 msgid "resistance-A"
-msgstr ""
+msgstr "resistance-A"
 
+#, fuzzy
 msgid "resistance-B"
-msgstr ""
+msgstr "resistance-B"
 
+#, fuzzy
 msgid "resistance-C"
-msgstr ""
+msgstr "resistance-C"
 
+#, fuzzy
 msgid "resistance-D"
-msgstr ""
+msgstr "resistance-D"
 
 msgid "reverse"
-msgstr ""
+msgstr "eilpennet"
 
 msgid "Revert"
-msgstr ""
+msgstr "Distreiñ"
 
 msgid "Reverting..."
-msgstr ""
+msgstr "O tistreiñ..."
 
 msgid "right"
-msgstr ""
+msgstr "a-zehoù"
 
 msgid "right arrow"
-msgstr ""
+msgstr "bir dehoù"
 
 msgid "rotation style:"
-msgstr ""
+msgstr "stil treiñ:"
 
 msgid "Run without screen refresh"
-msgstr ""
+msgstr "Lañsañ hep freskaat ar skramm"
 
 msgid "Save"
-msgstr ""
+msgstr "Saveteiñ"
 
 msgid "Save a copy of this project and add your own ideas."
 msgstr ""
+"Saveteiñ un eilad eus ar raktres-mañ hag ouzhpennañ ho mennozhioù deoc'h"
 
 msgid "Save as"
-msgstr ""
+msgstr "Saveteiñ dindan"
 
 msgid "Save as a copy"
-msgstr ""
+msgstr "Saveteiñ evel eilad"
 
 msgid "Save now"
-msgstr ""
+msgstr "Saveteiñ bremañ"
 
 msgid "Save project?"
-msgstr ""
+msgstr "Saveteiñ ar raktres ?"
 
 msgid "save to local file"
-msgstr ""
+msgstr "saveteiñ evel restr lec'hel"
 
 msgid "Saved"
-msgstr ""
+msgstr "Saveteet"
 
 msgid "Saving changes..."
-msgstr ""
+msgstr "O saveteiñ ar cheñchamantoù..."
 
 msgid "Saving..."
-msgstr ""
+msgstr "O saveteiñ..."
 
 msgid "Saxophone"
-msgstr ""
+msgstr "Saksofon"
 
 msgid "Scratch Updater"
-msgstr ""
+msgstr "Hizivadenn Scratch"
 
 msgid "Scratch 2.0 Offline Editor"
 msgstr ""
 
 msgid "Script"
-msgstr ""
+msgstr "Skript"
 
 msgid "Scripts"
-msgstr ""
+msgstr "Skriptoù"
 
 msgid "Scripts:"
 msgstr ""
 
 msgid "second"
-msgstr ""
+msgstr "segondenn"
 
 msgid "See project page"
-msgstr ""
+msgstr "Gwelet pajenn ar raktres"
 
 msgid ""
 "See the Tips window (on the right) to install the plug-in and get the "
@@ -1029,43 +1065,44 @@ msgid ""
 msgstr ""
 
 msgid "Select"
-msgstr ""
+msgstr "Dibab"
 
 msgid "select all"
-msgstr ""
+msgstr "diuzañ an holl"
 
 msgid "Select and duplicate"
-msgstr ""
+msgstr "Dibab hag eilañ"
 
 msgid "Send to back"
-msgstr ""
+msgstr "Kas d'an drekleur"
 
 msgid "Set Costume Center"
-msgstr ""
+msgstr "Termeniñ kreiz ar gwiskamant"
 
 msgid "Set costume center"
-msgstr ""
+msgstr "Termeniñ kreiz ar gwiskamant"
 
+#, fuzzy
 msgid "set slider min and max"
-msgstr ""
+msgstr "termeniñ min ha max ar reti"
 
 msgid "Share"
-msgstr ""
+msgstr "Rannañ"
 
 msgid "Share to website"
-msgstr ""
+msgstr "Rannañ el lec'hienn web"
 
 msgid "Share to Scratch website"
 msgstr ""
 
 msgid "shared"
-msgstr ""
+msgstr "rannet"
 
 msgid "Shift:"
-msgstr ""
+msgstr "Pennlizherenn:"
 
 msgid "show"
-msgstr ""
+msgstr "diskouez"
 
 msgid "show receivers"
 msgstr ""
@@ -1074,121 +1111,129 @@ msgid "show senders"
 msgstr ""
 
 msgid "show:"
-msgstr ""
+msgstr "diskouez:"
 
 msgid "Shrink"
-msgstr ""
+msgstr "Digreskiñ"
 
+#, fuzzy
 msgid "Side Stick"
-msgstr ""
+msgstr "Side Stick"
 
 msgid "Sign in"
-msgstr ""
+msgstr "Kevreañ"
 
 msgid "Sign in to save"
-msgstr ""
+msgstr "Kevreit evit saveteiñ"
 
 msgid "Sign out"
-msgstr ""
+msgstr "Digevreañ"
 
 msgid "silence"
-msgstr ""
+msgstr "didrouz"
 
+#, fuzzy
 msgid "sin"
-msgstr ""
+msgstr "sin"
 
 msgid "size"
 msgstr ""
 
 msgid "slider"
-msgstr ""
+msgstr "potañsiometr"
 
+#, fuzzy
 msgid "Slider Range"
-msgstr ""
+msgstr "Slider Range"
 
 msgid "Small stage layout"
-msgstr ""
+msgstr "Leurenn vihan"
 
 msgid "Smooth"
-msgstr ""
+msgstr "Dous"
 
 msgid "Snare Drum"
-msgstr ""
+msgstr "Taboulin sklent"
 
 msgid "softer"
-msgstr ""
+msgstr "dousoc'h"
 
 msgid "sound"
-msgstr ""
+msgstr "son"
 
 msgid "Sound"
-msgstr ""
+msgstr "Son"
 
 msgid "Sound Library"
-msgstr ""
+msgstr "Bank sonioù"
 
 msgid "Sounds"
-msgstr ""
+msgstr "Sonioù"
 
 msgid "Space"
-msgstr ""
+msgstr "Egor"
 
+#, fuzzy
 msgid "space"
-msgstr ""
+msgstr "egor"
 
 msgid "Sports"
-msgstr ""
+msgstr "Sportoù"
 
 msgid "Sprite"
-msgstr ""
+msgstr "Lutun"
 
 msgid "Sprite Library"
-msgstr ""
+msgstr "Bank lutuned"
 
 msgid "Sprite1"
-msgstr ""
+msgstr "Lutun1"
 
 msgid "Sprites"
-msgstr ""
+msgstr "Lutuned"
 
 msgid "sqrt"
-msgstr ""
+msgstr "gwrizienn"
 
 msgid "Square"
-msgstr ""
+msgstr "Karrez"
 
 msgid "Stage"
-msgstr ""
+msgstr "Leurenn"
 
 msgid "Stage selected:"
-msgstr ""
+msgstr "Leurenn diuzet"
 
 msgid "Steel Drum"
-msgstr ""
+msgstr "Taboulin dir"
 
 msgid "stored on server"
 msgstr ""
 
+#, fuzzy
 msgid "Synth Lead"
-msgstr ""
+msgstr "Synth Lead"
 
+#, fuzzy
 msgid "Synth Pad"
-msgstr ""
+msgstr "Synth Pad"
 
 msgid "Tambourine"
-msgstr ""
+msgstr "Taboulinig"
 
+#, fuzzy
 msgid "tan"
-msgstr ""
+msgstr "tan"
 
 msgid "text"
-msgstr ""
+msgstr "testenn"
 
 msgid "Text"
-msgstr ""
+msgstr "Testenn"
 
+#, fuzzy
 msgid "that way"
-msgstr ""
+msgstr "dre aze"
 
 msgid "The name is already in use."
 msgstr ""
@@ -1199,182 +1244,194 @@ msgid ""
 msgstr ""
 
 msgid "Theme"
-msgstr ""
+msgstr "Tem"
 
 msgid "Things"
-msgstr ""
+msgstr "Traoù"
 
 msgid "thing"
 msgstr ""
 
 msgid "This is the current version."
-msgstr ""
+msgstr "Doare a vremañ ar raktres eo."
 
 msgid ""
 "This project can detect who is using it, through the “username” block. To "
 "hide your identity, sign out before using the project."
 msgstr ""
+"Gant ar bloc'h \"username\" e c'hall ar raktres detektiñ piv zo oc'h ober "
+"gantañ. Digevreit a-raok ober gantañ evit chom hep reiñ da c'houzout piv "
+"oc'h."
 
 msgid ""
 "This project uses Cloud data ‒ a feature that is available only to signed in "
 "users."
 msgstr ""
+"Ar raktres-mañ a ra gant roadennoù Cloud - ur fonksionelezh na c'hall bezañ "
+"nemet gant an implijerien kevreet."
 
 msgid "this script"
-msgstr ""
+msgstr "ar skript-mañ"
 
 msgid "this sprite"
-msgstr ""
+msgstr "al lutun-mañ"
 
+#, fuzzy
 msgid "this way"
-msgstr ""
+msgstr "dre amañ"
 
 msgid "Throw away all changes since opening this project?"
-msgstr ""
+msgstr "Nullañ an holl gemmoù graet abaoe m'eo bet digoret ar raktres-mañ?"
 
 msgid "timer"
-msgstr ""
+msgstr "kronometr"
 
 msgid "Tips"
-msgstr ""
+msgstr "Alioù"
 
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr ""
+"A-raok diverkañ ur bloc'h termeniñ, diverkit holl implijoù ar bloc'h da "
+"gentañ."
 
 msgid "Transportation"
-msgstr ""
+msgstr "Treuzdougen"
 
 msgid "Triangle"
-msgstr ""
+msgstr "Tric'horn"
 
 msgid "Trombone"
-msgstr ""
+msgstr "Trombon"
 
 msgid "true"
 msgstr ""
 
 msgid "Turbo mode"
-msgstr ""
+msgstr "Mod Turbo"
 
 msgid "Turbo Mode"
-msgstr ""
+msgstr "Mod Turbo"
 
 msgid "Type"
-msgstr ""
+msgstr "Rummad"
 
 msgid "Undelete"
-msgstr ""
+msgstr "Adsevel"
 
 msgid "Underwater"
-msgstr ""
+msgstr "Mor"
 
 msgid "undo"
-msgstr ""
+msgstr "nullañ"
 
 msgid "Undo"
-msgstr ""
+msgstr "Nullañ"
 
 msgid "Undo Revert"
-msgstr ""
+msgstr "Nullañ Distreiñ"
 
 msgid "Ungroup"
-msgstr ""
+msgstr "Distrollañ"
 
 msgid "unshared"
-msgstr ""
+msgstr "n'eo ket bet rannet"
 
 msgid "up"
-msgstr ""
+msgstr "war-grec'h"
 
 msgid "up arrow"
-msgstr ""
+msgstr "bir krec'h"
 
 msgid "Update failed"
-msgstr ""
+msgstr "Hizivadenn c'hwitet"
 
 msgid "Update not needed"
-msgstr ""
+msgstr "N'eo ket ret hizivaat"
 
 msgid "Update now"
-msgstr ""
+msgstr "Hizivaat bremañ"
 
 msgid "Upload backdrop from file"
-msgstr ""
+msgstr "Enporzhiañ an drekleur diwar ur restr"
 
 msgid "Upload costume from file"
-msgstr ""
+msgstr "Enporzhiañ ar gwiskamant diwar ur restr"
 
 msgid "Upload from your computer"
-msgstr ""
+msgstr "Enporzhiañ diwar hoc'h urzhiataer"
 
 msgid "Upload sound from file"
-msgstr ""
+msgstr "Enporzhiañ ar son diwar ur restr"
 
 msgid "Upload sprite from file"
-msgstr ""
+msgstr "Enporzhiañ ul lutun diwar ur restr"
 
 msgid "Uploading image..."
-msgstr ""
+msgstr "Oc'h enporzhiañ ar skeudenn..."
 
 msgid "Uploading sound..."
-msgstr ""
+msgstr "Oc'h enporzhiañ ar son..."
 
 msgid "Uploading sprite..."
-msgstr ""
+msgstr "Oc'h enporzhiañ al lutun..."
 
 msgid "variable"
-msgstr ""
+msgstr "varienn"
 
 msgid "Variable name"
-msgstr ""
+msgstr "Anv ar varienn"
 
 msgid "Vector"
-msgstr ""
+msgstr "Vektor"
 
 msgid "Vector Mode"
-msgstr ""
+msgstr "Mod vektor"
 
 msgid "Vibraphone"
-msgstr ""
+msgstr "Vibrafon"
 
+#, fuzzy
 msgid "Vibraslap"
-msgstr ""
+msgstr "Vibraslap"
 
+#, fuzzy
 msgid "video direction"
-msgstr ""
+msgstr "tu ar video"
 
+#, fuzzy
 msgid "video motion"
-msgstr ""
+msgstr "fiñv video"
 
 msgid "Video on:"
-msgstr ""
+msgstr "Video o vont en-dro..."
 
+#, fuzzy
 msgid "Vocals"
-msgstr ""
+msgstr "Kanañ"
 
 msgid "volume"
-msgstr ""
+msgstr "live ar son"
 
 msgid "Walking"
-msgstr ""
+msgstr "Kerzhet"
 
 msgid "Want to save? Click remix"
-msgstr ""
+msgstr "Saveteiñ a fell deoc'h ? Klikit war remix"
 
 msgid "Which column do you want to import"
-msgstr ""
+msgstr "Peseurt bann a fell deoc'h enporzhiañ?"
 
 msgid "What's your name?"
 msgstr ""
 
 msgid "whirl"
-msgstr ""
+msgstr "troidellat"
 
 msgid "Wood Block"
-msgstr ""
+msgstr "Bloc'h koad"
 
 msgid "Wooden Flute"
-msgstr ""
+msgstr "Fleüt koad"
 
 msgid "world"
 msgstr ""
@@ -1385,19 +1442,22 @@ msgstr ""
 msgid "y position"
 msgstr ""
 
+#, fuzzy
 msgid "year"
-msgstr ""
+msgstr "bloaz"
 
 msgid ""
 "You cannot edit cloud data in someone else's project.<br>Any change that you "
 "make in the editor will be temporary and not persistent."
 msgstr ""
+"N'hoc'h ket evit cheñch roadennoù cloud e raktres unan bennak all.<br>Kement "
+"kemm a reoc'h en aozer a vo da c'hortoz ha dibad. "
 
 msgid "Your Scratch name"
-msgstr ""
+msgstr "Hoc'h anv Scratch"
 
 msgid "Your Scratch name is required"
-msgstr ""
+msgstr "Hoc'h anv Scratch a zo rekis"
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
@@ -1416,138 +1476,145 @@ msgstr ""
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "An holl alioù"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
 msgstr ""
+"Doare nevez aozer ezlinenn Scratch a c'hall bezañ karget diwar lec'hienn "
+"Scratch."
 
 # Offline editor only
 msgid "Could not retrieve update location from server."
-msgstr ""
+msgstr "N'eus ket bet gallet adpakañ an hizivadenn nevez diwar ar servijer."
 
 # Offline editor only
 msgid "Could not retrieve version information from server."
 msgstr ""
+"Ne c'haller ket adtapout titouroù diwar-benn an doare adalek ar servijer"
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "Ne c'haller ket skrivañ ar restr :"
 
 # Offline editor only
 msgid "Downloading new version..."
-msgstr ""
+msgstr "O pellgargañ un doare nevez..."
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "Fazi o saveteiñ ar raktres"
 
 # Offline editor only
+#, fuzzy
 msgid "Force help file update"
-msgstr ""
+msgstr "Rediañ ar restr skoazell da hizivaat"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "Enporzhiañ un astenn HTTP arnodel"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "O kargañ restroù skoazell..."
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "Hizivaat dre zorn a c'haller"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "Digeriñ ur raktres"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "Sellit ouzh ar bajenn bellgargañ evit e staliañ mar plij."
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "Kuitaat"
 
 # Offline editor only
 msgid "Replace existing project?"
-msgstr ""
+msgstr "Lakaat e plas ar raktres a-vremañ?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "O seveniñ ar rak-hizivadenn"
 
 # Offline editor only
 msgid "Save Project"
-msgstr ""
+msgstr "Saveteiñ ar raktres"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "Fazi servijer:"
 
 # Offline editor only
 msgid "Share to Scratch Website"
-msgstr ""
+msgstr "Rannañ e lec'hienn web Scratch"
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "Berzh"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "Nevesoc'h eo an doare-mañ eget an doare a vremañ."
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "Gwririañ an hizivadenn n'eo ket aet betek penn"
 
 # Offline editor only
+#, fuzzy
 msgid "Upload failed"
-msgstr ""
+msgstr "Kargañ c'hwitet"
 
 # Offline editor only
+#, fuzzy
 msgid "Visit download page"
-msgstr ""
+msgstr "Kit da sellet ouzh ar bajenn bellgargañ"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "Kaset eo bet ho raktres da scratch.mit.edu"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "Enrollañ ar raktres video"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "Lemel an drekleur"
 
 msgid "any"
-msgstr ""
+msgstr "forzh pe"
 
 msgid "when Stage clicked"
 msgstr ""
 
 msgid "random position"
-msgstr ""
+msgstr "lec'hiadur cheñch-dicheñch"
 
 msgid "Cloud list (stored on server)"
-msgstr ""
+msgstr "Roll Cloud (miret er servijer)"
 
+#, fuzzy
 msgid "Dance"
-msgstr ""
+msgstr "Dañs"
 
 msgid "Dress-Up"
-msgstr ""
+msgstr "Gwiskañ"
 
 msgid "Music"
-msgstr ""
+msgstr "Sonerezh"
 
 msgid "Musical Notes"
-msgstr ""
+msgstr "Notennoù sonerezh"
 
 msgid "My Class"
-msgstr ""
+msgstr "Ma C'hlas"
 
 msgid "My Classes"
-msgstr ""
+msgstr "Ma C'hlasoù"
