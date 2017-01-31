@@ -1,0 +1,1540 @@
+#. #-#-#-#-#  uiStrings-online.pot (PACKAGE VERSION)  #-#-#-#-#
+#. extracted from uiStrings-online.txt
+#. #-#-#-#-#  uiStrings-offline.pot (PACKAGE VERSION)  #-#-#-#-#
+#. extracted from uiStrings-offline.txt
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-23 20:02+0100\n"
+"PO-Revision-Date: 2016-04-26 13:52+0000\n"
+"Last-Translator: ernst_kotze <ernst_kotze@yahoo.co.uk>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1461678762.000000\n"
+
+msgid "10 ^"
+msgstr "10 ^"
+
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Inligting oor Wolkveranderlikes</b><br>&nbsp;<br>Op die oomblik word "
+"slegs getalle ondersteun.<br>Kletsgroepword nie toegelaat nie en sal "
+"verwyder word.<br>Vir meer inligting, <a href=\"/help/faq/#clouddata\" "
+"target=\"_blank\">sien die wolkdata FAQ!<a>"
+
+msgid "A connected"
+msgstr "A gekonnekteer"
+
+msgid "A newer version of Scratch is available"
+msgstr "'n Nuwer weergawe van Scratch is beskikbaar"
+
+msgid "About"
+msgstr "Oor"
+
+msgid "Account settings"
+msgstr "Rekeningstellings"
+
+msgid "Add"
+msgstr "Voeg by"
+
+msgid "Add an Extension"
+msgstr "Voeg 'n Uitbreiding by"
+
+msgid "Add boolean input:"
+msgstr "Voeg ja/nee-veld by:"
+
+#, fuzzy
+msgid "Add label text:"
+msgstr "Voeg byskrif by:"
+
+msgid "Add number input:"
+msgstr "Voeg getalveld by:"
+
+msgid "Add string input:"
+msgstr "Voeg teksveld by:"
+
+msgid "All"
+msgstr "Alles"
+
+msgid "All Tips"
+msgstr "Alle wenke"
+
+msgid ""
+"An updated version of the Scratch offline editor is available on the Scratch "
+"website."
+msgstr ""
+"'n Nuwer weergawe van die Scratch aflyn redigeerder is beskibaar op die "
+"Scratch-webwerf."
+
+msgid "Animal"
+msgstr "Dier"
+
+msgid "Animals"
+msgstr "Diere"
+
+msgid "B connected"
+msgstr "B gekonnekteer"
+
+msgid "Back a layer"
+msgstr "Een laag agtertoe"
+
+msgid "Backdrop"
+msgstr "Agtergrond"
+
+msgid "Backdrop Library"
+msgstr "Agtergrondbiblioteek"
+
+msgid "Backdrops"
+msgstr "Agtergronde"
+
+msgid "Backpack"
+msgstr "Rugsak"
+
+msgid "Bass"
+msgstr "Baskitaar"
+
+msgid "Bass Drum"
+msgstr "Basdrom"
+
+msgid "Bassoon"
+msgstr "Fagot"
+
+msgid ""
+"Because you have a new Scratch account, any changes to cloud data won't be "
+"saved yet. Keep participating on the site you'll be able to use cloud data "
+"soon!"
+msgstr ""
+"Omdat jy 'n nuwe Scratch-rekening het, word veranderinge in die wolkdata nog "
+"nie gestoor nie. Hou aan deelneem op die webwerf; jy sal binne kort ook "
+"wolkdata kan gebruik!"
+
+#, fuzzy
+msgid "Bitmap"
+msgstr "Biskaart"
+
+#, fuzzy
+msgid "Bitmap Mode"
+msgstr "Biskaartmodus"
+
+msgid "Block help"
+msgstr "Blok-hulp"
+
+msgid "Bongo"
+msgstr "Bongo"
+
+msgid "Bring to front"
+msgstr "Bring vorentoe"
+
+msgid "Broadcast"
+msgstr "Saai uit"
+
+msgid "Brush"
+msgstr "Kwas"
+
+msgid "C connected"
+msgstr "C gekonnekteer"
+
+msgid "Cabasa"
+msgstr "Kabassa"
+
+msgid "Camera"
+msgstr "Kamera"
+
+msgid "Cancel"
+msgstr "Kanselleer"
+
+msgid "Cannot Delete"
+msgstr "Kan nie verwyder nie"
+
+msgid "Can’t find network connection or reach server."
+msgstr "Kan nie netwerkverbinding vind of bediener bereik nie."
+
+msgid "Castle"
+msgstr "Kasteel"
+
+msgid "Category"
+msgstr "Kategorie"
+
+msgid "Cello"
+msgstr "Tjello"
+
+msgid "Check for updates"
+msgstr "Kyk of daar opdaterings is"
+
+msgid "Choir"
+msgstr "Koor"
+
+msgid "Choose backdrop from library"
+msgstr "Kies agtergrond uit biblioteek"
+
+msgid "Choose costume from library"
+msgstr "Kies kostuum uit biblioteek"
+
+msgid "Choose sound from library"
+msgstr "Kies klank uit biblioteek"
+
+msgid "Choose sprite from library"
+msgstr "Kies sprite uit biblioteek"
+
+msgid "Circle"
+msgstr "Sirkel"
+
+msgid "City"
+msgstr "Stad"
+
+msgid "Clarinet"
+msgstr "Klarinet"
+
+#, fuzzy
+msgid "Claves"
+msgstr "Claves"
+
+msgid "Clear"
+msgstr "Maak skoon"
+
+msgid "Click \"Save now\" to try again or \"Download\" to save"
+msgstr "Klik op \"Stoor nou\" om weer te probeer of \"Laai af\" om te stoor"
+
+msgid "Close"
+msgstr "Maak toe"
+
+#, fuzzy
+msgid "Closed Hi-Hat"
+msgstr "Toe Hi-Hat"
+
+msgid "Cloud data"
+msgstr "Wolkdata"
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Cloud variable (stored on server)"
+msgstr ""
+
+#, fuzzy
+msgid "Color a shape"
+msgstr "Kleur 'n vorm in"
+
+msgid "Conga"
+msgstr "Conga"
+
+msgid "Connecting to Cloud data server..."
+msgstr "Koppel tans aan Wolkdata-bediener..."
+
+#, fuzzy
+msgid "Convert to bitmap"
+msgstr "Skakel om na biskaart"
+
+msgid "Convert to vector"
+msgstr "Skakel om na vektor"
+
+msgid "Converting mp3..."
+msgstr "Skakel mp3 om..."
+
+msgid "Copying..."
+msgstr "Kopieer..."
+
+msgid "Costume"
+msgstr "Kostuum"
+
+msgid "Costume Library"
+msgstr "Kostuumbiblioteek"
+
+msgid "Costumes"
+msgstr "Kostuums"
+
+msgid "Costumes > 1"
+msgstr "Kostuums > 1"
+
+msgid "Could not retrieve new application from server."
+msgstr "Kon nie nuwe toepassing vanaf die bediener laai nie."
+
+#, fuzzy
+msgid "Could not retrieve update location from server."
+msgstr "Kon nie opdateringsligging van bediener gaan haal nie."
+
+#, fuzzy
+msgid "Could not retrieve version information from server."
+msgstr "Kon nie weergawe-inligting van die bediener gaan haal nie."
+
+msgid "Could not write file:"
+msgstr "Kon nie lêer skryf nie:"
+
+msgid "Cowbell"
+msgstr "Koeiklok"
+
+msgid "Crash Cymbal"
+msgstr "Simbaal"
+
+#, fuzzy
+msgid "Creating..."
+msgstr "Skep..."
+
+msgid "Currently, only numbers can be stored in Cloud variables."
+msgstr "Op die oomblik kan slegs getalle gestoor word in Wolkveranderlikes."
+
+msgid "D connected"
+msgstr "D gekonnekteer"
+
+msgid "Dance"
+msgstr ""
+
+msgid "Delete"
+msgstr "Verwyder"
+
+msgid "Don't save"
+msgstr "Moenie stoor nie"
+
+msgid "Download"
+msgstr "Laai af"
+
+msgid "Download to your computer"
+msgstr "Aflaai na jou rekenaar"
+
+msgid "Downloading new version..."
+msgstr "Laai nuwe weergawe af..."
+
+msgid "Dress-Up"
+msgstr ""
+
+#, fuzzy
+msgid "Duplicate"
+msgstr "Dupliseer"
+
+msgid "Edit"
+msgstr "Redigeer"
+
+msgid "Edit Block"
+msgstr "Verander Blok"
+
+msgid "Effects"
+msgstr "Effekte"
+
+msgid "Electric Guitar"
+msgstr "Elektriese Kitaar"
+
+msgid "Electric Piano"
+msgstr "Elektriese Klavier"
+
+msgid "Electronic"
+msgstr "Elektronies"
+
+msgid "Ellipse"
+msgstr "Ovaal"
+
+msgid "Erase"
+msgstr "Uitvee"
+
+msgid "Eraser width"
+msgstr "Uitveër-breedte"
+
+#, fuzzy
+msgid "Error saving project"
+msgstr "Fout met stoor van projek"
+
+msgid "Error!"
+msgstr "Fout!"
+
+msgid "Fantasy"
+msgstr "Fantasie"
+
+msgid "Features"
+msgstr "Funksies"
+
+msgid "File"
+msgstr "Lêer"
+
+msgid "Fill with color"
+msgstr "Vul met kleur"
+
+#, fuzzy
+msgid "Flip left-right"
+msgstr "Flip links-regs"
+
+#, fuzzy
+msgid "Flip up-down"
+msgstr "Flip bo-onder"
+
+msgid "Flute"
+msgstr "Dwarsfluit"
+
+msgid "Flying"
+msgstr "Vlieg"
+
+msgid "Font:"
+msgstr "Font:"
+
+msgid "For all sprites"
+msgstr "Vir alle sprites"
+
+msgid "For this sprite only"
+msgstr "Slegs vir hierdie sprite"
+
+#, fuzzy
+msgid "Force help file update"
+msgstr "Dwing hulplêer opdatering af"
+
+msgid "Forward a layer"
+msgstr "'n Laag vorentoe"
+
+msgid "Go to My Stuff"
+msgstr "Gaan na My Goed"
+
+msgid "Group"
+msgstr "Groepeer"
+
+msgid "Grow"
+msgstr "Maak groter"
+
+msgid "Guiro"
+msgstr "Guiro"
+
+msgid "Guitar"
+msgstr "Kitaar"
+
+#, fuzzy
+msgid "Hand Clap"
+msgstr "Hande Klap"
+
+msgid "Hardware"
+msgstr "Hardeware"
+
+msgid "High C"
+msgstr "Hoë C"
+
+msgid "Holiday"
+msgstr "Vakansie"
+
+msgid "Human"
+msgstr "Mens"
+
+msgid "Import"
+msgstr "Trek in"
+
+#, fuzzy
+msgid "Import experimental HTTP extension"
+msgstr "Trek eksperimentele HTTP-uitbreiding in"
+
+msgid "Importing sound..."
+msgstr "Besig om klank in te trek..."
+
+msgid "Indoors"
+msgstr "Binnenshuis"
+
+#, fuzzy
+msgid "Installing..."
+msgstr "Word tans geïnstalleer..."
+
+msgid "Instruments"
+msgstr "Instrumente"
+
+msgid "Letters"
+msgstr "Letters"
+
+msgid "Library"
+msgstr "Biblioteek"
+
+msgid "Line"
+msgstr "Lyn"
+
+msgid "Line width"
+msgstr "Lynbreedte"
+
+msgid "List name"
+msgstr "Lysnaam"
+
+msgid "Loading help files..."
+msgstr "Laai hulplêers..."
+
+msgid "Loading project..."
+msgstr "Projek laai..."
+
+msgid "Low C"
+msgstr "Lae C"
+
+msgid "Make a Block"
+msgstr "Skep 'n Blok"
+
+msgid "Make a List"
+msgstr "Skep 'n Lys"
+
+msgid "Make a Variable"
+msgstr "Skep 'n Veranderlike"
+
+#, fuzzy
+msgid "Manual Update Available"
+msgstr "Nie-outomatiese Opdatering Beskikbaar"
+
+msgid "Marimba"
+msgstr "Marimba"
+
+msgid "Max"
+msgstr "Maks"
+
+msgid "Message Name"
+msgstr "Boodskapnaam"
+
+msgid "Microphone volume:"
+msgstr "Mikrofoonvolume:"
+
+msgid "Middle C"
+msgstr "Middel C"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Multiple"
+msgstr "Veelvoud"
+
+msgid "Music"
+msgstr ""
+
+msgid "Music Box"
+msgstr "Musiekboks"
+
+#, fuzzy
+msgid "Music Loops"
+msgstr "Musieklusse"
+
+msgid "Music and Dance"
+msgstr "Musiek en Dans"
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
+msgid "My Stuff"
+msgstr "My Goed"
+
+msgid "Nature"
+msgstr "Natuur"
+
+msgid "New"
+msgstr "Nuut"
+
+msgid "New Block"
+msgstr "Nuwe Blok"
+
+msgid "New List"
+msgstr "Nuwe Lys"
+
+msgid "New Message"
+msgstr "Nuwe Boodskap"
+
+msgid "New Variable"
+msgstr "Nuwe veranderlike"
+
+msgid "New backdrop from camera"
+msgstr "Nuwe agtergrond vanaf kamera"
+
+msgid "New backdrop:"
+msgstr "Nuwe agtergrond:"
+
+msgid "New costume from camera"
+msgstr "Nuwe kostuum vanaf kamera"
+
+msgid "New costume:"
+msgstr "Nuwe kostuum:"
+
+msgid "New name"
+msgstr "Nuwe naam"
+
+msgid "New sound:"
+msgstr "Nuwe klank:"
+
+msgid "New sprite from camera"
+msgstr "Nuwe sprite van kamera"
+
+msgid "New sprite:"
+msgstr "Nuwe sprite:"
+
+msgid "No motion blocks"
+msgstr "Geen bewegingsblokke"
+
+msgid "Not saved; network or server problem."
+msgstr "Nie gestoor nie; netwerk- of bedienerprobleem."
+
+msgid "Not saved; project did not load."
+msgstr "Nie gestoor nie; projek het nie gelaai nie."
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Offline Editor"
+msgstr "Aflyn Redigeerder"
+
+msgid "Open"
+msgstr "Maak oop"
+
+#, fuzzy
+msgid "Open Cuica"
+msgstr "Oop Cuica"
+
+msgid "Open Hi-Hat"
+msgstr "Oop Hi-Hat"
+
+msgid "Open Project"
+msgstr "Open Projek"
+
+msgid "Options"
+msgstr "Opsies"
+
+msgid "Organ"
+msgstr "Orrel"
+
+msgid "Other"
+msgstr "Ander"
+
+#, fuzzy
+msgid "Outdoors"
+msgstr "Buite"
+
+msgid "Paint new backdrop"
+msgstr "Teken nuwe agtergrond"
+
+msgid "Paint new costume"
+msgstr "Teken nuwe kostuum"
+
+msgid "Paint new sprite"
+msgstr "Teken nuwe sprite"
+
+msgid "Password"
+msgstr "Wagwoord"
+
+msgid "Password is required"
+msgstr "Wagwoord word vereis"
+
+msgid "Pencil"
+msgstr "Potlood"
+
+msgid "People"
+msgstr "Mense"
+
+msgid "Percussion"
+msgstr "Slagwerk"
+
+msgid "Piano"
+msgstr "Klavier"
+
+msgid "Pick up color"
+msgstr "Kies 'n kleur"
+
+msgid "Pizzicato"
+msgstr "Pizzicato"
+
+msgid "Please visit the download page to install it."
+msgstr "Gaan asseblief na die aflaaibladsy om dit te installeer."
+
+msgid "Profile"
+msgstr "Profiel"
+
+msgid "Project did not load."
+msgstr "Projek het nie gelaai nie."
+
+msgid "Project name"
+msgstr "Projeknaam"
+
+msgid "Project name is required"
+msgstr "Projek naam word benodig"
+
+msgid "Project not saved!"
+msgstr "Projek het nie gestoor nie!"
+
+msgid "Quit"
+msgstr "Gaan uit"
+
+msgid "Record"
+msgstr "Neem op"
+
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Record new sound"
+msgstr "Neem nuwe klank op"
+
+msgid "Rectangle"
+msgstr "Reghoek"
+
+msgid "Redo"
+msgstr "Herdoen"
+
+#, fuzzy
+msgid "Remix"
+msgstr "Remix"
+
+#, fuzzy
+msgid "Remixing..."
+msgstr "Remixing..."
+
+msgid "Remove Background"
+msgstr ""
+
+#, fuzzy
+msgid "Rename"
+msgstr "Herbenoem"
+
+msgid "Replace existing project?"
+msgstr "Vervang bestaande projek?"
+
+#, fuzzy
+msgid "Reshape"
+msgstr "Hervorm"
+
+msgid "Revert"
+msgstr "Skakel terug"
+
+#, fuzzy
+msgid "Reverting..."
+msgstr "Skakel terug..."
+
+#, fuzzy
+msgid "Run without screen refresh"
+msgstr "Hardloop sonder om skerm te verfris"
+
+#, fuzzy
+msgid "Running pre-release"
+msgstr "Hardloop voor-vrystellingsweergawe"
+
+msgid "Save"
+msgstr "Stoor"
+
+msgid "Save Project"
+msgstr "Stoor projek"
+
+msgid "Save a copy of this project and add your own ideas."
+msgstr "Stoor 'n kopie van hierdie projek en voeg jou eie idees by."
+
+msgid "Save as"
+msgstr "Stoor as"
+
+msgid "Save as a copy"
+msgstr "Stoor 'n kopie"
+
+msgid "Save now"
+msgstr "Stoor nou"
+
+msgid "Save project?"
+msgstr "Stoor projek?"
+
+msgid "Saved"
+msgstr "Gestoor"
+
+msgid "Saving changes..."
+msgstr "Stoor veranderings..."
+
+msgid "Saving..."
+msgstr "Besig om te stoor..."
+
+msgid "Saxophone"
+msgstr "Saksofoon"
+
+msgid "Scratch Updater"
+msgstr "Scratch Opdateerder"
+
+#, fuzzy
+msgid "Script"
+msgstr "Skrip"
+
+#, fuzzy
+msgid "Scripts"
+msgstr "Skripte"
+
+msgid "See project page"
+msgstr "Sien projekbladsy"
+
+msgid "Select"
+msgstr "Selekteer"
+
+msgid "Select and duplicate"
+msgstr "Selekteer en maak 'n kopie"
+
+msgid "Send to back"
+msgstr "Stuur na agter"
+
+msgid "Server error:"
+msgstr "Bedienerfout:"
+
+msgid "Set Costume Center"
+msgstr "Stel Middelpunt van Kostuum"
+
+msgid "Set costume center"
+msgstr "Stel middelpunt van kostuum"
+
+msgid "Share"
+msgstr "Deël"
+
+msgid "Share to Scratch Website"
+msgstr "Deel op Scratch-webwerf"
+
+msgid "Share to website"
+msgstr "Deel op webwerf"
+
+#, fuzzy
+msgid "Shift:"
+msgstr "Shift:"
+
+msgid "Shrink"
+msgstr "Maak kleiner"
+
+#, fuzzy
+msgid "Side Stick"
+msgstr "Side Stick"
+
+msgid "Sign in"
+msgstr "Teken in"
+
+msgid "Sign in to save"
+msgstr "Teken in om te stoor"
+
+msgid "Sign out"
+msgstr "Teken uit"
+
+#, fuzzy
+msgid "Slider Range"
+msgstr "Skuiweromvang"
+
+#, fuzzy
+msgid "Small stage layout"
+msgstr "Klein verhooguitleg"
+
+msgid "Smooth"
+msgstr "Glad"
+
+msgid "Snare Drum"
+msgstr "Snaardrom"
+
+msgid "Sound"
+msgstr "Klank"
+
+msgid "Sound Library"
+msgstr "Klankbiblioteek"
+
+msgid "Sounds"
+msgstr "Klanke"
+
+msgid "Space"
+msgstr "Ruimte"
+
+msgid "Sports"
+msgstr "Sport"
+
+msgid "Sprite"
+msgstr "Sprite"
+
+msgid "Sprite Library"
+msgstr "Sprite biblioteek"
+
+msgid "Sprite1"
+msgstr "Sprite1"
+
+msgid "Sprites"
+msgstr "Sprites"
+
+msgid "Square"
+msgstr "Vierkant"
+
+msgid "Stage"
+msgstr "Verhoog"
+
+msgid "Stage selected:"
+msgstr "Geselekteerde verhoog:"
+
+msgid "Steel Drum"
+msgstr "Staaldrom"
+
+msgid "Success"
+msgstr "Suksesvol"
+
+#, fuzzy
+msgid "Synth Lead"
+msgstr "Synth Lead"
+
+#, fuzzy
+msgid "Synth Pad"
+msgstr "Synth Pad"
+
+msgid "Tambourine"
+msgstr "Tamboeryn"
+
+msgid "Text"
+msgstr "Teks"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "Things"
+msgstr "Voorwerpe"
+
+msgid "This is the current version."
+msgstr "Hierdie is die nuutste weergawe."
+
+msgid ""
+"This project can detect who is using it, through the “username” block. To "
+"hide your identity, sign out before using the project."
+msgstr ""
+"Hierdie projek kan bepaal wie dit gebruik, die “gebruikersnaam” -blok. As jy "
+"jou identiteit wil wegsteek moet jy eers afteken voordat jy die projek "
+"gebruik."
+
+msgid ""
+"This project uses Cloud data ‒ a feature that is available only to signed in "
+"users."
+msgstr ""
+"Hierdie projek gebruik Wolkdata - 'n funksie wat slegs beskikbaar is aan "
+"ingetekende gebruikers."
+
+msgid "This version is newer than the current release version."
+msgstr "Hierdie is 'n nuwer weergawe as die offisiële nuutste weergawe."
+
+#, fuzzy
+msgid "Throw away all changes since opening this project?"
+msgstr "Wil jy alle veranderinge wat jy gemaak het ongedaan maak?"
+
+msgid "Tips"
+msgstr "Wenke"
+
+#, fuzzy
+msgid "To delete a block definition, first remove all uses of the block."
+msgstr ""
+"Om 'n blokdefinisie te verwyder, moet jy eers sorg dat dit nêrens meer "
+"gebruik word nie."
+
+msgid "Transportation"
+msgstr "Vervoer"
+
+msgid "Triangle"
+msgstr "Driehoek"
+
+msgid "Trombone"
+msgstr "Tromboon"
+
+#, fuzzy
+msgid "Turbo Mode"
+msgstr "Turbomodus"
+
+#, fuzzy
+msgid "Turbo mode"
+msgstr "Turbomodus"
+
+msgid "Type"
+msgstr "Tipe"
+
+#, fuzzy
+msgid "Undelete"
+msgstr "Ontdoen verwyder"
+
+msgid "Underwater"
+msgstr "Onderwater"
+
+msgid "Undo"
+msgstr "Ontdoen"
+
+#, fuzzy
+msgid "Undo Revert"
+msgstr "Ontdoen Skakel Terug"
+
+msgid "Ungroup"
+msgstr "Ontgroepeer"
+
+#, fuzzy
+msgid "Update check failed"
+msgstr "Opdateringstoets het misluk"
+
+msgid "Update failed"
+msgstr "Opdatering het misluk"
+
+msgid "Update not needed"
+msgstr "Opdatering is nie nodig nie"
+
+msgid "Update now"
+msgstr "Opdateer nou"
+
+msgid "Upload backdrop from file"
+msgstr "Laai agtergrond vanaf lêer"
+
+msgid "Upload costume from file"
+msgstr "Laai kostuum vanaf lêer"
+
+msgid "Upload failed"
+msgstr "Oplaai het misluk"
+
+msgid "Upload from your computer"
+msgstr "Laai vanaf jou rekenaar"
+
+msgid "Upload sound from file"
+msgstr "Laai klank vanaf lêer"
+
+msgid "Upload sprite from file"
+msgstr "Laai sprite vanaf lêer"
+
+#, fuzzy
+msgid "Uploading image..."
+msgstr "Laai prent..."
+
+msgid "Uploading sound..."
+msgstr "Laai klank..."
+
+msgid "Uploading sprite..."
+msgstr "Laai sprite..."
+
+msgid "Variable name"
+msgstr "Veranderlike-naam"
+
+msgid "Vector"
+msgstr "Vektor"
+
+#, fuzzy
+msgid "Vector Mode"
+msgstr "Vektor-modus"
+
+msgid "Vibraphone"
+msgstr "Vibrafoon"
+
+msgid "Vibraslap"
+msgstr "Vibraslap"
+
+msgid "Video on:"
+msgstr "Video op:"
+
+msgid "Visit download page"
+msgstr "Besoek aflaaibladsy"
+
+msgid "Vocals"
+msgstr "Stemme"
+
+msgid "Walking"
+msgstr "Stap"
+
+#, fuzzy
+msgid "Want to save? Click remix"
+msgstr "Wil jy stoor? Klik om remix"
+
+msgid "Which column do you want to import"
+msgstr "Watter kolom wil jy intrek"
+
+msgid "Wood Block"
+msgstr "Houtblok"
+
+msgid "Wooden Flute"
+msgstr "Blokfluit"
+
+msgid ""
+"You cannot edit cloud data in someone else's project.<br>Any change that you "
+"make in the editor will be temporary and not persistent."
+msgstr ""
+"Jy kan nie iemand anders se projek se wolkdata verander nie.<br>Enige "
+"veranderinge wat jy in die redigeerder maak sal tydelik en nie permanent nie "
+"wees nie."
+
+msgid "Your Scratch name"
+msgstr "Jou Scratchnaam"
+
+msgid "Your Scratch name is required"
+msgstr "Jou Scratchnaam word vereis"
+
+msgid "Your project has been uploaded to scratch.mit.edu"
+msgstr "Jou projek is opgelaai na scratch.mit.edu"
+
+msgid "a copy of the project file on your computer."
+msgstr "'n kopie van die projeklêer bestaan op jou rekenaar."
+
+msgid "abs"
+msgstr "abs"
+
+msgid "acos"
+msgstr "acos"
+
+msgid "add comment"
+msgstr "voeg kommentaar by"
+
+msgid "all"
+msgstr "alles"
+
+msgid "all around"
+msgstr "reg in die rondte"
+
+msgid "any"
+msgstr ""
+
+msgid "asin"
+msgstr "asin"
+
+msgid "assets loaded"
+msgstr "elemente gelaai"
+
+msgid "atan"
+msgstr "atan"
+
+msgid "backdrop"
+msgstr "agtergrond"
+
+msgid "backdrop #"
+msgstr "agtergrond #"
+
+msgid "backdrop name"
+msgstr "agtergrondnaam"
+
+msgid "backdrop1"
+msgstr "agtergrond1"
+
+msgid "backdrops"
+msgstr "agtergronde"
+
+msgid "brightness"
+msgstr "helderheid"
+
+msgid "button pressed"
+msgstr "knoppie gedruk"
+
+msgid "by"
+msgstr "van"
+
+msgid "bytes loaded"
+msgstr "grepe gelaai"
+
+msgid "can drag in player:"
+msgstr "kan in speler gesleep word:"
+
+#, fuzzy
+msgid "ceiling"
+msgstr "opronding"
+
+#, fuzzy
+msgid "clean up"
+msgstr "ruim op"
+
+msgid "clear senders/receivers"
+msgstr "wis senders/ontvangers uit"
+
+msgid "color"
+msgstr "kleur"
+
+msgid "copy"
+msgstr "kopieer"
+
+msgid "cos"
+msgstr "cos"
+
+msgid "costume1"
+msgstr "kostuum1"
+
+msgid "costume2"
+msgstr "kostuum2"
+
+msgid "cut"
+msgstr "knip"
+
+msgid "date"
+msgstr "datum"
+
+msgid "day of week"
+msgstr "dag van die week"
+
+msgid "delete"
+msgstr "verwyder"
+
+msgid "delete variable"
+msgstr "verwyder veranderlike"
+
+msgid "direction"
+msgstr "rigting"
+
+msgid "direction:"
+msgstr "rigting:"
+
+msgid "don't rotate"
+msgstr "moenie draai nie"
+
+msgid "down"
+msgstr "af"
+
+msgid "down arrow"
+msgstr "af-pyltjie"
+
+#, fuzzy
+msgid "duplicate"
+msgstr "dupliseer"
+
+msgid "e ^"
+msgstr "e ^"
+
+msgid "edge"
+msgstr "rand"
+
+# redigeer, wysig, verander?
+msgid "edit"
+msgstr "redigeer"
+
+#, fuzzy
+msgid "export"
+msgstr "voer uit"
+
+# indoof of verhelder
+#, fuzzy
+msgid "fade in"
+msgstr "verhelder"
+
+# verbleik of uitdoof
+#, fuzzy
+msgid "fade out"
+msgstr "verbleik"
+
+msgid "fisheye"
+msgstr "visoog"
+
+#, fuzzy
+msgid "floor"
+msgstr "heelgetal deel"
+
+msgid "ghost"
+msgstr "spook"
+
+msgid "help"
+msgstr "hulp"
+
+#, fuzzy
+msgid "hide"
+msgstr "steek weg"
+
+msgid "hour"
+msgstr "uur"
+
+# Trek in, Laai in, Voer in???
+#, fuzzy
+msgid "import"
+msgstr "voer in"
+
+#, fuzzy
+msgid "large readout"
+msgstr "groot afvoer"
+
+msgid "last"
+msgstr "laaste"
+
+msgid "left"
+msgstr "links"
+
+msgid "left arrow"
+msgstr "links-pyltjie"
+
+msgid "left-right"
+msgstr "links-regs"
+
+msgid "length"
+msgstr "lengte"
+
+msgid "light"
+msgstr "lig"
+
+msgid "limit reached"
+msgstr "limiet is bereik"
+
+msgid "list"
+msgstr "lys"
+
+msgid "ln"
+msgstr "ln"
+
+msgid "log"
+msgstr "log"
+
+msgid "louder"
+msgstr "harder"
+
+msgid "loudness"
+msgstr "hardheid"
+
+msgid "meow"
+msgstr "miaau"
+
+msgid "message1"
+msgstr "boodskap1"
+
+msgid "minute"
+msgstr "minuut"
+
+msgid "month"
+msgstr "maand"
+
+msgid "mosaic"
+msgstr "mosaïek"
+
+msgid "motion"
+msgstr "beweging"
+
+#, fuzzy
+msgid "mouse-pointer"
+msgstr "muis-wyser"
+
+msgid "myself"
+msgstr "myself"
+
+msgid "new message..."
+msgstr "nuwe boodskap..."
+
+msgid "next backdrop"
+msgstr "volgende agtergrond"
+
+#, fuzzy
+msgid "normal readout"
+msgstr "normale afvoer"
+
+msgid "of"
+msgstr "van"
+
+msgid "off"
+msgstr "af"
+
+msgid "on"
+msgstr "aan"
+
+#, fuzzy
+msgid "on-flipped"
+msgstr "aan-geflip"
+
+#, fuzzy
+msgid "other scripts in sprite"
+msgstr "ander skripte van sprite"
+
+#, fuzzy
+msgid "other scripts in stage"
+msgstr "ander skripte op die verhoog"
+
+msgid "paste"
+msgstr "plak"
+
+msgid "photo1"
+msgstr "foto1"
+
+#, fuzzy
+msgid "pixelate"
+msgstr "pixelleer"
+
+msgid "pop"
+msgstr "pop"
+
+msgid "previous backdrop"
+msgstr "vorige agtergrond"
+
+msgid "random"
+msgstr "ewekansig"
+
+msgid "random position"
+msgstr ""
+
+msgid "record..."
+msgstr "neem op..."
+
+msgid "recording1"
+msgstr "opname1"
+
+msgid "redo"
+msgstr "herdoen"
+
+msgid "rename variable"
+msgstr "herbenoem veranderlike"
+
+#, fuzzy
+msgid "requires sign in"
+msgstr "vereis inteken"
+
+msgid "resistance-A"
+msgstr "weerstand-A"
+
+msgid "resistance-B"
+msgstr "weerstand-B"
+
+msgid "resistance-C"
+msgstr "weerstand-C"
+
+msgid "resistance-D"
+msgstr "weerstand-D"
+
+#, fuzzy
+msgid "reverse"
+msgstr "agteruit"
+
+msgid "right"
+msgstr "regs"
+
+msgid "right arrow"
+msgstr "regs-pyltjie"
+
+msgid "rotation style:"
+msgstr "rotasiestyl:"
+
+msgid "save to local file"
+msgstr "stoor na plaaslike lêer"
+
+msgid "second"
+msgstr "sekonde"
+
+msgid "select all"
+msgstr "selekteer alles"
+
+msgid "set slider min and max"
+msgstr "stel skuiwer se min en maks"
+
+msgid "shared"
+msgstr "gedeel"
+
+msgid "show"
+msgstr "wys"
+
+msgid "show:"
+msgstr "wys:"
+
+msgid "silence"
+msgstr "stilte"
+
+# trig funksie
+msgid "sin"
+msgstr "sin"
+
+msgid "slider"
+msgstr "skuiwer"
+
+msgid "softer"
+msgstr "sagter"
+
+msgid "sound"
+msgstr "klank"
+
+msgid "space"
+msgstr "spasie"
+
+msgid "sqrt"
+msgstr "vierkantswortel"
+
+msgid "tan"
+msgstr "tan"
+
+msgid "text"
+msgstr "teks"
+
+msgid "that way"
+msgstr "daarheen"
+
+#, fuzzy
+msgid "this script"
+msgstr "hierdie skrip"
+
+msgid "this sprite"
+msgstr "hierdie sprite"
+
+msgid "this way"
+msgstr "hierheen"
+
+#, fuzzy
+msgid "timer"
+msgstr "stophorlosie"
+
+msgid "undo"
+msgstr "ontdoen"
+
+#, fuzzy
+msgid "unshared"
+msgstr "ongedeel"
+
+msgid "up"
+msgstr "op"
+
+msgid "up arrow"
+msgstr "op-pyltjie"
+
+msgid "variable"
+msgstr "veranderlike"
+
+msgid "video direction"
+msgstr "videorigting"
+
+msgid "video motion"
+msgstr "videobeweging"
+
+msgid "volume"
+msgstr "volume"
+
+msgid "whirl"
+msgstr "draaikolk"
+
+msgid "year"
+msgstr "jaar"
+
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Inligting oor Wolkveranderlikes</b><br>&nbsp;<b>Tans word slegs getalle "
+"ondersteun<br>Kletskamers word nie toegelaat nie, en sal verwyder word<br>"
+"Vir meer inligting, <a href= target=> sien wolkdata FAQ!</a>"
+
+#, fuzzy
+msgid "Click  to try again or  to save"
+msgstr "Klik  om weer te probeer of  om te stoor"
+
+msgid "Cloud"
+msgstr "Wolk"
+
+msgid "costume #"
+msgstr "kostuum #"
+
+msgid "costume name"
+msgstr "kostuumnaam"
+
+msgid "Costumes:"
+msgstr "Kostuums:"
+
+msgid "Eraser width:"
+msgstr "Uitveërbreedte:"
+
+msgid "Line width:"
+msgstr "Lynbreedte:"
+
+#, fuzzy
+msgid "Scripts:"
+msgstr "Skripte:"
+
+msgid "show receivers"
+msgstr "wys ontvangers"
+
+msgid "show senders"
+msgstr "wys senders"
+
+msgid "size"
+msgstr "grootte"
+
+msgid "stored on server"
+msgstr "gestoor op bediener"
+
+msgid "x position"
+msgstr "x-posisie"
+
+msgid "y position"
+msgstr "y-posisie"
+
+#: uiStrings-online.txt:529
+#: uiStrings-offline.txt:531
+msgid "rename broadcast"
+msgstr "herbenoem sein"
+
+#: uiStrings-online.txt:777
+#: uiStrings-offline.txt:793
+#, fuzzy
+msgid "when Stage clicked"
+msgstr "wanneer Verhoog geklik"
