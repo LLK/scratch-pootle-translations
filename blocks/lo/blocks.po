@@ -1,0 +1,473 @@
+#. #-#-#-#-#  commands-online.pot (PACKAGE VERSION)  #-#-#-#-#
+#. extracted from commands-online.txt
+#. #-#-#-#-#  commands-offline.pot (PACKAGE VERSION)  #-#-#-#-#
+#. extracted from commands-offline.txt
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-23 20:02+0100\n"
+"PO-Revision-Date: 2016-06-03 09:01+0000\n"
+"Last-Translator: Shohei <oti_special@hotmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: lo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+"X-POOTLE-MTIME: 1464944482.000000\n"
+
+msgid "%b and %b"
+msgstr "%b ແລະ %b"
+
+msgid "%b or %b"
+msgstr "%b ຫລື %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.attribute ຂອງ %m.spriteOrStage"
+
+msgid "%m.list contains %s?"
+msgstr "%m.list ປະກອບດ້ວຍ %s?"
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp ຂອງ %n"
+
+msgid "%m.sensor sensor value"
+msgstr "%m.sensor ມູນຄ່າ ການຮື້ສຸກ"
+
+msgid "%n mod %n"
+msgstr "ສ່ວນເຫລືອ %n ຫານ %n"
+
+msgid "Control"
+msgstr "ການຄວບຄຸມ"
+
+msgid "Data"
+msgstr "ຂໍ້ມູນ"
+
+msgid "Events"
+msgstr "ເຫດການ"
+
+msgid "Looks"
+msgstr "ການປາກົດ"
+
+msgid "More Blocks"
+msgstr "ຕັນເພີ່ມເຕີມ"
+
+msgid "Motion"
+msgstr "ການເຄື່ອນໄຫວ"
+
+msgid "Operators"
+msgstr "ການຄິດໄລ່"
+
+msgid "Pen"
+msgstr "ບິກ"
+
+msgid "Sensing"
+msgstr "ຮູ້ສຶກ"
+
+msgid "Sound"
+msgstr "ສຽງ"
+
+msgid "add %s to %m.list"
+msgstr "ເພີ່ມ%s ເພື່ອ%m.list"
+
+msgid "answer"
+msgstr "ຄຳຕອບ"
+
+msgid "ask %s and wait"
+msgstr "ຖາມ %s ແລະ ລໍຖ້າ"
+
+msgid "backdrop #"
+msgstr "ສິ່ງຫຍໍ້ທໍ້ #"
+
+msgid "backdrop name"
+msgstr "ຊື່ສິ່ງຫຍໍ້ທໍ້"
+
+msgid "broadcast %m.broadcast"
+msgstr "ສົ່ງ %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "ສົ່ງ %m.broadcast ແລ້ວແລະລໍຖ້າຈັກຫນ້ອຍ"
+
+msgid "change %m.effect effect by %n"
+msgstr "ປ່ຽນ %m.effect ໂດຍ %n"
+
+msgid "change %m.var by %n"
+msgstr "ປ່ຽນ %m.var ໂດຍ %n"
+
+msgid "change pen color by %n"
+msgstr "ປ່ຽນສີ pen ໂດຍ %n"
+
+msgid "change pen shade by %n"
+msgstr "ປ່ຽນສີ pen ໂດຍ %n"
+
+msgid "change pen size by %n"
+msgstr "ປ່ຽນຂະຫນາດ pen ໂດຍ %n"
+
+msgid "change size by %n"
+msgstr "ປ່ຽນຂະຫນາດໂດຍ %n"
+
+msgid "change tempo by %n"
+msgstr "ປ່ຽນ ໂດຍ %n"
+
+msgid "change volume by %n"
+msgstr "ປ່ຽນ ໂດຍ %n"
+
+msgid "change x by %n"
+msgstr "ປ່ຽນ x ໂດຍ %n"
+
+msgid "change y by %n"
+msgstr "ປ່ຽນ y ໂດຍ %n"
+
+msgid "clear"
+msgstr "ຈະແຈ້ງ"
+
+msgid "clear graphic effects"
+msgstr "ລົບຜົນກະທົບຮູບພາບ"
+
+msgid "color %c is touching %c?"
+msgstr "ສີ%c ການສໍາພັດ ສີ%c?"
+
+msgid "costume #"
+msgstr "ຊຸດແຕ່ງຕົວ​ #"
+
+msgid "create clone of %m.spriteOnly"
+msgstr "ສ້າງ clone ຂອງ %m.spriteOnly"
+
+msgid "current %m.timeAndDate"
+msgstr "%m.timeAndDate ປະຈຸບັນ"
+
+msgid "days since 2000"
+msgstr "ວັນ ຕັ້ງແຕ່ປີ 2000"
+
+msgid "define"
+msgstr "ກໍານົດ"
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "ລົບ %d.listDeleteItem ຂອງ %m.list"
+
+msgid "delete this clone"
+msgstr "ລົບ clone ນີ້"
+
+msgid "direction"
+msgstr "ທິດທາງ"
+
+msgid "distance"
+msgstr "ໄລຍະທາງ"
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "ໄລຍະທາງກັບ %m.spriteOrMouse"
+
+msgid "else"
+msgstr "ອື່ນ"
+
+msgid "forever"
+msgstr "ຕະຫຼອດໄປ"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "ຍ່າງໄປ  x:%n y:%n ໃນ % ວິນາທີ"
+
+msgid "go back %n layers"
+msgstr "ລົງລຸ່ມ %n layers"
+
+msgid "go to %m.location"
+msgstr "ໄປບ່ອນທີ່ %m.location"
+
+msgid "go to front"
+msgstr "ໄປທາງຫນ້າ"
+
+msgid "go to x:%n y:%n"
+msgstr "ໄປ x:%n y:%n"
+
+msgid "hide"
+msgstr "ຊ່ອນ"
+
+msgid "hide list %m.list"
+msgstr "ຊ່ອນ list %m.list"
+
+msgid "hide variable %m.var"
+msgstr "ຊ່ອນການປ່ຽນແປງ %m.var"
+
+msgid "if %b then"
+msgstr "ສົມມຸດວ່າ %b ຈະ"
+
+msgid "if on edge, bounce"
+msgstr "ສົມມຸດວ່າຢູ່ແຂບ, ຈະ ໂດດ"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "ສະແດງກິ່ງງ່າ %s ຢູ່ %d.listitem ຂອງ %m.list"
+
+msgid "item %d.listItem of %m.list"
+msgstr "ຄັ້ງທີ %d.listitem ຂອງ %m.list"
+
+msgid "join %s %s"
+msgstr "ເຂົ້າຮ່ວມ %s ແລະ %s"
+
+msgid "key %m.key pressed?"
+msgstr "ປຸ່ມ %m.key ກົດດັນ?"
+
+msgid "length of %m.list"
+msgstr "ຄວາມຍາວຂອງ %m.list"
+
+msgid "length of %s"
+msgstr "ຄວາມຍາວ ຂອງ %s"
+
+msgid "letter %n of %s"
+msgstr "%s ລັກສະນະ ຄັ້ງທີ %n"
+
+msgid "loudness"
+msgstr "ສຽງດັງພິລຶກ"
+
+msgid "mouse down?"
+msgstr "ເມົ້າ ລົງ?"
+
+msgid "mouse x"
+msgstr "ເມົ້າ x ຕໍາແຫນ່ງ"
+
+msgid "mouse y"
+msgstr "ເມົ້າ y ຕໍາແຫນ່ງ"
+
+msgid "move %n steps"
+msgstr "ເໜັງຕີງ %n ຂັ້ນຕອນທີ"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "next backdrop"
+msgstr "ສິ່ງຫຍໍ້ທໍ້ຕໍ່ໄປ"
+
+msgid "next costume"
+msgstr "ຊຸດແຕ່ງຕົວ ຕໍ່ໄປ"
+
+msgid "not %b"
+msgstr "ບໍ່ %b"
+
+msgid "pen down"
+msgstr "ບິກ ລົງ"
+
+msgid "pen up"
+msgstr "ບິກ ເຖິງ"
+
+msgid "pick random %n to %n"
+msgstr "ເລືອກ ຈໍານວນ ຕາມບຸນຕາມກຳ ຈາກການທີ %n ເຖິງ %n"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "ສຽງ ກອງ %d.drum %n ເທື່ອ"
+
+msgid "play note %d.note for %n beats"
+msgstr "ເຮັດໃຫ້ໂນດເພງ %d.note ດັງ %n ເທື່ອ"
+
+msgid "play sound %m.sound"
+msgstr "ສຽງ %m.sound"
+
+msgid "play sound %m.sound until done"
+msgstr "ສຽງ %m.sound ຈົນກ່ວາເຮັດ"
+
+msgid "point in direction %d.direction"
+msgstr "ຊີ້ມື ທິດທາງ%d.direction"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "ຊີ້ມື ທິດທາງ %m.spriteOrMouse"
+
+msgid "repeat %n"
+msgstr "ຊ້ໍາ ທີ່ໃຊ້ເວລາທີ %n"
+
+msgid "repeat until %b"
+msgstr "ເຮັດເລື້ມຄືນຈົນກ່ວາ %b"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "ທົດແທນ ລາຍການ %d.listItem  %s"
+
+msgid "reset timer"
+msgstr "ປັບ ໂມງຈັບເວລາ"
+
+msgid "rest for %n beats"
+msgstr "%nເຊົາຈັ້ງ %n ເທື່ອ"
+
+msgid "round %n"
+msgstr "ປັດຂື້ນ %n"
+
+msgid "say %s"
+msgstr "ເວົ້າ %s"
+
+msgid "say %s for %n secs"
+msgstr "ເວົ້າ %s %n ວິນາທີ"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "ຮູ້ສຸກ %m.booleanSensor?"
+
+msgid "set %m.effect effect to %n"
+msgstr "ກໍານົດ ຜົນກະທົບ %m.effect %n"
+
+msgid "set %m.motor power to %n"
+msgstr ""
+
+msgid "set %m.motor2 direction to %m.motorDirection"
+msgstr "ທີ່ກໍານົດໄວ້ %m.motor2 ທິດທາງ %m.motorDirection"
+
+msgid "set %m.var to %s"
+msgstr "ກໍານົດ %m.var ເປັນ %s"
+
+msgid "set instrument to %d.instrument"
+msgstr "ກໍານົດ ເຄື່ອງມື %d.instrument"
+
+msgid "set pen color to %c"
+msgstr "ກໍານົດ ສີ ບິກ ເປັນ %c"
+
+msgid "set pen color to %n"
+msgstr "ກໍານົດ ສີ ບິກ ເປັນ %c"
+
+msgid "set pen shade to %n"
+msgstr "ກໍານົດ ຮົ່ມ  ບິກ ເປັນ %c"
+
+msgid "set pen size to %n"
+msgstr "ກໍານົດ ຂະຫນາດ ບິກ ເປັນ %n"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr "ກໍານົດ ຊົງພືດຫມູນວຽນ ເປັນ %m.rotationStyle"
+
+msgid "set size to %n%"
+msgstr "ກໍານົດ ຂະຫນາດ ເປັນ %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "ກໍານົດ ຈັງຫວະ ເປັນ %n bpm"
+
+msgid "set video transparency to %n%"
+msgstr "ເຮັດໃຫ້ຄວາມໃສຫາ %n%"
+
+msgid "set volume to %n%"
+msgstr "ກໍານົດ ລະດັບ ສຽນ ເປັນ %n%"
+
+msgid "set x to %n"
+msgstr "ກໍານົດໄວ້ ຕໍາແຫນ່ງ x ເປັນ %n"
+
+msgid "set y to %n"
+msgstr "ກໍານົດໄວ້ ຕໍາແຫນ່ງ y ເປັນ %n"
+
+msgid "show"
+msgstr "ປະກົດຕົວອອກມາ"
+
+msgid "show list %m.list"
+msgstr "ປະກົດຕົວອອກມາ ລາຍການ %m.list"
+
+msgid "show variable %m.var"
+msgstr "ປະກົດຕົວອອກມາ ການປ່ຽນແປງ %m.var"
+
+msgid "size"
+msgstr "ຂະຫນາດ"
+
+msgid "stamp"
+msgstr "ສະແຕມ"
+
+msgid "stop %m.stop"
+msgstr "ຢຸດເຊົາການ %m.stop"
+
+msgid "stop all sounds"
+msgstr "ຢຸດເຊົາການສຽງທັງຫມົດ"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop"
+msgstr "ຫຼັບ ສິ່ງຫຍໍ້ທໍ້ ກັບ %m.backdrop"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr "ຫຼັບ ສິ່ງຫຍໍ້ທໍ້ ກັບ %m.backdrop ແລະລໍຖ້າ"
+
+msgid "switch costume to %m.costume"
+msgstr "ປ່ຽນຊຸດແຕ່ງຕົວຫາ %m.costume"
+
+msgid "tempo"
+msgstr "ຈັງຫວະ"
+
+msgid "think %s"
+msgstr "ຄິດວ່າ %s"
+
+msgid "think %s for %n secs"
+msgstr "ຄິດວ່າ %s %n ວິນາທີ"
+
+msgid "tilt"
+msgstr "ຄວາມເນີ້ງ"
+
+msgid "timer"
+msgstr "ເຄື່ອງຕັ້ງເວລາ"
+
+msgid "touching %m.touching?"
+msgstr "ສໍາຜັດ %m.touching?"
+
+msgid "touching color %c?"
+msgstr "ສໍາຜັດສີ %c"
+
+msgid "turn %m.motor off"
+msgstr "ປິດ %m.motor"
+
+msgid "turn %m.motor on"
+msgstr "ເປີດ %m.motor"
+
+msgid "turn %m.motor on for %n secs"
+msgstr "ເປີດ %m.motor %n  ວິນາທີ"
+
+msgid "turn @turnLeft %n degrees"
+msgstr "ລ້ຽວ @turnLeft %n ອົງສາ"
+
+msgid "turn @turnRight %n degrees"
+msgstr "ລ້ຽວ @turnLeft %n ອົງສາ"
+
+msgid "turn video %m.videoState"
+msgstr "ຜັນ ວິດີໂອ %m.videoState"
+
+msgid "username"
+msgstr "ຊື່ຜູ້ໃຊ້"
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr "%m.videoMotionType %m.stageOrThis ຂອງ ວິດີໂອ"
+
+msgid "volume"
+msgstr "ລະດັບສຽນ"
+
+msgid "wait %n secs"
+msgstr "ລໍຖ້າ %n ວິນາທີ"
+
+msgid "wait until %b"
+msgstr "ລໍຖ້າຈົນກ່ວາ %b"
+
+msgid "when %m.booleanSensor"
+msgstr "ໃນເວລາທີ່ %m.booleanSensor"
+
+msgid "when %m.key key pressed"
+msgstr "ໃນເວລາທີ່ ປຸ່ມ %m.key ກົດດັນ"
+
+msgid "when %m.sensor %m.lessMore %n"
+msgstr "ໃນເວລາທີ່ %m.sensor %m.lessMore %n"
+
+msgid "when %m.triggerSensor > %n"
+msgstr "ໃນເວລາທີ່ %m.triggerSensor > %n"
+
+msgid "when @greenFlag clicked"
+msgstr "ໃນເວລາທີ່ @greenFlag ຄລິກໃສ່"
+
+msgid "when I receive %m.broadcast"
+msgstr "ໃນເວລາທີ່ ຂ້ອຍໄດ້ຮັບ %m.broadcast"
+
+msgid "when I start as a clone"
+msgstr ""
+
+msgid "when Stage clicked"
+msgstr "ໃນເວລາຂັ້ນຕອນຂອງການຖືກຄລິກ"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "when backdrop switches to %m.backdrop"
+msgstr "ໃນເວລາທີ່ ສິ່ງຫຍໍ້ທໍ້ ປ່ຽນ ກັບ %m.backdrop"
+
+msgid "when distance %m.lessMore %n"
+msgstr "ໃນເວລາທີ່ ໄລຍະທາງ %m.lessMore %n"
+
+msgid "when this sprite clicked"
+msgstr "ໃນເວລາທີ່ spriteນີ້ ຄລິກໃສ່"
+
+msgid "when tilt %m.eNe %n"
+msgstr "ເວລາຄວາມເນີ້ງແມ່ນ %m.eNe %n"
+
+msgid "x position"
+msgstr "ຕໍາແຫນ່ງ x"
+
+msgid "y position"
+msgstr "ຕໍາແຫນ່ງ y"

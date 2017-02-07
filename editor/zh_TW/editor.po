@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2016-12-17 12:34+0000\n"
+"PO-Revision-Date: 2017-02-04 16:16+0000\n"
 "Last-Translator: dnowba <d.now.ba@gmail.com>\n"
 "Language-Team: Chinese (traditional)  <zh-l10n@lists.linux.org.tw>\n"
 "Language: zh_TW\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1481978086.000000\n"
+"X-POOTLE-MTIME: 1486224985.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -24,14 +24,14 @@ msgid ""
 "removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
 "\">see the cloud data FAQ!</a>"
 msgstr ""
-"<b>關於雲端變數的資訊</b><br>&nbsp;<br>目前只支援使用數字<br>無法使用聊天室，並且會被移除。<br>了解更多資訊，<a href="
-"\"/help/faq/#clouddata\" target=\"_blank\">請參考雲端資料FAQ！</a>"
+"<b>關於雲端變數的資訊</b><br>&nbsp;<br>目前只支援使用數字。<br>不允許建立聊天室程式，會被移除。<br>若要了解更多資訊，<a "
+"href=\"/help/faq/#clouddata\" target=\"_blank\">請參考雲端資料常見問答！</a>"
 
 msgid "A connected"
 msgstr "A 已連接"
 
 msgid "a copy of the project file on your computer."
-msgstr "有一個專案的副本存在您的電腦上。"
+msgstr "這個專案的複本在你的電腦。"
 
 msgid "A newer version of Scratch is available"
 msgstr "已有新版本的 Scratch 可用"
@@ -49,7 +49,7 @@ msgid "abs"
 msgstr "絕對值"
 
 msgid "Account settings"
-msgstr "用戶設定"
+msgstr "帳戶設定"
 
 msgid "acos"
 msgstr "acos"
@@ -76,7 +76,7 @@ msgid "Add number input:"
 msgstr "添加數字輸入方塊："
 
 msgid "Add string input:"
-msgstr "添加字串輸入方塊："
+msgstr "添加文字輸入方塊："
 
 msgid "all"
 msgstr "全部"
@@ -152,7 +152,7 @@ msgid ""
 "Because you have a new Scratch account, any changes to cloud data won't be "
 "saved yet. Keep participating on the site you'll be able to use cloud data "
 "soon!"
-msgstr "由於您有了新的 Scratch 帳號，任何雲端資料的變更並未儲存。請繼續留在網站上，您很快就能夠使用雲端資料了！"
+msgstr "由於你有了新的 Scratch 帳戶，任何雲端資料的變更將不會儲存。繼續參與站台的活動，很快的你就能使用雲端資料了！"
 
 msgid "Bitmap"
 msgstr "點陣圖"
@@ -224,7 +224,7 @@ msgid "Cello"
 msgstr "大提琴"
 
 msgid "Check for updates"
-msgstr "檢查新版本"
+msgstr "檢查版本更新"
 
 msgid "Choir"
 msgstr "唱詩"
@@ -254,7 +254,7 @@ msgid "Claves"
 msgstr "梆子"
 
 msgid "clean up"
-msgstr "整理程式區"
+msgstr "整理工作區"
 
 msgid "Clear"
 msgstr "清除"
@@ -290,7 +290,7 @@ msgid "Conga"
 msgstr "康加鼓"
 
 msgid "Connecting to Cloud data server..."
-msgstr "正在連線到雲端資料伺服器…"
+msgstr "正在連接雲端資料伺服器…"
 
 msgid "Convert to bitmap"
 msgstr "轉換成點陣圖"
@@ -299,7 +299,7 @@ msgid "Convert to vector"
 msgstr "轉換成向量圖"
 
 msgid "Converting mp3..."
-msgstr "正在轉換成 mp3 檔…"
+msgstr "正在轉換 mp3…"
 
 msgid "copy"
 msgstr "複製"
@@ -396,7 +396,7 @@ msgid "Download"
 msgstr "下載"
 
 msgid "Download to your computer"
-msgstr "下載到您的電腦"
+msgstr "下載到電腦"
 
 #~ msgid "Downloading new version"
 #~ msgstr "正在下載更新版本"
@@ -541,7 +541,7 @@ msgid "Hardware"
 msgstr "硬體"
 
 msgid "help"
-msgstr "說明"
+msgstr "幫助"
 
 #~ msgid "Hello!"
 #~ msgstr "你好！"
@@ -653,7 +653,7 @@ msgid "Low C"
 msgstr "低音 C"
 
 msgid "Make a Block"
-msgstr "建立自訂積木"
+msgstr "添加函式積木"
 
 msgid "Make a List"
 msgstr "建立一個清單"
@@ -706,8 +706,9 @@ msgstr "動作"
 #~ msgid "motor B"
 #~ msgstr "馬達 B"
 
+# 台灣使用者回饋：建議維持滑鼠游標
 msgid "mouse-pointer"
-msgstr "鼠標"
+msgstr "滑鼠游標"
 
 msgid "Multiple"
 msgstr "多重"
@@ -785,10 +786,10 @@ msgstr "正常顯示"
 #~ msgstr "不等於"
 
 msgid "Not saved; network or server problem."
-msgstr "尚未儲存，網路或伺服器發生問題。"
+msgstr "無法儲存，網路或伺服器發生問題。"
 
 msgid "Not saved; project did not load."
-msgstr "尚未儲存；專案尚未載入。"
+msgstr "無法儲存，專案尚未載入。"
 
 msgid "of"
 msgstr "之"
@@ -905,7 +906,7 @@ msgid "Record"
 msgstr "錄音"
 
 msgid "Record new sound"
-msgstr "用麥克風裝置錄製新音效"
+msgstr "用麥克風錄製新音效"
 
 msgid "record..."
 msgstr "錄音…"
@@ -963,10 +964,10 @@ msgid "reverse"
 msgstr "反轉"
 
 msgid "Revert"
-msgstr "復原"
+msgstr "還原"
 
 msgid "Reverting..."
-msgstr "正在復原…"
+msgstr "正在還原…"
 
 msgid "right"
 msgstr "右"
@@ -978,19 +979,19 @@ msgid "rotation style:"
 msgstr "迴轉方式："
 
 msgid "Run without screen refresh"
-msgstr "執行（屏幕不刷新）"
+msgstr "運行（屏幕不刷新）"
 
 msgid "Save"
 msgstr "儲存"
 
 msgid "Save a copy of this project and add your own ideas."
-msgstr "儲存此專案的副本並加入您的點子。"
+msgstr "建立專案複本並加入你的點子。"
 
 msgid "Save as"
 msgstr "另存"
 
 msgid "Save as a copy"
-msgstr "存為副本"
+msgstr "另存成複本"
 
 msgid "Save now"
 msgstr "儲存"
@@ -1014,7 +1015,7 @@ msgid "Saxophone"
 msgstr "薩克斯風"
 
 msgid "Scratch Updater"
-msgstr "Scratch 更新管理器"
+msgstr "Scratch 更新器"
 
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Scratch 2.0 離線編輯器"
@@ -1118,7 +1119,7 @@ msgid "Slider Range"
 msgstr "滑桿數值範圍"
 
 msgid "Small stage layout"
-msgstr "縮小預覽介面"
+msgstr "小舞台版面"
 
 msgid "Smooth"
 msgstr "平滑的"
@@ -1232,7 +1233,7 @@ msgstr "這個專案使用了「用戶名稱」積木，可以偵測誰正在使
 msgid ""
 "This project uses Cloud data ‒ a feature that is available only to signed in "
 "users."
-msgstr "這個專案使用了「雲端資料」- 只有已登入使用者才能使用此功能。"
+msgstr "這個專案使用了「雲端資料」- 只有登入的用戶才能使用此功能。"
 
 msgid "this script"
 msgstr "這個程式"
@@ -1244,7 +1245,7 @@ msgid "this way"
 msgstr "向右轉"
 
 msgid "Throw away all changes since opening this project?"
-msgstr "確定放棄對這個專案所做的變更嗎？"
+msgstr "確定要放棄在這個專案上做的任何變更嗎？"
 
 msgid "timer"
 msgstr "計時器"
@@ -1253,7 +1254,7 @@ msgid "Tips"
 msgstr "技巧"
 
 msgid "To delete a block definition, first remove all uses of the block."
-msgstr "刪除某個積木的定義之前，要先把正在使用中的先刪除。"
+msgstr "刪除某個積木的定義之前，要先把正在使用中的先移除。"
 
 msgid "Transportation"
 msgstr "交通"
@@ -1268,7 +1269,7 @@ msgstr "長號"
 #~ msgstr "真"
 
 msgid "Turbo mode"
-msgstr "切換成加速模式"
+msgstr "加速模式"
 
 msgid "Turbo Mode"
 msgstr "加速模式"
@@ -1309,7 +1310,7 @@ msgid "Update failed"
 msgstr "更新失敗"
 
 msgid "Update not needed"
-msgstr "不需要更新"
+msgstr "不需更新"
 
 msgid "Update now"
 msgstr "立即更新"
@@ -1321,7 +1322,7 @@ msgid "Upload costume from file"
 msgstr "從電腦中挑選造型"
 
 msgid "Upload from your computer"
-msgstr "從電腦中挑選"
+msgstr "從電腦挑選"
 
 msgid "Upload sound from file"
 msgstr "從電腦中挑選音效"
@@ -1357,7 +1358,7 @@ msgid "Vibraslap"
 msgstr "振盪器"
 
 msgid "video direction"
-msgstr "影片方向"
+msgstr "視訊方向"
 
 msgid "video motion"
 msgstr "視訊動作"
@@ -1472,7 +1473,7 @@ msgstr "匯入實驗性 HTTP 擴充功能"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr "正在載入說明檔案…"
+msgstr "正在載入幫助檔案…"
 
 # Offline editor only
 msgid "Manual Update Available"
@@ -1496,7 +1497,7 @@ msgstr "是否取代現有專案？"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr "執行預先發行版"
+msgstr "正在運行發行前版本"
 
 # Offline editor only
 msgid "Save Project"

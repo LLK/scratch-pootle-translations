@@ -1,0 +1,465 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-23 20:02+0100\n"
+"PO-Revision-Date: 2017-01-30 10:58+0000\n"
+"Last-Translator: Islom <salomshox@gmail.com>\n"
+"Language-Team: \n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1485773916.000000\n"
+
+msgid "%b and %b"
+msgstr "%b va %b"
+
+msgid "%b or %b"
+msgstr "%b yoki %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.attribute %m.spriteOrStage"
+
+msgid "%m.list contains %s?"
+msgstr ""
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp %n"
+
+msgid "%m.sensor sensor value"
+msgstr ""
+
+msgid "%n mod %n"
+msgstr "%n ni %n ga qoldiqli bo'l"
+
+msgid "Control"
+msgstr "Boshqaruvchi"
+
+msgid "Data"
+msgstr "Ma'lumot"
+
+msgid "Events"
+msgstr "Hodisalar"
+
+msgid "Looks"
+msgstr "Ko'rnish"
+
+msgid "More Blocks"
+msgstr "Yana Bloklar"
+
+msgid "Motion"
+msgstr "Harakat"
+
+msgid "Operators"
+msgstr "Amallar"
+
+msgid "Pen"
+msgstr "Ruchika"
+
+msgid "Sensing"
+msgstr "Sezgirlik"
+
+msgid "Sound"
+msgstr "Ovoz"
+
+msgid "add %s to %m.list"
+msgstr ""
+
+msgid "answer"
+msgstr "javob"
+
+msgid "ask %s and wait"
+msgstr "%s ni so'ra va kut"
+
+msgid "backdrop #"
+msgstr ""
+
+msgid "backdrop name"
+msgstr "orqa fon nomi"
+
+msgid "broadcast %m.broadcast"
+msgstr "%m.broadcast ni tarqat"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "%m.broadcast ni tarqat va kut"
+
+msgid "change %m.effect effect by %n"
+msgstr "%m.effect effektni %n ga o'zgartir"
+
+msgid "change %m.var by %n"
+msgstr ""
+
+msgid "change pen color by %n"
+msgstr "ruchka rangini %n ga o'zgartir"
+
+msgid "change pen shade by %n"
+msgstr "ruchkani to'qligini %n ga o'zgartir"
+
+msgid "change pen size by %n"
+msgstr "ruchka o'lchamini %n ga o'zgartir"
+
+msgid "change size by %n"
+msgstr "o'lchamni %n ga o'zgartir"
+
+msgid "change tempo by %n"
+msgstr "tempni %n ga o'zgartir"
+
+msgid "change volume by %n"
+msgstr "ovozni %n ga o'zgartir"
+
+msgid "change x by %n"
+msgstr "x bo'yab %n o'zgartir"
+
+msgid "change y by %n"
+msgstr "y bo'yab %n o'zgartir"
+
+msgid "clear"
+msgstr "tozala"
+
+msgid "clear graphic effects"
+msgstr "grafik effektlarni tozala"
+
+msgid "color %c is touching %c?"
+msgstr "%c rang %c ga tegingan"
+
+msgid "costume #"
+msgstr "kiyim #"
+
+msgid "create clone of %m.spriteOnly"
+msgstr "%m.spriteOnly ning nusxasini yarat"
+
+msgid "current %m.timeAndDate"
+msgstr "hozirgi %m.timeAndDate"
+
+msgid "days since 2000"
+msgstr "2000-yildan keyingi kunlar"
+
+msgid "define"
+msgstr ""
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr ""
+
+msgid "delete this clone"
+msgstr "bu nusxani o'chir"
+
+msgid "direction"
+msgstr "yo'nalish"
+
+msgid "distance"
+msgstr ""
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "%m.spriteOrMouse gacha"
+
+msgid "else"
+msgstr "aks holda"
+
+msgid "forever"
+msgstr "har doim"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr ""
+
+msgid "go back %n layers"
+msgstr "orqaga %n qatlam o'tkaz"
+
+msgid "go to %m.location"
+msgstr "%m.location ga bor"
+
+msgid "go to front"
+msgstr "oldinga o'tkaz"
+
+msgid "go to x:%n y:%n"
+msgstr "x:%n y:%n ga bor"
+
+msgid "hide"
+msgstr "berkit"
+
+msgid "hide list %m.list"
+msgstr ""
+
+msgid "hide variable %m.var"
+msgstr ""
+
+msgid "if %b then"
+msgstr "agar %b dan keyin"
+
+msgid "if on edge, bounce"
+msgstr "agar chegarada bo'lsa qayt"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr ""
+
+msgid "item %d.listItem of %m.list"
+msgstr ""
+
+msgid "join %s %s"
+msgstr "%s ni %s ga qo'sh"
+
+msgid "key %m.key pressed?"
+msgstr "%m.key tugma bosilgan"
+
+msgid "length of %m.list"
+msgstr "%m.list ning uzunligi"
+
+msgid "length of %s"
+msgstr ""
+
+msgid "letter %n of %s"
+msgstr "%n chi harfi %s dagi"
+
+msgid "loudness"
+msgstr "tovush"
+
+msgid "mouse down?"
+msgstr "sichqoncha bosilgan"
+
+msgid "mouse x"
+msgstr "sichiqoncha x da"
+
+msgid "mouse y"
+msgstr "sichiqoncha y da"
+
+msgid "move %n steps"
+msgstr "yur %n qadam"
+
+msgid "next backdrop"
+msgstr ""
+
+msgid "next costume"
+msgstr "keyingi kiyim"
+
+msgid "not %b"
+msgstr "%b bo'lmas"
+
+msgid "pen down"
+msgstr "ruchkani tushir"
+
+msgid "pen up"
+msgstr "ruchkani ko'tar"
+
+msgid "pick random %n to %n"
+msgstr " %n dan %n gacha taxminiy ol"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "%d.drum barabanni %n zarbda ijro et"
+
+msgid "play note %d.note for %n beats"
+msgstr "%d.note notani %n zarbda ijro et"
+
+msgid "play sound %m.sound"
+msgstr "%m.sound ni ijro et"
+
+msgid "play sound %m.sound until done"
+msgstr "tuguncha %m.sound ni ijro et"
+
+msgid "point in direction %d.direction"
+msgstr "yo`nalishdagi manzil %d.direction"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "nuqta tomonga %m.spriteOrMouse"
+
+msgid "repeat %n"
+msgstr "%n marta takrorla"
+
+msgid "repeat until %b"
+msgstr "%b gacha takrorla"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr ""
+
+msgid "reset timer"
+msgstr "taymerni qaytar"
+
+msgid "rest for %n beats"
+msgstr "%n zarba tanaffus"
+
+msgid "round %n"
+msgstr "%n ni yaxlidla"
+
+msgid "say %s"
+msgstr "%s ni ayt"
+
+msgid "say %s for %n secs"
+msgstr "%s ni %n soniya ayt"
+
+msgid "sensor %m.booleanSensor?"
+msgstr ""
+
+msgid "set %m.effect effect to %n"
+msgstr "%m.effect effektni %n ga sozla"
+
+msgid "set %m.motor power to %n"
+msgstr ""
+
+msgid "set %m.motor2 direction to %m.motorDirection"
+msgstr ""
+
+msgid "set %m.var to %s"
+msgstr ""
+
+msgid "set instrument to %d.instrument"
+msgstr "asbobni %d.instrument ga sozla"
+
+msgid "set pen color to %c"
+msgstr "ruchka rangini %c ga sozla"
+
+msgid "set pen color to %n"
+msgstr "ruchka rangini %n ga sozla"
+
+msgid "set pen shade to %n"
+msgstr "ruchka to'qligini %n ga sozla"
+
+msgid "set pen size to %n"
+msgstr "ruchka o'lchamini %n ga sozla"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr "burulishni %m.rotationStyle ga sozla"
+
+msgid "set size to %n%"
+msgstr "o'lchamni %n ga sozla"
+
+msgid "set tempo to %n bpm"
+msgstr "tempni %n zarb/min ga sozla"
+
+msgid "set video transparency to %n%"
+msgstr "video tiniqligini %n% ga sozla"
+
+msgid "set volume to %n%"
+msgstr "ovozni %n% ga sozla"
+
+msgid "set x to %n"
+msgstr "x bo'yab %n ga joylashtir"
+
+msgid "set y to %n"
+msgstr "y bo'yab %n ga joylashtir"
+
+msgid "show"
+msgstr "ko'rsat"
+
+msgid "show list %m.list"
+msgstr ""
+
+msgid "show variable %m.var"
+msgstr ""
+
+msgid "size"
+msgstr "o'lcham"
+
+msgid "stamp"
+msgstr "shtamp"
+
+msgid "stop %m.stop"
+msgstr "%m.stop ni to'xtat"
+
+msgid "stop all sounds"
+msgstr "hamma ovozlarni to'xtat"
+
+msgid "switch backdrop to %m.backdrop"
+msgstr "fonni %m.backdrop ga o'zgartir"
+
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr ""
+
+msgid "switch costume to %m.costume"
+msgstr "kiyimni %m.costume ga o'zgartir"
+
+msgid "tempo"
+msgstr "temp"
+
+msgid "think %s"
+msgstr "o'yla %s"
+
+msgid "think %s for %n secs"
+msgstr "%s ni %n soniya o'yla"
+
+msgid "tilt"
+msgstr ""
+
+msgid "timer"
+msgstr "taymer"
+
+msgid "touching %m.touching?"
+msgstr "%m.touching ni tegingan"
+
+msgid "touching color %c?"
+msgstr "%c rangiga tegingan"
+
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
+msgstr ""
+
+msgid "turn @turnLeft %n degrees"
+msgstr "burul @turnLeft %n daraja"
+
+msgid "turn @turnRight %n degrees"
+msgstr "burul @turnRight %n daraja"
+
+msgid "turn video %m.videoState"
+msgstr "videoni %m.videoState"
+
+msgid "username"
+msgstr "foydalanuvchi ismi"
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr "video %m.videoMotionType %m.stageOrThis da"
+
+msgid "volume"
+msgstr "ovoz"
+
+msgid "wait %n secs"
+msgstr "%n soniya kut"
+
+msgid "wait until %b"
+msgstr "%b gacha kut"
+
+msgid "when %m.booleanSensor"
+msgstr ""
+
+msgid "when %m.key key pressed"
+msgstr "%m.key tugmasi bosilganda"
+
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
+msgid "when %m.triggerSensor > %n"
+msgstr "%m.triggerSensor > %n da"
+
+msgid "when @greenFlag clicked"
+msgstr "@greenFlag ni bosilganda"
+
+msgid "when I receive %m.broadcast"
+msgstr "%m.broadcast qabul qilinganda"
+
+msgid "when I start as a clone"
+msgstr "men nusxa sifatida boshlaganda"
+
+msgid "when Stage clicked"
+msgstr ""
+
+msgid "when backdrop switches to %m.backdrop"
+msgstr "orqa fon %m.backdrop ga o'zgartirilganda"
+
+msgid "when distance %m.lessMore %n"
+msgstr ""
+
+msgid "when this sprite clicked"
+msgstr "sprayt bosilganda"
+
+msgid "when tilt %m.eNe %n"
+msgstr ""
+
+msgid "x position"
+msgstr "x joylashuv"
+
+msgid "y position"
+msgstr "y joylashuv"

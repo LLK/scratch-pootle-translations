@@ -1,0 +1,474 @@
+#. #-#-#-#-#  commands-online.pot (PACKAGE VERSION)  #-#-#-#-#
+#. extracted from commands-online.txt
+#. #-#-#-#-#  commands-offline.pot (PACKAGE VERSION)  #-#-#-#-#
+#. extracted from commands-offline.txt
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-23 20:02+0100\n"
+"PO-Revision-Date: 2016-05-03 08:44+0000\n"
+"Last-Translator: ernst_kotze <ernst_kotze@yahoo.co.uk>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1462265040.000000\n"
+
+msgid "%b and %b"
+msgstr "%b en %b"
+
+msgid "%b or %b"
+msgstr "%b of %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.attribute van %m.spriteOrStage"
+
+msgid "%m.list contains %s?"
+msgstr "%m.list bevat %s?"
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp van %n"
+
+msgid "%m.sensor sensor value"
+msgstr "waarde van sensor %m.sensor"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+#, fuzzy
+msgid "Control"
+msgstr "Beheer"
+
+msgid "Data"
+msgstr "Data"
+
+msgid "Events"
+msgstr ""
+
+msgid "Looks"
+msgstr ""
+
+msgid "More Blocks"
+msgstr "Meer blokke"
+
+msgid "Motion"
+msgstr "Beweging"
+
+msgid "Operators"
+msgstr ""
+
+msgid "Pen"
+msgstr "Pen"
+
+msgid "Sensing"
+msgstr ""
+
+msgid "Sound"
+msgstr "Klank"
+
+msgid "add %s to %m.list"
+msgstr ""
+
+msgid "answer"
+msgstr "antwoord"
+
+msgid "ask %s and wait"
+msgstr "vra %s en wag"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop #"
+msgstr "agtergrond #"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop name"
+msgstr "agtergrond naam"
+
+msgid "broadcast %m.broadcast"
+msgstr ""
+
+msgid "broadcast %m.broadcast and wait"
+msgstr ""
+
+msgid "change %m.effect effect by %n"
+msgstr ""
+
+msgid "change %m.var by %n"
+msgstr ""
+
+msgid "change pen color by %n"
+msgstr "verander penkleur met %n"
+
+#, fuzzy
+msgid "change pen shade by %n"
+msgstr "verander penkleur met %n"
+
+#, fuzzy
+msgid "change pen size by %n"
+msgstr "verander penkleur met %n"
+
+msgid "change size by %n"
+msgstr ""
+
+msgid "change tempo by %n"
+msgstr "verander tempo met %n"
+
+msgid "change volume by %n"
+msgstr "verander volume met %n"
+
+msgid "change x by %n"
+msgstr ""
+
+msgid "change y by %n"
+msgstr ""
+
+msgid "clear"
+msgstr ""
+
+msgid "clear graphic effects"
+msgstr ""
+
+msgid "color %c is touching %c?"
+msgstr ""
+
+msgid "costume #"
+msgstr ""
+
+msgid "create clone of %m.spriteOnly"
+msgstr ""
+
+msgid "current %m.timeAndDate"
+msgstr ""
+
+msgid "days since 2000"
+msgstr ""
+
+msgid "define"
+msgstr ""
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr ""
+
+msgid "delete this clone"
+msgstr ""
+
+msgid "direction"
+msgstr ""
+
+msgid "distance"
+msgstr ""
+
+msgid "distance to %m.spriteOrMouse"
+msgstr ""
+
+msgid "else"
+msgstr ""
+
+msgid "forever"
+msgstr ""
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr ""
+
+msgid "go back %n layers"
+msgstr ""
+
+msgid "go to %m.location"
+msgstr ""
+
+msgid "go to front"
+msgstr ""
+
+msgid "go to x:%n y:%n"
+msgstr ""
+
+msgid "hide"
+msgstr ""
+
+msgid "hide list %m.list"
+msgstr ""
+
+msgid "hide variable %m.var"
+msgstr ""
+
+msgid "if %b then"
+msgstr ""
+
+msgid "if on edge, bounce"
+msgstr ""
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr ""
+
+msgid "item %d.listItem of %m.list"
+msgstr ""
+
+msgid "join %s %s"
+msgstr ""
+
+msgid "key %m.key pressed?"
+msgstr ""
+
+msgid "length of %m.list"
+msgstr ""
+
+msgid "length of %s"
+msgstr ""
+
+msgid "letter %n of %s"
+msgstr ""
+
+msgid "loudness"
+msgstr ""
+
+msgid "mouse down?"
+msgstr ""
+
+msgid "mouse x"
+msgstr ""
+
+msgid "mouse y"
+msgstr ""
+
+msgid "move %n steps"
+msgstr ""
+
+msgid "next backdrop"
+msgstr ""
+
+msgid "next costume"
+msgstr ""
+
+msgid "not %b"
+msgstr ""
+
+msgid "pen down"
+msgstr ""
+
+msgid "pen up"
+msgstr ""
+
+msgid "pick random %n to %n"
+msgstr ""
+
+msgid "play drum %d.drum for %n beats"
+msgstr ""
+
+msgid "play note %d.note for %n beats"
+msgstr ""
+
+msgid "play sound %m.sound"
+msgstr ""
+
+msgid "play sound %m.sound until done"
+msgstr ""
+
+msgid "point in direction %d.direction"
+msgstr ""
+
+msgid "point towards %m.spriteOrMouse"
+msgstr ""
+
+msgid "repeat %n"
+msgstr ""
+
+msgid "repeat until %b"
+msgstr ""
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr ""
+
+msgid "reset timer"
+msgstr ""
+
+msgid "rest for %n beats"
+msgstr ""
+
+msgid "round %n"
+msgstr ""
+
+msgid "say %s"
+msgstr ""
+
+msgid "say %s for %n secs"
+msgstr ""
+
+msgid "sensor %m.booleanSensor?"
+msgstr ""
+
+msgid "set %m.effect effect to %n"
+msgstr ""
+
+msgid "set %m.motor power to %n"
+msgstr ""
+
+msgid "set %m.motor2 direction to %m.motorDirection"
+msgstr ""
+
+msgid "set %m.var to %s"
+msgstr ""
+
+msgid "set instrument to %d.instrument"
+msgstr ""
+
+msgid "set pen color to %c"
+msgstr ""
+
+msgid "set pen color to %n"
+msgstr ""
+
+msgid "set pen shade to %n"
+msgstr ""
+
+msgid "set pen size to %n"
+msgstr ""
+
+msgid "set rotation style %m.rotationStyle"
+msgstr ""
+
+msgid "set size to %n%"
+msgstr ""
+
+msgid "set tempo to %n bpm"
+msgstr ""
+
+msgid "set video transparency to %n%"
+msgstr ""
+
+msgid "set volume to %n%"
+msgstr ""
+
+msgid "set x to %n"
+msgstr ""
+
+msgid "set y to %n"
+msgstr ""
+
+msgid "show"
+msgstr ""
+
+msgid "show list %m.list"
+msgstr ""
+
+msgid "show variable %m.var"
+msgstr ""
+
+msgid "size"
+msgstr ""
+
+msgid "stamp"
+msgstr ""
+
+msgid "stop %m.stop"
+msgstr ""
+
+msgid "stop all sounds"
+msgstr ""
+
+msgid "switch backdrop to %m.backdrop"
+msgstr ""
+
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr ""
+
+msgid "switch costume to %m.costume"
+msgstr ""
+
+msgid "tempo"
+msgstr ""
+
+msgid "think %s"
+msgstr ""
+
+msgid "think %s for %n secs"
+msgstr ""
+
+msgid "tilt"
+msgstr ""
+
+msgid "timer"
+msgstr ""
+
+msgid "touching %m.touching?"
+msgstr ""
+
+msgid "touching color %c?"
+msgstr ""
+
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
+msgstr ""
+
+msgid "turn @turnLeft %n degrees"
+msgstr ""
+
+msgid "turn @turnRight %n degrees"
+msgstr ""
+
+msgid "turn video %m.videoState"
+msgstr ""
+
+msgid "username"
+msgstr ""
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr ""
+
+msgid "volume"
+msgstr ""
+
+msgid "wait %n secs"
+msgstr ""
+
+msgid "wait until %b"
+msgstr ""
+
+msgid "when %m.booleanSensor"
+msgstr ""
+
+msgid "when %m.key key pressed"
+msgstr ""
+
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
+msgid "when %m.triggerSensor > %n"
+msgstr ""
+
+msgid "when @greenFlag clicked"
+msgstr ""
+
+msgid "when I receive %m.broadcast"
+msgstr ""
+
+msgid "when I start as a clone"
+msgstr ""
+
+msgid "when Stage clicked"
+msgstr ""
+
+msgid "when backdrop switches to %m.backdrop"
+msgstr ""
+
+msgid "when distance %m.lessMore %n"
+msgstr ""
+
+msgid "when this sprite clicked"
+msgstr ""
+
+msgid "when tilt %m.eNe %n"
+msgstr ""
+
+msgid "x position"
+msgstr ""
+
+msgid "y position"
+msgstr ""

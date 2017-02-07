@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-12-24 13:45+0000\n"
+"PO-Revision-Date: 2017-02-04 16:49+0000\n"
 "Last-Translator: dnowba <d.now.ba@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_TW\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1482587107.000000\n"
+"X-POOTLE-MTIME: 1486226946.000000\n"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
@@ -48,10 +48,10 @@ msgid "add %s to %m.list"
 msgstr "新增項目 %s ( %m.list )"
 
 msgid "answer"
-msgstr "答案"
+msgstr "詢問的答案"
 
 msgid "ask %s and wait"
-msgstr "提問 %s 並等待"
+msgstr "詢問 %s 並等待"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
@@ -94,7 +94,7 @@ msgstr "尺寸改變 %n"
 
 # tempo 樂理上叫 音樂速度，和節奏不大一樣。
 msgid "change tempo by %n"
-msgstr "音樂速度改變 %n"
+msgstr "演奏速度改變 %n"
 
 # 孩子很容易把「改變」和「設為」搞混，change by 在中文上並不好翻，所以我比較支持 1.4 裡的叫法，就叫它「增加」，意指就目前的值加上指定的值，若數字是負值，比方說 -50，讀起來就是「增加負 50」，在對孩子說明這就是「減 50」的意思後，通常他們都能有明顯的區別。
 msgid "change volume by %n"
@@ -130,7 +130,7 @@ msgid "create clone of %m.spriteOnly"
 msgstr "分身 %m.spriteOnly 建立"
 
 msgid "current %m.timeAndDate"
-msgstr "當前的 %m.timeAndDate"
+msgstr "目前時間的 %m.timeAndDate"
 
 # 加上了"數" 會產生 "數字、數學"的聯想。然而data本質上就是有各種類型，非僅"數字'
 msgid "Data"
@@ -145,7 +145,7 @@ msgstr "定義"
 
 # item應是項目，而非選項option
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "刪除第 %d.listDeleteItem 項目 ( %m.list )"
+msgstr "刪除第 %d.listDeleteItem 項 ( %m.list )"
 
 # 分身建立、分身刪除…把「分身」這個重要的詞優先放在前面，容易辨識。
 msgid "delete this clone"
@@ -169,7 +169,7 @@ msgstr "事件"
 
 # 循環跟重複這二個詞我都用過，同學齡的小孩子對循環，做完再做…做完再做…這樣比較懂意思。
 msgid "forever"
-msgstr "循環無限次"
+msgstr "重複無限次"
 
 # 動作裡有「移動xx點」的積木，所以我覺得這裡可以把動詞放在前面，和「移動」相對。
 msgid "glide %n secs to x:%n y:%n"
@@ -212,7 +212,7 @@ msgid "insert %s at %d.listItem of %m.list"
 msgstr "添加 %s 為第 %d.listItem 項( %m.list )"
 
 msgid "item %d.listItem of %m.list"
-msgstr "清單第 %d.listItem 項( %m.list )"
+msgstr "清單第 %d.listItem 項項目( %m.list )"
 
 # 把字串這個重要的字寫出來，才知道後面輸入什麼東西。
 msgid "join %s %s"
@@ -248,13 +248,13 @@ msgstr "動作"
 msgid "mouse down?"
 msgstr "滑鼠鍵被按下？"
 
-# 描述的重點是「位置」，因此講出：「滑鼠位置」
+# 台灣使用者回饋：慣用滑鼠游標
 msgid "mouse x"
-msgstr "鼠標的 x"
+msgstr "滑鼠游標的 x"
 
-# 應該是滑鼠游標，但那樣太多字，我建議就用大陸常用的鼠標來代替，也可以和游標做區隔。另外座標二字也可以拿掉，在教完孩子座標系統後，直接說 x y 他們都可以理解。
+# 台灣使用者回饋：慣用滑鼠游標
 msgid "mouse y"
-msgstr "鼠標的 y"
+msgstr "滑鼠游標的 y"
 
 # 用步來描述有時候小孩子並無法正確理解，比方說，恐龍的一步怎麼和螞蟻的一步距離一樣大，我覺得這裡直接用像素「點」的概念來說比較好，在解釋座標系統的時候小孩子也比較容易懂。
 msgid "move %n steps"
@@ -310,36 +310,36 @@ msgstr "面朝 %d.direction 度"
 
 # 我的建議是和「面朝xx度」做對襯句，一方面排版好看些，也能做清楚的對比。
 msgid "point towards %m.spriteOrMouse"
-msgstr "面朝 %m.spriteOrMouse 方向"
+msgstr "面朝 %m.spriteOrMouse 向"
 
 # 對孩子來說，循環比重複來得容易理解。因為重複是不停的做一樣的、相同的事情，但程式中的迴圈可不是每一次都相同…比方說 for n as 0 to 9，其實 n 不會重複的都是 0，而是整件事情做完再循環的做。
 msgid "repeat %n"
-msgstr "循環 %n 次"
+msgstr "重複 %n 次"
 
 # 程式中的迴圈可不是每一次都相同…比方說 for n as 0 to 9，其實 n 不會重複的都是 0，而是整件事情做完再循環的做。
 msgid "repeat until %b"
-msgstr "循環直到 %b"
+msgstr "重複直到 %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "替換第 %d.listItem 項( %m.list )成 %s"
+msgstr "替換第 %d.listItem 項於 %m.list 成 %s"
 
 # 把主詞移到前面，容易一下就找到要用的功能。
 msgid "reset timer"
 msgstr "計時器重置"
 
 msgid "rest for %n beats"
-msgstr "休息 %n 拍"
+msgstr "演奏休息 %n 拍"
 
 msgid "round %n"
 msgstr "四捨五入數值 %n"
 
 # 「說」、跟「想著」的差異是泡泡圖形，這或許是因為以前遊戲，表達角色說話的時候是用對話泡泡
 msgid "say %s"
-msgstr "說道 %s"
+msgstr "說出 %s"
 
 # 和另一個積木「想著」做對照，「說」在中文就是有聲音的，「說道」是小說常出現的詞，我覺得比較容易聯想，孩子比較容易理解，知道這不是真的的「說」，只是在畫面上顯示「說話的內容」。
 msgid "say %s for %n secs"
-msgstr "說道 %s %n 秒"
+msgstr "說出 %s %n 秒"
 
 # 小孩子就是比較瞭解「感測」這個詞，大概是比較偏「感覺」吧。
 msgid "Sensing"
@@ -347,7 +347,7 @@ msgstr "偵測"
 
 # 偵測這個詞沒有錯，但就是很不動態，「感測」是我覺得比較好的詞。「感應」這詞也行，只是「測」和英文的「sor」音更相近，我覺得很適合。
 msgid "sensor %m.booleanSensor?"
-msgstr "感測器 %m.booleanSensor？"
+msgstr "偵測器 %m.booleanSensor？"
 
 msgid "set %m.effect effect to %n"
 msgstr "效果 %m.effect 設為 %n"
@@ -358,11 +358,11 @@ msgstr "變數 %m.var 設為 %s"
 
 # 把主詞移到前面
 msgid "set instrument to %d.instrument"
-msgstr "樂器設為 %d.instrument"
+msgstr "演奏樂器設為 %d.instrument"
 
 # 把主詞移到前面
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "%m.motor2 方向設為 %m.motorDirection"
+msgstr "%m.motor2 的方向設為 %m.motorDirection"
 
 # 把主詞移到前面
 msgid "set %m.motor power to %n"
@@ -394,7 +394,7 @@ msgstr "尺寸設為 %n% "
 
 # tempo 是音樂速度，樂理上沒有更好的翻法…所以我覺得還是要以根本為主。
 msgid "set tempo to %n bpm"
-msgstr "音樂速度設為 %n bpm"
+msgstr "演奏速度設為 %n bpm"
 
 # 主詞移到前面
 msgid "set video transparency to %n%"
@@ -452,7 +452,7 @@ msgstr "造型換成 %m.costume"
 
 # tempo 在樂理上叫音樂速度，好像沒有更好的叫法，若有問題請指正。
 msgid "tempo"
-msgstr "音樂速度"
+msgstr "演奏速度"
 
 msgid "think %s"
 msgstr "想著 %s"
@@ -500,10 +500,10 @@ msgstr "視訊設為 %m.videoState"
 # use:使用；user: 使用者；account: 帳號
 # 翻譯為：使用者，可以保留use的原意。 也像：learn (學習), learner (學習者)
 msgid "username"
-msgstr "使用者名稱"
+msgstr "用戶名稱"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr "視訊的 %m.videoMotionType ( %m.stageOrThis )"
+msgstr "視訊 %m.videoMotionType ( %m.stageOrThis )"
 
 msgid "volume"
 msgstr "音量"
