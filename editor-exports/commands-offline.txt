@@ -75,6 +75,7 @@ pen up
 pick random %n to %n
 play drum %d.drum for %n beats
 play note %d.note for %n beats
+play note %d.note for %n seconds
 play sound %m.sound
 play sound %m.sound until done
 point in direction %d.direction
@@ -90,10 +91,12 @@ say %s for %n secs
 Sensing
 sensor %m.booleanSensor?
 set %m.effect effect to %n
+set %m.motor direction to %m.motorDir
 set %m.motor power to %n
 set %m.motor2 direction to %m.motorDirection
 set %m.var to %s
 set instrument to %d.instrument
+set light color to %n
 set pen color to %c
 set pen color to %n
 set pen shade to %n
@@ -120,6 +123,8 @@ tempo
 think %s
 think %s for %n secs
 tilt
+tilt angle %m.tiltDir
+tilted %m.tiltDirAny ?
 timer
 touching %m.touching?
 touching color %c?
@@ -146,6 +151,7 @@ when I start as a clone
 when Stage clicked
 when this sprite clicked
 when tilt %m.eNe %n
+when tilted %m.tiltDirAny
 x position
 y position
 

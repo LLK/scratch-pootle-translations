@@ -24,8 +24,8 @@ assets loaded
 atan
 B connected
 Back a layer
-Backdrop
 backdrop
+Backdrop
 backdrop #
 Backdrop Library
 backdrop name
@@ -102,8 +102,8 @@ D connected
 Dance
 date
 day of week
-delete
 Delete
+delete
 delete variable
 direction
 direction:
@@ -114,12 +114,12 @@ down arrow
 Download
 Download to your computer
 Dress-Up
-Duplicate
 duplicate
+Duplicate
 e ^
 edge
-Edit
 edit
+Edit
 Edit Block
 Effects
 Electric Guitar
@@ -160,8 +160,8 @@ High C
 Holiday
 hour
 Human
-import
 Import
+import
 Importing sound...
 Indoors
 Installing...
@@ -266,6 +266,7 @@ Project not saved!
 random
 random position
 Record
+Record & Export Video
 Record new sound
 record...
 recording1
@@ -308,8 +309,8 @@ Select
 select all
 Select and duplicate
 Send to back
-Set costume center
 Set Costume Center
+Set costume center
 set slider min and max
 Share
 shared
@@ -349,8 +350,8 @@ Synth Lead
 Synth Pad
 Tambourine
 tan
-text
 Text
+text
 that way
 Theme
 Things
@@ -366,8 +367,8 @@ To delete a block definition, first remove all uses of the block.
 Transportation
 Triangle
 Trombone
-Turbo mode
 Turbo Mode
+Turbo mode
 Type
 Undelete
 Underwater
