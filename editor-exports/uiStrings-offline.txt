@@ -12,8 +12,8 @@ add comment
 Add label text:
 Add number input:
 Add string input:
-all
 All
+all
 all around
 All Tips
 An updated version of the Scratch offline editor is available on the Scratch website.
@@ -107,12 +107,12 @@ down
 down arrow
 Downloading new version...
 Dress-Up
-Duplicate
 duplicate
+Duplicate
 e ^
 edge
-Edit
 edit
+Edit
 Edit Block
 Effects
 Electric Guitar
@@ -153,8 +153,8 @@ High C
 Holiday
 hour
 Human
-Import
 import
+Import
 Import experimental HTTP extension
 Importing sound...
 Indoors
@@ -219,6 +219,7 @@ New sprite:
 New Variable
 next backdrop
 No motion blocks
+No, Thanks
 normal readout
 Not saved; project did not load.
 off
@@ -265,8 +266,8 @@ Record Project Video
 record...
 recording1
 Rectangle
-redo
 Redo
+redo
 Remove Background
 Rename
 rename variable
@@ -324,8 +325,8 @@ Sound
 sound
 Sound Library
 Sounds
-Space
 space
+Space
 Sports
 Sprite
 Sprite Library
@@ -344,6 +345,8 @@ tan
 Text
 text
 that way
+The information we collect includes language selection, blocks usage, and some events like saving, loading, and uploading a project. We DO NOT collect any personal information. Please see our <a href='https://scratch.mit.edu/privacy_policy/'>Privacy Policy</a> for more information.
+The Scratch Team is always looking to better understand how Scratch is used around the world. To help support this effort, you can allow Scratch to automatically send usage information to the Scratch Team.
 Theme
 Things
 This is the current version.
@@ -401,6 +404,7 @@ whirl
 Wood Block
 Wooden Flute
 year
+Yes, I'd Like To Help Improve Scratch
 Your project has been uploaded to scratch.mit.edu
 Your Scratch name
 Your Scratch name is required
